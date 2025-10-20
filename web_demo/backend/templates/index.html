@@ -1,0 +1,396 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hệ thống Đề xuất Sản phẩm - HUIT Big Data</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+    <style>
+        .hero-section {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 80px 0;
+        }
+        .feature-card {
+            transition: transform 0.3s ease;
+            height: 100%;
+        }
+        .feature-card:hover {
+            transform: translateY(-5px);
+        }
+        .product-card {
+            border: none;
+            box-shadow: 0 2px 15px rgba(0,0,0,0.1);
+            transition: all 0.3s ease;
+        }
+        .product-card:hover {
+            box-shadow: 0 5px 25px rgba(0,0,0,0.15);
+        }
+        .search-section {
+            background-color: #f8f9fa;
+            padding: 50px 0;
+        }
+    </style>
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container">
+            <a class="navbar-brand" href="#"><i class="fas fa-shopping-cart"></i> HUIT E-Commerce</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="#home">Trang chủ</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#features">Tính năng</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#products">Sản phẩm</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/dashboard">Dashboard</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section id="home" class="hero-section">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-6">
+                    <h1 class="display-4 fw-bold mb-4">Hệ thống Đề xuất Sản phẩm Thông minh</h1>
+                    <p class="lead mb-4">Sử dụng công nghệ Big Data và Machine Learning để phân tích hành vi khách hàng và đề xuất sản phẩm phù hợp nhất.</p>
+                    <div class="mb-4">
+                        <input type="text" class="form-control form-control-lg" id="customerIdInput" placeholder="Nhập Customer ID để xem đề xuất (ví dụ: CUST001)">
+                    </div>
+                    <button class="btn btn-light btn-lg me-3" onclick="getRecommendations()">
+                        <i class="fas fa-star"></i> Xem Đề xuất
+                    </button>
+                    <button class="btn btn-outline-light btn-lg" onclick="showTrending()">
+                        <i class="fas fa-fire"></i> Sản phẩm Hot
+                    </button>
+                </div>
+                <div class="col-lg-6">
+                    <div class="text-center">
+                        <i class="fas fa-brain fa-10x opacity-75"></i>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Features Section -->
+    <section id="features" class="py-5">
+        <div class="container">
+            <div class="row text-center mb-5">
+                <div class="col-12">
+                    <h2 class="display-5 fw-bold">Tính năng Nổi bật</h2>
+                    <p class="lead text-muted">Khám phá các tính năng mạnh mẽ của hệ thống</p>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-4 mb-4">
+                    <div class="card feature-card">
+                        <div class="card-body text-center p-4">
+                            <i class="fas fa-users fa-3x text-primary mb-3"></i>
+                            <h5 class="card-title">Collaborative Filtering</h5>
+                            <p class="card-text">Đề xuất dựa trên hành vi của những khách hàng có sở thích tương tự</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 mb-4">
+                    <div class="card feature-card">
+                        <div class="card-body text-center p-4">
+                            <i class="fas fa-tags fa-3x text-success mb-3"></i>
+                            <h5 class="card-title">Content-Based</h5>
+                            <p class="card-text">Đề xuất sản phẩm tương tự dựa trên đặc điểm và thuộc tính sản phẩm</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 mb-4">
+                    <div class="card feature-card">
+                        <div class="card-body text-center p-4">
+                            <i class="fas fa-chart-line fa-3x text-warning mb-3"></i>
+                            <h5 class="card-title">Analytics</h5>
+                            <p class="card-text">Phân tích xu hướng và báo cáo chi tiết về hành vi mua sắm</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Search Section -->
+    <section class="search-section">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-lg-8">
+                    <div class="text-center mb-4">
+                        <h3>Tìm kiếm Sản phẩm</h3>
+                    </div>
+                    <div class="card">
+                        <div class="card-body">
+                            <div class="row">
+                                <div class="col-md-6 mb-3">
+                                    <input type="text" class="form-control" id="searchQuery" placeholder="Tìm kiếm sản phẩm...">
+                                </div>
+                                <div class="col-md-3 mb-3">
+                                    <select class="form-select" id="categoryFilter">
+                                        <option value="">Tất cả danh mục</option>
+                                    </select>
+                                </div>
+                                <div class="col-md-3 mb-3">
+                                    <button class="btn btn-primary w-100" onclick="searchProducts()">
+                                        <i class="fas fa-search"></i> Tìm kiếm
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Products Section -->
+    <section id="products" class="py-5">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 mb-4">
+                    <h3 id="productsTitle">Sản phẩm Đề xuất</h3>
+                </div>
+            </div>
+            <div class="row" id="productsContainer">
+                <!-- Products will be loaded here -->
+                <div class="col-12 text-center">
+                    <div class="spinner-border text-primary" role="status">
+                        <span class="visually-hidden">Loading...</span>
+                    </div>
+                    <p class="mt-2">Đang tải sản phẩm...</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="bg-dark text-light py-4">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6">
+                    <h5>HUIT Big Data Project</h5>
+                    <p>Hệ thống phân tích dữ liệu mua sắm trực tuyến sử dụng Apache Spark và Machine Learning</p>
+                </div>
+                <div class="col-md-6 text-md-end">
+                    <p>&copy; 2024 Đại học Công nghiệp TP.HCM. All rights reserved.</p>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Bootstrap JS -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+    
+    <!-- Custom JavaScript -->
+    <script>
+        const API_BASE = '/api';
+
+        // Load categories on page load
+        document.addEventListener('DOMContentLoaded', function() {
+            loadCategories();
+            showTrending();
+        });
+
+        async function loadCategories() {
+            try {
+                const response = await fetch(`${API_BASE}/categories`);
+                const data = await response.json();
+                
+                if (data.success) {
+                    const categorySelect = document.getElementById('categoryFilter');
+                    categorySelect.innerHTML = '<option value="">Tất cả danh mục</option>';
+                    
+                    data.data.forEach(category => {
+                        const option = document.createElement('option');
+                        option.value = category;
+                        option.textContent = category;
+                        categorySelect.appendChild(option);
+                    });
+                }
+            } catch (error) {
+                console.error('Error loading categories:', error);
+            }
+        }
+
+        async function getRecommendations() {
+            const customerId = document.getElementById('customerIdInput').value.trim();
+            
+            if (!customerId) {
+                alert('Vui lòng nhập Customer ID');
+                return;
+            }
+
+            showLoading();
+            document.getElementById('productsTitle').textContent = `Đề xuất cho khách hàng ${customerId}`;
+
+            try {
+                const response = await fetch(`${API_BASE}/customer/${customerId}/recommendations?limit=12`);
+                const data = await response.json();
+                
+                if (data.success && data.data.length > 0) {
+                    displayProducts(data.data);
+                } else {
+                    showNoResults('Không tìm thấy đề xuất cho khách hàng này. Vui lòng thử Customer ID khác (ví dụ: CUST001, CUST002).');
+                }
+            } catch (error) {
+                console.error('Error getting recommendations:', error);
+                showError('Lỗi khi lấy đề xuất. Vui lòng thử lại.');
+            }
+        }
+
+        async function showTrending() {
+            showLoading();
+            document.getElementById('productsTitle').textContent = 'Sản phẩm Trending';
+
+            try {
+                const response = await fetch(`${API_BASE}/products/trending?limit=12`);
+                const data = await response.json();
+                
+                if (data.success) {
+                    displayProducts(data.data);
+                } else {
+                    showNoResults('Không có dữ liệu trending.');
+                }
+            } catch (error) {
+                console.error('Error getting trending products:', error);
+                showError('Lỗi khi lấy sản phẩm trending.');
+            }
+        }
+
+        async function searchProducts() {
+            const query = document.getElementById('searchQuery').value.trim();
+            const category = document.getElementById('categoryFilter').value;
+            
+            showLoading();
+            document.getElementById('productsTitle').textContent = 'Kết quả tìm kiếm';
+
+            try {
+                let url = `${API_BASE}/products/search?limit=12`;
+                if (query) url += `&q=${encodeURIComponent(query)}`;
+                if (category) url += `&category=${encodeURIComponent(category)}`;
+
+                const response = await fetch(url);
+                const data = await response.json();
+                
+                if (data.success && data.data.length > 0) {
+                    displayProducts(data.data);
+                } else {
+                    showNoResults('Không tìm thấy sản phẩm nào phù hợp.');
+                }
+            } catch (error) {
+                console.error('Error searching products:', error);
+                showError('Lỗi khi tìm kiếm sản phẩm.');
+            }
+        }
+
+        function displayProducts(products) {
+            const container = document.getElementById('productsContainer');
+            container.innerHTML = '';
+
+            products.forEach(product => {
+                const productCard = createProductCard(product);
+                container.appendChild(productCard);
+            });
+        }
+
+        function createProductCard(product) {
+            const col = document.createElement('div');
+            col.className = 'col-lg-3 col-md-4 col-sm-6 mb-4';
+
+            // Format price
+            const price = product.price || 0;
+            const formattedPrice = new Intl.NumberFormat('vi-VN', {
+                style: 'currency',
+                currency: 'VND'
+            }).format(price);
+
+            col.innerHTML = `
+                <div class="card product-card h-100">
+                    <div class="card-img-top bg-light d-flex align-items-center justify-content-center" style="height: 200px;">
+                        <i class="fas fa-box fa-3x text-muted"></i>
+                    </div>
+                    <div class="card-body d-flex flex-column">
+                        <h6 class="card-title">${product.product_name || 'N/A'}</h6>
+                        <p class="card-text text-muted small">${product.category || 'N/A'}</p>
+                        <p class="card-text"><strong>${formattedPrice}</strong></p>
+                        <div class="mt-auto">
+                            <button class="btn btn-primary btn-sm w-100" onclick="showProductDetails('${product.product_id}')">
+                                <i class="fas fa-eye"></i> Xem chi tiết
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            `;
+
+            return col;
+        }
+
+        function showProductDetails(productId) {
+            // In a real application, this would show a product detail modal
+            alert(`Xem chi tiết sản phẩm: ${productId}`);
+        }
+
+        function showLoading() {
+            const container = document.getElementById('productsContainer');
+            container.innerHTML = `
+                <div class="col-12 text-center">
+                    <div class="spinner-border text-primary" role="status">
+                        <span class="visually-hidden">Loading...</span>
+                    </div>
+                    <p class="mt-2">Đang tải...</p>
+                </div>
+            `;
+        }
+
+        function showNoResults(message) {
+            const container = document.getElementById('productsContainer');
+            container.innerHTML = `
+                <div class="col-12 text-center">
+                    <i class="fas fa-search fa-3x text-muted mb-3"></i>
+                    <p class="text-muted">${message}</p>
+                </div>
+            `;
+        }
+
+        function showError(message) {
+            const container = document.getElementById('productsContainer');
+            container.innerHTML = `
+                <div class="col-12 text-center">
+                    <i class="fas fa-exclamation-triangle fa-3x text-warning mb-3"></i>
+                    <p class="text-muted">${message}</p>
+                </div>
+            `;
+        }
+
+        // Search on Enter key
+        document.getElementById('searchQuery').addEventListener('keypress', function(e) {
+            if (e.key === 'Enter') {
+                searchProducts();
+            }
+        });
+
+        // Customer ID input on Enter key
+        document.getElementById('customerIdInput').addEventListener('keypress', function(e) {
+            if (e.key === 'Enter') {
+                getRecommendations();
+            }
+        });
+    </script>
+</body>
+</html>

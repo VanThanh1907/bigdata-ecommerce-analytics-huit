@@ -1,0 +1,23 @@
+{
+  "generation_date": "2025-10-20T20:55:57.313862",
+  "total_customers": 1000,
+  "total_products": 500,
+  "total_transactions": 10000,
+  "date_range": {
+    "start": "2025-01-24 03:29:54",
+    "end": "2025-10-20 20:54:54"
+  },
+  "categories": [
+    "Jewelry",
+    "Food & Beverages",
+    "Toys & Games",
+    "Beauty & Health",
+    "Automotive",
+    "Books",
+    "Home & Garden",
+    "Sports & Outdoors",
+    "Clothing",
+    "Electronics"
+  ],
+  "total_revenue": 185049887327.0
+}

@@ -1,0 +1,16 @@
+customer_id,age,gender,income,spending_score,city,purchase_amount,category,rating
+C001,23,Female,15000,39,Ho Chi Minh,1250000,Electronics,4.2
+C002,31,Female,20000,81,Ha Noi,2100000,Fashion,4.8
+C003,40,Female,16000,6,Da Nang,750000,Books,3.5
+C004,50,Female,17000,77,Can Tho,1850000,Home,4.1
+C005,31,Male,18000,40,Ho Chi Minh,980000,Sports,3.9
+C006,22,Male,15000,76,Hai Phong,2250000,Electronics,4.6
+C007,35,Male,19000,94,Hue,3100000,Fashion,4.9
+C008,23,Male,16000,3,Nha Trang,520000,Books,3.2
+C009,64,Male,17000,14,Bien Hoa,890000,Home,3.7
+C010,30,Female,18000,84,Ho Chi Minh,2750000,Electronics,4.7
+C011,67,Female,19000,17,Ha Noi,1100000,Health,3.8
+C012,35,Female,18000,26,Da Nang,1350000,Sports,4.0
+C013,22,Male,16000,81,Can Tho,2400000,Fashion,4.5
+C014,35,Male,17000,5,Ho Chi Minh,680000,Books,3.3
+C015,41,Female,18000,65,Hai Phong,1950000,Electronics,4.3

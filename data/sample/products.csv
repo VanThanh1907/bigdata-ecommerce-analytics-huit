@@ -1,0 +1,501 @@
+﻿product_id,product_name,category,brand,price,description,rating,stock_quantity,weight,dimensions
+PROD000001,Apple Deluxe Phone,Jewelry,Apple,2737656,High quality apple deluxe phone from Apple,3.8,911,42.4,9x13x8 cm
+PROD000002,Samsung Modern Bag,Food & Beverages,Samsung,348301,High quality samsung modern bag from Samsung,3.9,104,33.91,40x8x23 cm
+PROD000003,Canon Deluxe Bag,Toys & Games,Canon,1824311,High quality canon deluxe bag from Canon,3.5,613,39.39,44x5x34 cm
+PROD000004,Dell Wireless Bag,Toys & Games,Dell,2697241,High quality dell wireless bag from Dell,3.2,666,46.89,6x34x38 cm
+PROD000005,Asus Classic Laptop,Beauty & Health,Asus,315355,High quality asus classic laptop from Asus,3.0,730,3.47,17x41x13 cm
+PROD000006,Sony Smart Shirt,Automotive,Sony,65612320,High quality sony smart shirt from Sony,4.4,455,9.38,13x7x8 cm
+PROD000007,Sony Eco-Friendly Shirt,Books,Sony,319025,High quality sony eco-friendly shirt from Sony,4.9,772,17.95,42x39x14 cm
+PROD000008,Dell Modern Bag,Books,Dell,229778,High quality dell modern bag from Dell,3.6,993,0.5,42x47x48 cm
+PROD000009,Samsung Classic Shoes,Books,Samsung,479488,High quality samsung classic shoes from Samsung,4.7,879,2.82,27x17x17 cm
+PROD000010,Uniqlo Deluxe Camera,Home & Garden,Uniqlo,3376859,High quality uniqlo deluxe camera from Uniqlo,4.3,711,34.62,34x43x49 cm
+PROD000011,Levi's Eco-Friendly Bag,Beauty & Health,Levi's,803931,High quality levi's eco-friendly bag from Levi's,4.2,428,16.5,11x34x7 cm
+PROD000012,Adidas Premium Book,Food & Beverages,Adidas,136929,High quality adidas premium book from Adidas,4.4,477,31.23,20x35x26 cm
+PROD000013,Adidas Wireless Tablet,Toys & Games,Adidas,128208,High quality adidas wireless tablet from Adidas,3.7,75,17.96,40x12x14 cm
+PROD000014,Dell Classic Book,Sports & Outdoors,Dell,10126187,High quality dell classic book from Dell,4.8,368,2.29,6x17x17 cm
+PROD000015,Nike Classic Headphones,Sports & Outdoors,Nike,12360078,High quality nike classic headphones from Nike,3.3,867,27.77,16x17x6 cm
+PROD000016,Levi's Modern Laptop,Books,Levi's,61006,High quality levi's modern laptop from Levi's,4.7,140,19.01,12x26x18 cm
+PROD000017,Dell Classic Camera,Sports & Outdoors,Dell,13880951,High quality dell classic camera from Dell,3.7,175,47.06,44x32x50 cm
+PROD000018,Apple Professional Tablet,Clothing,Apple,1690825,High quality apple professional tablet from Apple,3.4,387,34.75,25x43x32 cm
+PROD000019,Samsung Eco-Friendly Bag,Home & Garden,Samsung,3372607,High quality samsung eco-friendly bag from Samsung,4.7,301,39.5,25x20x8 cm
+PROD000020,Levi's Professional Shoes,Sports & Outdoors,Levi's,10099273,High quality levi's professional shoes from Levi's,4.8,214,36.39,35x47x44 cm
+PROD000021,Nike Advanced Shirt,Clothing,Nike,4371131,High quality nike advanced shirt from Nike,3.7,531,23.27,25x50x28 cm
+PROD000022,H&M Portable Chair,Automotive,H&M,67409861,High quality h&m portable chair from H&M,3.9,595,20.11,42x46x7 cm
+PROD000023,Adidas Classic Jeans,Home & Garden,Adidas,4132320,High quality adidas classic jeans from Adidas,3.8,313,21.31,29x41x15 cm
+PROD000024,Sony Advanced Laptop,Beauty & Health,Sony,381711,High quality sony advanced laptop from Sony,4.5,302,22.28,27x19x42 cm
+PROD000025,Dell Advanced Bag,Electronics,Dell,23073675,High quality dell advanced bag from Dell,3.9,478,21.68,28x36x25 cm
+PROD000026,Canon Premium Tablet,Sports & Outdoors,Canon,7710303,High quality canon premium tablet from Canon,3.5,660,3.89,10x23x37 cm
+PROD000027,HP Deluxe Lamp,Automotive,HP,38101128,High quality hp deluxe lamp from HP,4.9,100,6.02,28x7x39 cm
+PROD000028,LG Classic Book,Home & Garden,LG,5723752,High quality lg classic book from LG,3.5,763,40.8,48x22x17 cm
+PROD000029,Nike Advanced Headphones,Jewelry,Nike,1072698,High quality nike advanced headphones from Nike,4.5,288,41.13,30x30x42 cm
+PROD000030,Dell Advanced Lamp,Electronics,Dell,10518087,High quality dell advanced lamp from Dell,4.7,233,11.42,18x35x19 cm
+PROD000031,Asus Advanced Lamp,Automotive,Asus,63912993,High quality asus advanced lamp from Asus,4.4,472,17.1,10x25x17 cm
+PROD000032,Uniqlo Wireless Watch,Toys & Games,Uniqlo,1939960,High quality uniqlo wireless watch from Uniqlo,3.9,571,1.6,13x41x13 cm
+PROD000033,H&M Premium Jeans,Sports & Outdoors,H&M,13896279,High quality h&m premium jeans from H&M,4.3,363,17.06,31x32x48 cm
+PROD000034,Uniqlo Advanced Headphones,Toys & Games,Uniqlo,1467676,High quality uniqlo advanced headphones from Uniqlo,4.2,581,39.29,13x14x26 cm
+PROD000035,Zara Eco-Friendly Bag,Jewelry,Zara,39012349,High quality zara eco-friendly bag from Zara,4.7,390,10.29,30x9x39 cm
+PROD000036,Adidas Portable Laptop,Toys & Games,Adidas,1479260,High quality adidas portable laptop from Adidas,4.1,462,31.99,24x10x15 cm
+PROD000037,Zara Advanced Tablet,Clothing,Zara,368931,High quality zara advanced tablet from Zara,4.7,617,24.48,16x17x9 cm
+PROD000038,Sony Classic Watch,Toys & Games,Sony,1320985,High quality sony classic watch from Sony,4.3,71,22.79,28x38x5 cm
+PROD000039,LG Wireless Shirt,Books,LG,132331,High quality lg wireless shirt from LG,5.0,132,26.87,35x9x29 cm
+PROD000040,Nike Classic Headphones,Home & Garden,Nike,7451124,High quality nike classic headphones from Nike,4.6,680,23.79,43x41x24 cm
+PROD000041,Adidas Advanced Chair,Jewelry,Adidas,46458561,High quality adidas advanced chair from Adidas,3.9,206,0.47,14x33x9 cm
+PROD000042,Asus Classic Shoes,Toys & Games,Asus,1479470,High quality asus classic shoes from Asus,4.8,900,24.6,34x41x7 cm
+PROD000043,Sony Portable Camera,Clothing,Sony,2595180,High quality sony portable camera from Sony,3.8,843,40.52,16x31x20 cm
+PROD000044,Asus Wireless Jeans,Books,Asus,251675,High quality asus wireless jeans from Asus,4.8,187,34.96,11x30x49 cm
+PROD000045,Adidas Professional Headphones,Electronics,Adidas,42649950,High quality adidas professional headphones from Adidas,4.1,682,45.82,49x18x36 cm
+PROD000046,Uniqlo Advanced Laptop,Toys & Games,Uniqlo,1646574,High quality uniqlo advanced laptop from Uniqlo,3.2,107,25.27,25x31x33 cm
+PROD000047,Sony Classic Shoes,Books,Sony,73401,High quality sony classic shoes from Sony,3.9,74,31.98,48x34x29 cm
+PROD000048,H&M Wireless Watch,Beauty & Health,H&M,931886,High quality h&m wireless watch from H&M,3.1,256,5.82,13x25x47 cm
+PROD000049,Dell Portable Laptop,Food & Beverages,Dell,63279,High quality dell portable laptop from Dell,4.1,248,35.71,33x13x35 cm
+PROD000050,Levi's Professional Tablet,Sports & Outdoors,Levi's,14367626,High quality levi's professional tablet from Levi's,3.0,102,8.94,12x39x30 cm
+PROD000051,Apple Premium Book,Books,Apple,193262,High quality apple premium book from Apple,3.3,366,8.98,50x7x48 cm
+PROD000052,Adidas Portable Chair,Automotive,Adidas,7409704,High quality adidas portable chair from Adidas,4.7,830,26.19,47x50x47 cm
+PROD000053,Canon Modern Jeans,Clothing,Canon,539691,High quality canon modern jeans from Canon,4.2,49,38.64,17x20x28 cm
+PROD000054,Adidas Deluxe Phone,Home & Garden,Adidas,7274662,High quality adidas deluxe phone from Adidas,3.1,14,16.92,17x48x47 cm
+PROD000055,Adidas Deluxe Lamp,Clothing,Adidas,1508303,High quality adidas deluxe lamp from Adidas,4.4,45,20.84,11x25x25 cm
+PROD000056,Zara Classic Bag,Automotive,Zara,28799083,High quality zara classic bag from Zara,4.9,404,46.95,12x19x18 cm
+PROD000057,LG Smart Tablet,Clothing,LG,225783,High quality lg smart tablet from LG,3.8,323,0.7,18x34x19 cm
+PROD000058,Zara Modern Book,Clothing,Zara,3195228,High quality zara modern book from Zara,3.1,906,11.01,24x43x36 cm
+PROD000059,H&M Advanced Lamp,Clothing,H&M,4874838,High quality h&m advanced lamp from H&M,3.3,982,4.83,25x45x49 cm
+PROD000060,Zara Professional Camera,Toys & Games,Zara,835391,High quality zara professional camera from Zara,4.3,905,34.41,47x35x9 cm
+PROD000061,Samsung Eco-Friendly Bag,Beauty & Health,Samsung,1041435,High quality samsung eco-friendly bag from Samsung,3.8,655,37.12,37x42x50 cm
+PROD000062,Adidas Premium Bag,Electronics,Adidas,8825268,High quality adidas premium bag from Adidas,3.6,755,21.48,20x44x10 cm
+PROD000063,Nike Smart Jeans,Electronics,Nike,20405477,High quality nike smart jeans from Nike,3.4,384,10.3,7x20x43 cm
+PROD000064,H&M Smart Tablet,Food & Beverages,H&M,165818,High quality h&m smart tablet from H&M,3.6,805,38.05,38x31x46 cm
+PROD000065,Uniqlo Premium Watch,Sports & Outdoors,Uniqlo,14509208,High quality uniqlo premium watch from Uniqlo,4.5,350,12.19,39x8x47 cm
+PROD000066,Uniqlo Classic Bag,Home & Garden,Uniqlo,6600271,High quality uniqlo classic bag from Uniqlo,4.0,187,22.17,5x9x36 cm
+PROD000067,Adidas Premium Book,Clothing,Adidas,1287256,High quality adidas premium book from Adidas,4.9,128,4.68,42x40x18 cm
+PROD000068,HP Deluxe Shirt,Home & Garden,HP,8036205,High quality hp deluxe shirt from HP,3.6,738,9.96,32x16x43 cm
+PROD000069,Sony Modern Bag,Home & Garden,Sony,7720742,High quality sony modern bag from Sony,4.9,206,13.67,35x10x28 cm
+PROD000070,Canon Professional Jeans,Toys & Games,Canon,1951265,High quality canon professional jeans from Canon,3.8,624,36.77,14x35x6 cm
+PROD000071,Canon Deluxe Lamp,Toys & Games,Canon,1359262,High quality canon deluxe lamp from Canon,4.2,156,27.69,16x21x29 cm
+PROD000072,Sony Portable Headphones,Food & Beverages,Sony,216685,High quality sony portable headphones from Sony,4.1,492,3.69,13x50x35 cm
+PROD000073,Nike Classic Phone,Home & Garden,Nike,415323,High quality nike classic phone from Nike,4.7,747,36.29,36x30x31 cm
+PROD000074,H&M Smart Shirt,Toys & Games,H&M,2153326,High quality h&m smart shirt from H&M,3.6,602,3.65,7x12x29 cm
+PROD000075,Nike Classic Lamp,Jewelry,Nike,29779459,High quality nike classic lamp from Nike,4.9,789,45.66,27x37x50 cm
+PROD000076,Zara Smart Chair,Food & Beverages,Zara,50253,High quality zara smart chair from Zara,4.3,948,21.26,20x20x35 cm
+PROD000077,Levi's Smart Book,Electronics,Levi's,47916368,High quality levi's smart book from Levi's,4.4,714,33.32,14x21x43 cm
+PROD000078,Zara Professional Headphones,Food & Beverages,Zara,149716,High quality zara professional headphones from Zara,4.2,974,33.16,15x5x12 cm
+PROD000079,Zara Wireless Shirt,Clothing,Zara,774010,High quality zara wireless shirt from Zara,4.0,193,43.81,15x32x21 cm
+PROD000080,HP Advanced Book,Sports & Outdoors,HP,6722127,High quality hp advanced book from HP,4.2,751,20.64,10x11x45 cm
+PROD000081,Uniqlo Smart Tablet,Jewelry,Uniqlo,18553716,High quality uniqlo smart tablet from Uniqlo,4.5,952,37.44,49x24x5 cm
+PROD000082,Levi's Portable Phone,Books,Levi's,100788,High quality levi's portable phone from Levi's,3.1,713,20.95,31x46x23 cm
+PROD000083,Nike Professional Camera,Toys & Games,Nike,881818,High quality nike professional camera from Nike,4.4,202,24.37,37x12x33 cm
+PROD000084,Levi's Classic Tablet,Jewelry,Levi's,13984912,High quality levi's classic tablet from Levi's,3.1,187,40.48,17x21x31 cm
+PROD000085,Zara Eco-Friendly Laptop,Food & Beverages,Zara,475271,High quality zara eco-friendly laptop from Zara,4.3,81,14.73,29x12x22 cm
+PROD000086,LG Premium Bag,Clothing,LG,2069478,High quality lg premium bag from LG,4.0,688,38.05,5x8x22 cm
+PROD000087,Zara Eco-Friendly Lamp,Electronics,Zara,3309133,High quality zara eco-friendly lamp from Zara,3.2,534,39.61,29x43x38 cm
+PROD000088,Dell Portable Lamp,Sports & Outdoors,Dell,5954424,High quality dell portable lamp from Dell,4.2,344,18.6,26x25x20 cm
+PROD000089,Zara Wireless Shirt,Beauty & Health,Zara,1380959,High quality zara wireless shirt from Zara,3.1,364,43.67,11x5x34 cm
+PROD000090,H&M Professional Phone,Toys & Games,H&M,2624590,High quality h&m professional phone from H&M,3.2,543,14.05,49x20x28 cm
+PROD000091,Asus Portable Shoes,Food & Beverages,Asus,236597,High quality asus portable shoes from Asus,4.3,3,49.31,25x6x45 cm
+PROD000092,Levi's Premium Lamp,Beauty & Health,Levi's,1643111,High quality levi's premium lamp from Levi's,3.7,454,11.75,36x30x44 cm
+PROD000093,LG Wireless Jeans,Clothing,LG,942683,High quality lg wireless jeans from LG,4.5,300,30.4,50x14x38 cm
+PROD000094,Uniqlo Advanced Phone,Jewelry,Uniqlo,9080630,High quality uniqlo advanced phone from Uniqlo,4.0,89,15.14,48x40x34 cm
+PROD000095,Dell Deluxe Jeans,Books,Dell,397415,High quality dell deluxe jeans from Dell,4.1,249,10.66,47x49x10 cm
+PROD000096,Canon Premium Tablet,Clothing,Canon,2838887,High quality canon premium tablet from Canon,4.8,784,14.09,21x47x35 cm
+PROD000097,Zara Professional Shoes,Clothing,Zara,4226849,High quality zara professional shoes from Zara,3.2,708,16.71,19x41x43 cm
+PROD000098,Zara Smart Shirt,Clothing,Zara,3301516,High quality zara smart shirt from Zara,4.3,803,28.14,32x19x19 cm
+PROD000099,Apple Modern Laptop,Sports & Outdoors,Apple,2168688,High quality apple modern laptop from Apple,3.2,758,29.65,17x12x41 cm
+PROD000100,Nike Smart Shirt,Beauty & Health,Nike,1309882,High quality nike smart shirt from Nike,4.5,318,3.19,39x17x29 cm
+PROD000101,LG Smart Lamp,Toys & Games,LG,2949199,High quality lg smart lamp from LG,4.9,129,26.04,43x42x19 cm
+PROD000102,Canon Premium Shoes,Clothing,Canon,3963816,High quality canon premium shoes from Canon,3.6,835,47.15,19x36x48 cm
+PROD000103,Nike Eco-Friendly Headphones,Food & Beverages,Nike,96478,High quality nike eco-friendly headphones from Nike,4.5,869,40.08,49x7x43 cm
+PROD000104,Sony Advanced Chair,Beauty & Health,Sony,358922,High quality sony advanced chair from Sony,3.5,868,35.36,35x45x18 cm
+PROD000105,Sony Wireless Phone,Food & Beverages,Sony,444783,High quality sony wireless phone from Sony,3.7,847,35.87,19x49x8 cm
+PROD000106,Levi's Portable Chair,Books,Levi's,255420,High quality levi's portable chair from Levi's,3.6,834,33.0,15x6x40 cm
+PROD000107,LG Wireless Book,Toys & Games,LG,2085674,High quality lg wireless book from LG,5.0,775,19.63,9x38x23 cm
+PROD000108,H&M Classic Chair,Sports & Outdoors,H&M,14665528,High quality h&m classic chair from H&M,4.1,99,6.63,42x8x50 cm
+PROD000109,Dell Professional Bag,Sports & Outdoors,Dell,2607889,High quality dell professional bag from Dell,3.9,494,14.62,14x18x18 cm
+PROD000110,H&M Premium Camera,Home & Garden,H&M,9858342,High quality h&m premium camera from H&M,3.2,804,49.43,14x29x32 cm
+PROD000111,Samsung Deluxe Camera,Books,Samsung,298447,High quality samsung deluxe camera from Samsung,3.4,53,5.96,37x46x26 cm
+PROD000112,Canon Professional Book,Jewelry,Canon,48989537,High quality canon professional book from Canon,3.8,34,6.03,30x36x24 cm
+PROD000113,Nike Wireless Lamp,Jewelry,Nike,46925566,High quality nike wireless lamp from Nike,5.0,686,32.96,34x46x29 cm
+PROD000114,Zara Portable Camera,Sports & Outdoors,Zara,494656,High quality zara portable camera from Zara,3.2,84,6.19,46x47x37 cm
+PROD000115,Samsung Eco-Friendly Bag,Home & Garden,Samsung,9807146,High quality samsung eco-friendly bag from Samsung,4.0,710,37.29,42x16x29 cm
+PROD000116,Zara Wireless Headphones,Food & Beverages,Zara,319590,High quality zara wireless headphones from Zara,3.3,333,3.27,39x16x30 cm
+PROD000117,Canon Advanced Shoes,Electronics,Canon,36073580,High quality canon advanced shoes from Canon,4.0,531,41.87,39x50x46 cm
+PROD000118,Uniqlo Classic Book,Clothing,Uniqlo,1084202,High quality uniqlo classic book from Uniqlo,3.4,613,34.79,5x40x33 cm
+PROD000119,Apple Premium Tablet,Beauty & Health,Apple,1306032,High quality apple premium tablet from Apple,3.4,165,4.48,21x7x10 cm
+PROD000120,HP Modern Camera,Clothing,HP,4666985,High quality hp modern camera from HP,3.3,1000,47.27,5x20x24 cm
+PROD000121,HP Modern Book,Electronics,HP,36343005,High quality hp modern book from HP,3.9,590,24.57,25x38x27 cm
+PROD000122,HP Advanced Watch,Jewelry,HP,46666221,High quality hp advanced watch from HP,3.2,839,2.33,7x17x14 cm
+PROD000123,Levi's Classic Tablet,Sports & Outdoors,Levi's,10402306,High quality levi's classic tablet from Levi's,4.1,605,18.02,13x44x32 cm
+PROD000124,HP Modern Headphones,Clothing,HP,3302622,High quality hp modern headphones from HP,4.3,167,20.06,10x21x48 cm
+PROD000125,H&M Professional Shoes,Toys & Games,H&M,954643,High quality h&m professional shoes from H&M,3.1,750,13.54,45x49x46 cm
+PROD000126,H&M Smart Bag,Home & Garden,H&M,8780328,High quality h&m smart bag from H&M,4.2,429,41.1,25x32x29 cm
+PROD000127,Asus Classic Laptop,Electronics,Asus,18627797,High quality asus classic laptop from Asus,3.2,112,34.23,31x9x26 cm
+PROD000128,LG Smart Lamp,Clothing,LG,2392212,High quality lg smart lamp from LG,3.3,817,11.37,5x11x29 cm
+PROD000129,Canon Deluxe Lamp,Home & Garden,Canon,2272044,High quality canon deluxe lamp from Canon,3.4,745,43.79,42x36x11 cm
+PROD000130,LG Eco-Friendly Headphones,Automotive,LG,75026745,High quality lg eco-friendly headphones from LG,3.5,101,44.84,15x25x29 cm
+PROD000131,LG Advanced Shoes,Books,LG,361750,High quality lg advanced shoes from LG,4.8,412,23.9,13x21x5 cm
+PROD000132,H&M Professional Book,Automotive,H&M,17960874,High quality h&m professional book from H&M,3.3,581,36.8,8x45x28 cm
+PROD000133,Zara Eco-Friendly Shirt,Home & Garden,Zara,7880384,High quality zara eco-friendly shirt from Zara,3.4,362,39.94,37x23x22 cm
+PROD000134,HP Classic Headphones,Toys & Games,HP,2766047,High quality hp classic headphones from HP,4.7,970,15.35,25x10x45 cm
+PROD000135,Apple Classic Laptop,Clothing,Apple,1485069,High quality apple classic laptop from Apple,4.2,86,37.2,40x36x5 cm
+PROD000136,Zara Advanced Chair,Toys & Games,Zara,672222,High quality zara advanced chair from Zara,4.0,527,34.29,48x39x49 cm
+PROD000137,Canon Premium Bag,Clothing,Canon,1695379,High quality canon premium bag from Canon,4.8,763,0.46,32x49x39 cm
+PROD000138,Adidas Advanced Book,Beauty & Health,Adidas,1377571,High quality adidas advanced book from Adidas,3.1,459,48.24,48x38x19 cm
+PROD000139,Apple Smart Tablet,Books,Apple,319318,High quality apple smart tablet from Apple,3.7,52,21.19,29x15x28 cm
+PROD000140,LG Classic Shoes,Clothing,LG,1088726,High quality lg classic shoes from LG,3.6,494,14.75,18x5x45 cm
+PROD000141,Canon Classic Headphones,Jewelry,Canon,43649230,High quality canon classic headphones from Canon,4.0,914,1.87,34x44x36 cm
+PROD000142,LG Premium Bag,Electronics,LG,31393825,High quality lg premium bag from LG,3.7,362,5.45,27x16x30 cm
+PROD000143,Samsung Deluxe Shirt,Beauty & Health,Samsung,1131895,High quality samsung deluxe shirt from Samsung,3.4,541,25.76,14x31x12 cm
+PROD000144,Samsung Professional Lamp,Food & Beverages,Samsung,364265,High quality samsung professional lamp from Samsung,3.5,481,19.83,24x28x32 cm
+PROD000145,HP Modern Laptop,Books,HP,279938,High quality hp modern laptop from HP,4.3,449,8.18,27x32x5 cm
+PROD000146,Levi's Classic Laptop,Beauty & Health,Levi's,497550,High quality levi's classic laptop from Levi's,3.6,136,19.79,26x7x15 cm
+PROD000147,Dell Modern Laptop,Home & Garden,Dell,7264807,High quality dell modern laptop from Dell,4.0,507,40.01,50x13x25 cm
+PROD000148,HP Wireless Tablet,Toys & Games,HP,560252,High quality hp wireless tablet from HP,4.9,811,1.16,14x27x37 cm
+PROD000149,Uniqlo Classic Phone,Electronics,Uniqlo,46020634,High quality uniqlo classic phone from Uniqlo,4.7,439,48.82,5x32x35 cm
+PROD000150,Sony Portable Laptop,Sports & Outdoors,Sony,13065781,High quality sony portable laptop from Sony,3.9,632,7.71,37x16x20 cm
+PROD000151,Uniqlo Deluxe Headphones,Sports & Outdoors,Uniqlo,12060086,High quality uniqlo deluxe headphones from Uniqlo,3.5,840,21.52,35x50x11 cm
+PROD000152,Asus Professional Watch,Automotive,Asus,80349010,High quality asus professional watch from Asus,4.3,152,11.55,13x30x7 cm
+PROD000153,Adidas Professional Shirt,Sports & Outdoors,Adidas,596308,High quality adidas professional shirt from Adidas,4.2,93,43.23,29x31x38 cm
+PROD000154,H&M Classic Watch,Sports & Outdoors,H&M,5940128,High quality h&m classic watch from H&M,3.9,62,25.54,46x8x24 cm
+PROD000155,Sony Smart Headphones,Clothing,Sony,3044607,High quality sony smart headphones from Sony,4.4,252,16.06,8x16x7 cm
+PROD000156,Samsung Smart Watch,Electronics,Samsung,19647297,High quality samsung smart watch from Samsung,3.9,930,30.37,32x16x21 cm
+PROD000157,LG Smart Headphones,Food & Beverages,LG,78473,High quality lg smart headphones from LG,3.2,13,34.18,13x26x28 cm
+PROD000158,H&M Eco-Friendly Shoes,Beauty & Health,H&M,1368176,High quality h&m eco-friendly shoes from H&M,3.7,665,13.87,42x29x10 cm
+PROD000159,Nike Eco-Friendly Laptop,Clothing,Nike,444259,High quality nike eco-friendly laptop from Nike,4.2,934,44.21,17x17x50 cm
+PROD000160,Apple Deluxe Shoes,Food & Beverages,Apple,344539,High quality apple deluxe shoes from Apple,3.7,742,23.76,17x39x14 cm
+PROD000161,Nike Classic Shirt,Electronics,Nike,37443139,High quality nike classic shirt from Nike,4.4,912,43.87,40x27x28 cm
+PROD000162,Zara Deluxe Shirt,Food & Beverages,Zara,55498,High quality zara deluxe shirt from Zara,4.0,536,46.57,37x6x15 cm
+PROD000163,Sony Professional Headphones,Jewelry,Sony,3549777,High quality sony professional headphones from Sony,4.9,62,39.74,49x17x30 cm
+PROD000164,Zara Advanced Shoes,Food & Beverages,Zara,59314,High quality zara advanced shoes from Zara,3.3,768,25.51,40x29x30 cm
+PROD000165,Sony Classic Tablet,Jewelry,Sony,741628,High quality sony classic tablet from Sony,3.3,223,29.65,5x37x34 cm
+PROD000166,H&M Advanced Headphones,Automotive,H&M,41723023,High quality h&m advanced headphones from H&M,4.7,303,35.44,40x12x15 cm
+PROD000167,Samsung Advanced Watch,Home & Garden,Samsung,5096318,High quality samsung advanced watch from Samsung,3.1,151,47.11,22x13x22 cm
+PROD000168,Zara Classic Watch,Electronics,Zara,36376058,High quality zara classic watch from Zara,3.2,664,17.44,43x28x25 cm
+PROD000169,H&M Advanced Headphones,Clothing,H&M,1220815,High quality h&m advanced headphones from H&M,3.8,626,14.82,8x45x5 cm
+PROD000170,Adidas Modern Tablet,Beauty & Health,Adidas,636844,High quality adidas modern tablet from Adidas,4.9,550,32.9,42x11x49 cm
+PROD000171,Zara Modern Book,Toys & Games,Zara,2760470,High quality zara modern book from Zara,4.2,211,40.86,19x25x22 cm
+PROD000172,Asus Wireless Tablet,Home & Garden,Asus,7683576,High quality asus wireless tablet from Asus,3.5,743,21.75,14x35x10 cm
+PROD000173,Nike Portable Tablet,Food & Beverages,Nike,447608,High quality nike portable tablet from Nike,4.7,193,28.53,16x46x23 cm
+PROD000174,Sony Professional Tablet,Electronics,Sony,26954135,High quality sony professional tablet from Sony,4.4,192,3.57,9x32x20 cm
+PROD000175,Zara Wireless Laptop,Food & Beverages,Zara,399745,High quality zara wireless laptop from Zara,4.1,744,37.55,5x43x11 cm
+PROD000176,Canon Premium Laptop,Toys & Games,Canon,156841,High quality canon premium laptop from Canon,4.5,659,46.74,13x20x10 cm
+PROD000177,Nike Eco-Friendly Phone,Sports & Outdoors,Nike,13594273,High quality nike eco-friendly phone from Nike,4.9,980,39.6,39x26x50 cm
+PROD000178,Adidas Professional Jeans,Clothing,Adidas,4821538,High quality adidas professional jeans from Adidas,4.8,835,8.24,26x35x14 cm
+PROD000179,Samsung Advanced Chair,Home & Garden,Samsung,4687177,High quality samsung advanced chair from Samsung,4.3,126,1.16,7x11x39 cm
+PROD000180,Apple Advanced Shirt,Sports & Outdoors,Apple,2679596,High quality apple advanced shirt from Apple,3.0,229,1.3,32x29x14 cm
+PROD000181,Zara Modern Watch,Beauty & Health,Zara,1943375,High quality zara modern watch from Zara,4.4,703,44.22,12x36x15 cm
+PROD000182,Adidas Deluxe Headphones,Clothing,Adidas,3097315,High quality adidas deluxe headphones from Adidas,3.2,341,6.01,10x7x43 cm
+PROD000183,Nike Wireless Shoes,Books,Nike,225554,High quality nike wireless shoes from Nike,4.2,695,21.32,47x48x24 cm
+PROD000184,Levi's Modern Camera,Jewelry,Levi's,7474125,High quality levi's modern camera from Levi's,3.5,511,33.12,21x50x9 cm
+PROD000185,Levi's Professional Lamp,Electronics,Levi's,44513625,High quality levi's professional lamp from Levi's,3.3,151,19.59,35x9x12 cm
+PROD000186,Canon Modern Tablet,Jewelry,Canon,6569796,High quality canon modern tablet from Canon,3.6,130,9.18,29x27x25 cm
+PROD000187,Canon Portable Chair,Food & Beverages,Canon,237026,High quality canon portable chair from Canon,4.2,651,16.74,46x20x29 cm
+PROD000188,HP Portable Shoes,Toys & Games,HP,2338796,High quality hp portable shoes from HP,4.0,549,41.09,29x10x42 cm
+PROD000189,HP Eco-Friendly Lamp,Toys & Games,HP,1019953,High quality hp eco-friendly lamp from HP,4.4,240,18.15,18x6x28 cm
+PROD000190,Dell Professional Laptop,Automotive,Dell,8996341,High quality dell professional laptop from Dell,4.8,369,42.45,13x23x34 cm
+PROD000191,Levi's Advanced Shirt,Books,Levi's,177138,High quality levi's advanced shirt from Levi's,3.4,229,2.89,13x12x49 cm
+PROD000192,Canon Premium Chair,Books,Canon,272669,High quality canon premium chair from Canon,3.7,718,5.39,42x9x35 cm
+PROD000193,Levi's Professional Phone,Jewelry,Levi's,10357397,High quality levi's professional phone from Levi's,3.7,80,12.33,5x41x31 cm
+PROD000194,Uniqlo Professional Jeans,Books,Uniqlo,439838,High quality uniqlo professional jeans from Uniqlo,3.3,540,34.96,24x35x31 cm
+PROD000195,Dell Premium Headphones,Beauty & Health,Dell,333343,High quality dell premium headphones from Dell,3.3,902,32.16,43x16x37 cm
+PROD000196,Samsung Wireless Shirt,Books,Samsung,406465,High quality samsung wireless shirt from Samsung,4.9,465,27.75,21x41x37 cm
+PROD000197,H&M Classic Shirt,Sports & Outdoors,H&M,2930678,High quality h&m classic shirt from H&M,3.5,94,26.12,13x18x30 cm
+PROD000198,Samsung Classic Shirt,Jewelry,Samsung,12827480,High quality samsung classic shirt from Samsung,4.6,999,28.01,9x49x34 cm
+PROD000199,LG Wireless Shirt,Food & Beverages,LG,106415,High quality lg wireless shirt from LG,3.1,380,32.37,17x22x11 cm
+PROD000200,Apple Smart Bag,Clothing,Apple,2914140,High quality apple smart bag from Apple,3.1,288,8.22,11x9x18 cm
+PROD000201,Samsung Modern Watch,Jewelry,Samsung,37523381,High quality samsung modern watch from Samsung,3.4,951,1.72,22x10x41 cm
+PROD000202,Samsung Eco-Friendly Lamp,Jewelry,Samsung,32967737,High quality samsung eco-friendly lamp from Samsung,3.1,322,4.75,24x5x27 cm
+PROD000203,Canon Advanced Watch,Sports & Outdoors,Canon,5575972,High quality canon advanced watch from Canon,4.5,743,17.86,13x49x48 cm
+PROD000204,LG Wireless Chair,Clothing,LG,4324321,High quality lg wireless chair from LG,3.2,826,38.78,6x42x29 cm
+PROD000205,Asus Premium Headphones,Food & Beverages,Asus,104527,High quality asus premium headphones from Asus,3.3,474,4.03,45x10x50 cm
+PROD000206,Adidas Professional Lamp,Home & Garden,Adidas,2901920,High quality adidas professional lamp from Adidas,5.0,513,25.86,43x46x38 cm
+PROD000207,Dell Professional Camera,Beauty & Health,Dell,709939,High quality dell professional camera from Dell,3.7,876,47.01,7x50x48 cm
+PROD000208,Adidas Classic Bag,Toys & Games,Adidas,2645426,High quality adidas classic bag from Adidas,3.1,156,28.39,36x11x5 cm
+PROD000209,Uniqlo Modern Shoes,Books,Uniqlo,468058,High quality uniqlo modern shoes from Uniqlo,4.6,89,25.0,34x25x15 cm
+PROD000210,Nike Deluxe Headphones,Sports & Outdoors,Nike,9972260,High quality nike deluxe headphones from Nike,3.7,91,3.65,50x34x21 cm
+PROD000211,Sony Portable Book,Food & Beverages,Sony,93634,High quality sony portable book from Sony,4.9,995,28.48,7x28x23 cm
+PROD000212,Canon Eco-Friendly Book,Toys & Games,Canon,640999,High quality canon eco-friendly book from Canon,3.9,524,42.26,25x28x10 cm
+PROD000213,HP Portable Headphones,Toys & Games,HP,2962845,High quality hp portable headphones from HP,3.1,1000,32.23,20x49x40 cm
+PROD000214,Nike Deluxe Headphones,Electronics,Nike,25720966,High quality nike deluxe headphones from Nike,3.3,408,42.71,19x29x34 cm
+PROD000215,LG Portable Jeans,Clothing,LG,4588876,High quality lg portable jeans from LG,4.8,476,5.55,16x11x30 cm
+PROD000216,Adidas Wireless Camera,Toys & Games,Adidas,370413,High quality adidas wireless camera from Adidas,3.6,618,24.37,49x35x12 cm
+PROD000217,Dell Premium Shoes,Sports & Outdoors,Dell,2912902,High quality dell premium shoes from Dell,4.9,149,32.05,25x41x7 cm
+PROD000218,Uniqlo Wireless Phone,Jewelry,Uniqlo,24759368,High quality uniqlo wireless phone from Uniqlo,4.6,484,10.75,18x6x48 cm
+PROD000219,Sony Modern Book,Toys & Games,Sony,838640,High quality sony modern book from Sony,3.2,70,13.77,10x24x50 cm
+PROD000220,Levi's Wireless Shoes,Food & Beverages,Levi's,132252,High quality levi's wireless shoes from Levi's,4.3,265,9.29,8x10x32 cm
+PROD000221,Uniqlo Modern Tablet,Beauty & Health,Uniqlo,516505,High quality uniqlo modern tablet from Uniqlo,3.7,429,24.13,39x49x15 cm
+PROD000222,LG Eco-Friendly Shirt,Toys & Games,LG,141655,High quality lg eco-friendly shirt from LG,4.1,915,29.9,9x47x42 cm
+PROD000223,Nike Smart Book,Jewelry,Nike,49781836,High quality nike smart book from Nike,4.5,754,36.68,5x14x34 cm
+PROD000224,Dell Smart Laptop,Books,Dell,465244,High quality dell smart laptop from Dell,4.9,416,13.21,5x33x13 cm
+PROD000225,Zara Eco-Friendly Laptop,Food & Beverages,Zara,39129,High quality zara eco-friendly laptop from Zara,3.4,192,21.07,39x15x43 cm
+PROD000226,Adidas Smart Watch,Toys & Games,Adidas,901778,High quality adidas smart watch from Adidas,4.9,590,47.76,28x28x6 cm
+PROD000227,Sony Advanced Laptop,Sports & Outdoors,Sony,12032594,High quality sony advanced laptop from Sony,4.0,466,20.76,27x27x39 cm
+PROD000228,HP Smart Laptop,Toys & Games,HP,837416,High quality hp smart laptop from HP,3.9,382,8.93,43x15x39 cm
+PROD000229,Canon Modern Book,Toys & Games,Canon,2987990,High quality canon modern book from Canon,4.4,649,14.23,44x11x10 cm
+PROD000230,Apple Premium Bag,Clothing,Apple,3550063,High quality apple premium bag from Apple,3.2,767,37.61,39x11x45 cm
+PROD000231,HP Eco-Friendly Lamp,Food & Beverages,HP,37110,High quality hp eco-friendly lamp from HP,4.3,872,21.09,19x34x40 cm
+PROD000232,Apple Classic Jeans,Toys & Games,Apple,621941,High quality apple classic jeans from Apple,3.7,812,45.71,31x46x50 cm
+PROD000233,Samsung Smart Lamp,Toys & Games,Samsung,1039258,High quality samsung smart lamp from Samsung,4.0,274,43.99,21x24x31 cm
+PROD000234,Samsung Wireless Phone,Home & Garden,Samsung,460551,High quality samsung wireless phone from Samsung,3.1,809,18.78,38x43x25 cm
+PROD000235,Nike Eco-Friendly Shirt,Beauty & Health,Nike,607156,High quality nike eco-friendly shirt from Nike,4.1,400,9.71,46x30x8 cm
+PROD000236,Canon Professional Book,Jewelry,Canon,26700085,High quality canon professional book from Canon,5.0,177,20.22,25x38x15 cm
+PROD000237,Adidas Deluxe Chair,Toys & Games,Adidas,629867,High quality adidas deluxe chair from Adidas,4.0,646,28.89,30x45x21 cm
+PROD000238,Nike Smart Watch,Automotive,Nike,13516397,High quality nike smart watch from Nike,3.2,447,0.68,42x14x6 cm
+PROD000239,H&M Advanced Laptop,Jewelry,H&M,38872434,High quality h&m advanced laptop from H&M,3.8,760,36.74,34x45x45 cm
+PROD000240,Nike Classic Book,Beauty & Health,Nike,1983052,High quality nike classic book from Nike,3.4,198,26.82,20x29x21 cm
+PROD000241,Sony Deluxe Tablet,Electronics,Sony,42606652,High quality sony deluxe tablet from Sony,3.0,593,43.36,12x34x43 cm
+PROD000242,Apple Professional Headphones,Clothing,Apple,2297770,High quality apple professional headphones from Apple,4.8,95,3.96,28x18x30 cm
+PROD000243,Dell Premium Shirt,Clothing,Dell,717199,High quality dell premium shirt from Dell,4.0,640,3.91,48x31x29 cm
+PROD000244,Zara Portable Lamp,Beauty & Health,Zara,437858,High quality zara portable lamp from Zara,3.4,10,45.19,47x41x45 cm
+PROD000245,Levi's Premium Laptop,Jewelry,Levi's,23505619,High quality levi's premium laptop from Levi's,5.0,495,49.75,43x39x5 cm
+PROD000246,HP Modern Laptop,Books,HP,151106,High quality hp modern laptop from HP,4.2,548,1.25,37x14x18 cm
+PROD000247,Apple Classic Phone,Beauty & Health,Apple,786900,High quality apple classic phone from Apple,3.3,85,36.41,13x22x22 cm
+PROD000248,Adidas Deluxe Camera,Food & Beverages,Adidas,391239,High quality adidas deluxe camera from Adidas,4.1,301,23.41,36x32x37 cm
+PROD000249,Adidas Modern Tablet,Toys & Games,Adidas,929953,High quality adidas modern tablet from Adidas,4.4,908,35.9,30x11x42 cm
+PROD000250,Sony Professional Lamp,Jewelry,Sony,14313138,High quality sony professional lamp from Sony,4.9,499,21.73,33x32x43 cm
+PROD000251,Levi's Smart Bag,Sports & Outdoors,Levi's,2104542,High quality levi's smart bag from Levi's,4.2,439,10.07,27x28x45 cm
+PROD000252,Dell Professional Phone,Clothing,Dell,4389571,High quality dell professional phone from Dell,3.5,419,14.74,46x38x27 cm
+PROD000253,Samsung Deluxe Tablet,Toys & Games,Samsung,1453422,High quality samsung deluxe tablet from Samsung,3.9,190,17.95,9x18x47 cm
+PROD000254,LG Professional Lamp,Beauty & Health,LG,759455,High quality lg professional lamp from LG,3.2,326,34.45,50x26x18 cm
+PROD000255,Asus Smart Watch,Food & Beverages,Asus,314461,High quality asus smart watch from Asus,3.1,290,30.13,38x18x11 cm
+PROD000256,Sony Eco-Friendly Lamp,Automotive,Sony,91106396,High quality sony eco-friendly lamp from Sony,3.1,914,32.35,48x32x25 cm
+PROD000257,Adidas Classic Phone,Beauty & Health,Adidas,1783436,High quality adidas classic phone from Adidas,4.0,47,49.51,31x12x12 cm
+PROD000258,Nike Eco-Friendly Camera,Food & Beverages,Nike,329943,High quality nike eco-friendly camera from Nike,3.8,590,1.16,6x46x41 cm
+PROD000259,Dell Modern Tablet,Electronics,Dell,27532174,High quality dell modern tablet from Dell,3.1,546,45.91,7x26x46 cm
+PROD000260,Apple Portable Laptop,Electronics,Apple,28355471,High quality apple portable laptop from Apple,4.4,281,15.93,27x30x10 cm
+PROD000261,Uniqlo Smart Jeans,Automotive,Uniqlo,83184286,High quality uniqlo smart jeans from Uniqlo,3.1,305,34.85,34x36x46 cm
+PROD000262,Levi's Smart Bag,Clothing,Levi's,961875,High quality levi's smart bag from Levi's,3.1,48,41.29,13x11x25 cm
+PROD000263,Adidas Professional Laptop,Toys & Games,Adidas,901781,High quality adidas professional laptop from Adidas,4.4,831,18.51,39x5x49 cm
+PROD000264,Sony Premium Laptop,Electronics,Sony,3721452,High quality sony premium laptop from Sony,4.9,76,13.26,49x44x29 cm
+PROD000265,H&M Professional Tablet,Sports & Outdoors,H&M,10088720,High quality h&m professional tablet from H&M,3.9,129,16.03,14x42x31 cm
+PROD000266,Zara Deluxe Shoes,Food & Beverages,Zara,296608,High quality zara deluxe shoes from Zara,3.5,489,33.1,22x25x35 cm
+PROD000267,Apple Modern Lamp,Home & Garden,Apple,5169984,High quality apple modern lamp from Apple,4.4,361,27.97,20x47x46 cm
+PROD000268,H&M Deluxe Laptop,Home & Garden,H&M,8498107,High quality h&m deluxe laptop from H&M,3.1,13,33.56,34x29x17 cm
+PROD000269,Apple Smart Watch,Food & Beverages,Apple,446768,High quality apple smart watch from Apple,4.2,540,25.74,25x24x50 cm
+PROD000270,Zara Professional Shoes,Food & Beverages,Zara,75396,High quality zara professional shoes from Zara,4.8,224,45.84,29x33x44 cm
+PROD000271,Adidas Wireless Watch,Automotive,Adidas,10212612,High quality adidas wireless watch from Adidas,3.6,168,34.34,41x46x11 cm
+PROD000272,Dell Deluxe Chair,Books,Dell,107776,High quality dell deluxe chair from Dell,3.5,915,23.1,22x6x35 cm
+PROD000273,Dell Smart Headphones,Automotive,Dell,16881472,High quality dell smart headphones from Dell,4.9,86,17.79,18x14x30 cm
+PROD000274,Canon Advanced Camera,Automotive,Canon,8134621,High quality canon advanced camera from Canon,3.9,378,4.98,46x29x32 cm
+PROD000275,Sony Classic Shirt,Home & Garden,Sony,3163613,High quality sony classic shirt from Sony,4.2,542,30.41,38x32x11 cm
+PROD000276,Zara Classic Laptop,Electronics,Zara,15235748,High quality zara classic laptop from Zara,3.2,916,1.88,22x20x9 cm
+PROD000277,Apple Modern Watch,Automotive,Apple,84244618,High quality apple modern watch from Apple,4.4,414,19.66,11x19x49 cm
+PROD000278,Dell Classic Tablet,Sports & Outdoors,Dell,13482322,High quality dell classic tablet from Dell,3.4,652,14.47,43x23x5 cm
+PROD000279,Nike Advanced Chair,Clothing,Nike,4099338,High quality nike advanced chair from Nike,4.5,873,45.34,20x15x25 cm
+PROD000280,Nike Professional Camera,Clothing,Nike,3918631,High quality nike professional camera from Nike,3.3,13,33.33,32x26x6 cm
+PROD000281,Sony Deluxe Tablet,Books,Sony,406097,High quality sony deluxe tablet from Sony,4.5,9,29.74,35x42x5 cm
+PROD000282,Levi's Classic Jeans,Food & Beverages,Levi's,77349,High quality levi's classic jeans from Levi's,3.1,17,28.41,23x19x38 cm
+PROD000283,Nike Professional Lamp,Automotive,Nike,13604400,High quality nike professional lamp from Nike,3.2,823,36.84,33x36x27 cm
+PROD000284,Sony Portable Headphones,Automotive,Sony,49894086,High quality sony portable headphones from Sony,3.9,847,17.7,50x26x38 cm
+PROD000285,Dell Deluxe Headphones,Jewelry,Dell,46522195,High quality dell deluxe headphones from Dell,4.0,655,1.13,31x19x47 cm
+PROD000286,LG Portable Phone,Books,LG,178119,High quality lg portable phone from LG,4.2,712,48.67,28x18x10 cm
+PROD000287,Canon Deluxe Headphones,Home & Garden,Canon,9342180,High quality canon deluxe headphones from Canon,4.8,460,49.37,38x16x21 cm
+PROD000288,LG Wireless Bag,Beauty & Health,LG,975129,High quality lg wireless bag from LG,4.9,282,15.54,7x42x38 cm
+PROD000289,Levi's Eco-Friendly Laptop,Beauty & Health,Levi's,1009030,High quality levi's eco-friendly laptop from Levi's,4.6,580,48.41,27x23x12 cm
+PROD000290,Dell Professional Jeans,Electronics,Dell,46195973,High quality dell professional jeans from Dell,3.3,989,14.56,40x47x15 cm
+PROD000291,Dell Modern Laptop,Sports & Outdoors,Dell,13718166,High quality dell modern laptop from Dell,3.6,464,2.14,23x42x12 cm
+PROD000292,Dell Modern Phone,Electronics,Dell,29378476,High quality dell modern phone from Dell,3.7,854,0.13,21x13x27 cm
+PROD000293,Uniqlo Advanced Book,Sports & Outdoors,Uniqlo,13199756,High quality uniqlo advanced book from Uniqlo,4.1,976,4.39,22x14x17 cm
+PROD000294,Asus Deluxe Headphones,Toys & Games,Asus,1017956,High quality asus deluxe headphones from Asus,3.1,955,17.8,48x45x29 cm
+PROD000295,Canon Deluxe Headphones,Toys & Games,Canon,1366774,High quality canon deluxe headphones from Canon,4.2,177,28.24,48x25x42 cm
+PROD000296,Zara Classic Headphones,Books,Zara,121141,High quality zara classic headphones from Zara,3.8,204,15.12,10x24x41 cm
+PROD000297,HP Professional Shirt,Food & Beverages,HP,430205,High quality hp professional shirt from HP,4.8,447,4.89,38x33x49 cm
+PROD000298,HP Smart Jeans,Beauty & Health,HP,842798,High quality hp smart jeans from HP,3.9,430,48.08,34x6x40 cm
+PROD000299,Uniqlo Wireless Laptop,Electronics,Uniqlo,9934539,High quality uniqlo wireless laptop from Uniqlo,4.2,309,39.35,42x37x28 cm
+PROD000300,Asus Advanced Bag,Books,Asus,203796,High quality asus advanced bag from Asus,3.1,865,19.69,30x47x5 cm
+PROD000301,Uniqlo Advanced Jeans,Food & Beverages,Uniqlo,459981,High quality uniqlo advanced jeans from Uniqlo,3.1,56,13.58,46x11x26 cm
+PROD000302,Apple Modern Bag,Jewelry,Apple,32810763,High quality apple modern bag from Apple,4.4,885,3.14,42x48x37 cm
+PROD000303,H&M Classic Shoes,Electronics,H&M,10173870,High quality h&m classic shoes from H&M,4.1,990,24.82,19x48x45 cm
+PROD000304,Sony Modern Chair,Books,Sony,53382,High quality sony modern chair from Sony,4.6,638,34.42,12x9x5 cm
+PROD000305,Asus Deluxe Shoes,Books,Asus,100784,High quality asus deluxe shoes from Asus,3.5,106,23.74,37x33x30 cm
+PROD000306,Apple Modern Shirt,Electronics,Apple,32961867,High quality apple modern shirt from Apple,5.0,839,11.82,39x21x44 cm
+PROD000307,Levi's Eco-Friendly Laptop,Food & Beverages,Levi's,246677,High quality levi's eco-friendly laptop from Levi's,3.3,22,9.32,47x20x15 cm
+PROD000308,H&M Advanced Watch,Automotive,H&M,64908898,High quality h&m advanced watch from H&M,4.0,296,33.41,42x36x28 cm
+PROD000309,Canon Wireless Chair,Sports & Outdoors,Canon,13719343,High quality canon wireless chair from Canon,3.2,426,40.69,14x6x23 cm
+PROD000310,Apple Eco-Friendly Shirt,Food & Beverages,Apple,25777,High quality apple eco-friendly shirt from Apple,4.2,34,32.29,47x44x33 cm
+PROD000311,LG Professional Jeans,Electronics,LG,49024088,High quality lg professional jeans from LG,3.9,9,49.09,27x37x37 cm
+PROD000312,LG Advanced Shirt,Home & Garden,LG,8807469,High quality lg advanced shirt from LG,3.1,671,7.65,46x41x26 cm
+PROD000313,H&M Professional Headphones,Food & Beverages,H&M,431545,High quality h&m professional headphones from H&M,4.5,310,46.18,9x46x35 cm
+PROD000314,Dell Eco-Friendly Book,Toys & Games,Dell,856545,High quality dell eco-friendly book from Dell,4.2,949,25.4,47x38x21 cm
+PROD000315,H&M Smart Bag,Books,H&M,354467,High quality h&m smart bag from H&M,3.7,632,41.51,9x7x6 cm
+PROD000316,Adidas Deluxe Book,Books,Adidas,105690,High quality adidas deluxe book from Adidas,4.0,695,23.87,19x20x11 cm
+PROD000317,H&M Wireless Lamp,Books,H&M,270230,High quality h&m wireless lamp from H&M,4.8,63,30.63,12x7x9 cm
+PROD000318,Uniqlo Smart Bag,Food & Beverages,Uniqlo,350979,High quality uniqlo smart bag from Uniqlo,4.7,945,8.79,11x49x33 cm
+PROD000319,Nike Eco-Friendly Shoes,Toys & Games,Nike,937746,High quality nike eco-friendly shoes from Nike,3.4,502,21.93,23x19x17 cm
+PROD000320,Canon Advanced Lamp,Books,Canon,464189,High quality canon advanced lamp from Canon,3.4,596,1.31,47x11x18 cm
+PROD000321,Uniqlo Professional Phone,Electronics,Uniqlo,24629730,High quality uniqlo professional phone from Uniqlo,4.5,581,27.37,9x26x16 cm
+PROD000322,Dell Classic Watch,Automotive,Dell,77553774,High quality dell classic watch from Dell,4.7,512,17.67,44x40x13 cm
+PROD000323,Dell Wireless Book,Clothing,Dell,3255108,High quality dell wireless book from Dell,4.7,582,4.0,38x24x11 cm
+PROD000324,Dell Classic Phone,Clothing,Dell,4634361,High quality dell classic phone from Dell,3.7,229,41.08,23x21x29 cm
+PROD000325,Apple Professional Headphones,Beauty & Health,Apple,256818,High quality apple professional headphones from Apple,4.1,247,42.67,44x37x24 cm
+PROD000326,Asus Premium Shoes,Toys & Games,Asus,565041,High quality asus premium shoes from Asus,4.2,959,45.88,21x46x6 cm
+PROD000327,LG Wireless Headphones,Electronics,LG,13956082,High quality lg wireless headphones from LG,3.7,783,3.06,18x40x26 cm
+PROD000328,Adidas Portable Laptop,Electronics,Adidas,38339748,High quality adidas portable laptop from Adidas,4.8,719,41.77,7x27x9 cm
+PROD000329,Asus Eco-Friendly Laptop,Toys & Games,Asus,2412845,High quality asus eco-friendly laptop from Asus,4.0,132,13.6,7x11x7 cm
+PROD000330,HP Classic Book,Food & Beverages,HP,203635,High quality hp classic book from HP,3.9,310,39.1,19x6x8 cm
+PROD000331,Uniqlo Classic Shoes,Electronics,Uniqlo,41311510,High quality uniqlo classic shoes from Uniqlo,4.7,698,34.21,6x40x35 cm
+PROD000332,Canon Wireless Chair,Electronics,Canon,8904539,High quality canon wireless chair from Canon,3.9,437,27.52,12x33x12 cm
+PROD000333,LG Smart Watch,Jewelry,LG,23526771,High quality lg smart watch from LG,3.9,59,11.98,10x42x5 cm
+PROD000334,Canon Advanced Bag,Home & Garden,Canon,968056,High quality canon advanced bag from Canon,5.0,15,43.68,20x8x9 cm
+PROD000335,Nike Portable Tablet,Electronics,Nike,19464695,High quality nike portable tablet from Nike,3.1,358,30.16,20x23x13 cm
+PROD000336,Canon Portable Book,Jewelry,Canon,8712538,High quality canon portable book from Canon,4.3,78,12.58,39x18x36 cm
+PROD000337,Levi's Classic Jeans,Beauty & Health,Levi's,1595550,High quality levi's classic jeans from Levi's,3.6,375,39.03,23x46x20 cm
+PROD000338,Sony Smart Chair,Automotive,Sony,73668051,High quality sony smart chair from Sony,4.0,55,17.4,31x50x44 cm
+PROD000339,Sony Deluxe Watch,Food & Beverages,Sony,498176,High quality sony deluxe watch from Sony,3.3,999,26.1,24x40x18 cm
+PROD000340,LG Professional Phone,Clothing,LG,2072205,High quality lg professional phone from LG,4.4,665,38.23,12x6x36 cm
+PROD000341,Sony Modern Bag,Electronics,Sony,26281659,High quality sony modern bag from Sony,3.6,988,4.32,22x44x29 cm
+PROD000342,Samsung Wireless Shirt,Food & Beverages,Samsung,252794,High quality samsung wireless shirt from Samsung,3.1,210,19.03,47x32x39 cm
+PROD000343,Zara Modern Phone,Electronics,Zara,36842749,High quality zara modern phone from Zara,4.5,959,1.4,43x26x21 cm
+PROD000344,Adidas Premium Camera,Jewelry,Adidas,49206692,High quality adidas premium camera from Adidas,4.7,444,43.3,8x11x40 cm
+PROD000345,H&M Modern Shoes,Toys & Games,H&M,2044070,High quality h&m modern shoes from H&M,3.8,736,28.46,38x21x15 cm
+PROD000346,Dell Classic Tablet,Toys & Games,Dell,163683,High quality dell classic tablet from Dell,3.6,698,47.55,10x20x39 cm
+PROD000347,LG Eco-Friendly Shirt,Sports & Outdoors,LG,947704,High quality lg eco-friendly shirt from LG,4.2,370,13.51,21x46x43 cm
+PROD000348,Apple Modern Bag,Electronics,Apple,44843958,High quality apple modern bag from Apple,3.6,270,42.39,33x34x6 cm
+PROD000349,Samsung Portable Phone,Food & Beverages,Samsung,208074,High quality samsung portable phone from Samsung,4.0,864,27.87,31x8x42 cm
+PROD000350,Sony Eco-Friendly Shoes,Clothing,Sony,2734245,High quality sony eco-friendly shoes from Sony,4.9,451,9.07,22x21x36 cm
+PROD000351,Adidas Professional Tablet,Books,Adidas,373983,High quality adidas professional tablet from Adidas,4.3,238,5.81,7x16x48 cm
+PROD000352,Levi's Portable Bag,Automotive,Levi's,43591907,High quality levi's portable bag from Levi's,3.1,734,11.47,50x21x21 cm
+PROD000353,Zara Smart Shoes,Electronics,Zara,48705592,High quality zara smart shoes from Zara,3.1,240,17.55,9x37x33 cm
+PROD000354,HP Deluxe Watch,Clothing,HP,1811627,High quality hp deluxe watch from HP,3.7,380,41.47,48x31x9 cm
+PROD000355,Sony Professional Phone,Toys & Games,Sony,1469610,High quality sony professional phone from Sony,4.2,368,16.82,31x46x28 cm
+PROD000356,Sony Eco-Friendly Phone,Food & Beverages,Sony,104050,High quality sony eco-friendly phone from Sony,3.7,297,46.52,42x6x11 cm
+PROD000357,Adidas Smart Shoes,Jewelry,Adidas,48534375,High quality adidas smart shoes from Adidas,4.6,520,39.2,50x27x18 cm
+PROD000358,Levi's Eco-Friendly Phone,Toys & Games,Levi's,2855906,High quality levi's eco-friendly phone from Levi's,4.5,390,38.15,46x10x9 cm
+PROD000359,Asus Advanced Bag,Home & Garden,Asus,9397823,High quality asus advanced bag from Asus,4.5,551,36.68,38x8x43 cm
+PROD000360,Zara Advanced Shoes,Food & Beverages,Zara,251220,High quality zara advanced shoes from Zara,3.6,199,41.82,23x20x26 cm
+PROD000361,Uniqlo Smart Watch,Home & Garden,Uniqlo,7847410,High quality uniqlo smart watch from Uniqlo,3.6,995,5.86,20x33x31 cm
+PROD000362,Apple Smart Shoes,Beauty & Health,Apple,1160411,High quality apple smart shoes from Apple,3.2,370,32.7,43x19x33 cm
+PROD000363,Adidas Eco-Friendly Tablet,Toys & Games,Adidas,2354924,High quality adidas eco-friendly tablet from Adidas,3.5,931,20.44,42x47x13 cm
+PROD000364,Sony Modern Camera,Jewelry,Sony,21561737,High quality sony modern camera from Sony,3.2,418,21.11,14x41x36 cm
+PROD000365,Nike Portable Phone,Home & Garden,Nike,2997952,High quality nike portable phone from Nike,3.2,269,38.3,50x35x11 cm
+PROD000366,Levi's Premium Shirt,Books,Levi's,62546,High quality levi's premium shirt from Levi's,4.4,74,6.71,38x29x32 cm
+PROD000367,Nike Wireless Chair,Beauty & Health,Nike,1267989,High quality nike wireless chair from Nike,3.5,300,6.04,26x42x43 cm
+PROD000368,Apple Premium Laptop,Jewelry,Apple,24320803,High quality apple premium laptop from Apple,4.9,932,20.5,33x32x23 cm
+PROD000369,H&M Professional Chair,Food & Beverages,H&M,116181,High quality h&m professional chair from H&M,4.4,603,45.83,37x10x14 cm
+PROD000370,Asus Eco-Friendly Camera,Electronics,Asus,45725139,High quality asus eco-friendly camera from Asus,4.3,388,16.09,16x37x42 cm
+PROD000371,Uniqlo Deluxe Watch,Sports & Outdoors,Uniqlo,5288680,High quality uniqlo deluxe watch from Uniqlo,4.0,49,28.25,38x42x37 cm
+PROD000372,Sony Smart Shirt,Toys & Games,Sony,1436214,High quality sony smart shirt from Sony,4.5,976,7.25,18x32x38 cm
+PROD000373,Asus Eco-Friendly Camera,Sports & Outdoors,Asus,1968771,High quality asus eco-friendly camera from Asus,3.7,169,6.02,22x36x33 cm
+PROD000374,Nike Modern Headphones,Home & Garden,Nike,1980388,High quality nike modern headphones from Nike,4.8,682,14.0,11x18x40 cm
+PROD000375,Uniqlo Professional Phone,Automotive,Uniqlo,81314752,High quality uniqlo professional phone from Uniqlo,4.8,982,44.54,39x17x5 cm
+PROD000376,Levi's Premium Camera,Food & Beverages,Levi's,126504,High quality levi's premium camera from Levi's,3.6,970,28.6,33x38x13 cm
+PROD000377,Sony Deluxe Chair,Food & Beverages,Sony,390316,High quality sony deluxe chair from Sony,4.8,122,22.28,32x36x21 cm
+PROD000378,Levi's Professional Headphones,Clothing,Levi's,1076959,High quality levi's professional headphones from Levi's,4.9,822,4.05,19x9x25 cm
+PROD000379,HP Smart Headphones,Books,HP,287745,High quality hp smart headphones from HP,4.3,525,33.64,9x50x49 cm
+PROD000380,Samsung Wireless Laptop,Beauty & Health,Samsung,1578709,High quality samsung wireless laptop from Samsung,4.6,325,9.6,40x47x45 cm
+PROD000381,Zara Premium Watch,Electronics,Zara,9685503,High quality zara premium watch from Zara,4.2,893,47.16,48x17x21 cm
+PROD000382,Nike Portable Tablet,Food & Beverages,Nike,404597,High quality nike portable tablet from Nike,4.0,134,10.01,10x38x18 cm
+PROD000383,Canon Deluxe Jeans,Electronics,Canon,37929107,High quality canon deluxe jeans from Canon,4.2,727,8.99,31x49x21 cm
+PROD000384,Canon Eco-Friendly Watch,Jewelry,Canon,43296304,High quality canon eco-friendly watch from Canon,3.7,543,32.88,16x24x19 cm
+PROD000385,Zara Portable Jeans,Sports & Outdoors,Zara,13667182,High quality zara portable jeans from Zara,4.3,612,17.92,35x23x11 cm
+PROD000386,Apple Modern Shirt,Home & Garden,Apple,7702316,High quality apple modern shirt from Apple,3.7,678,21.3,16x34x25 cm
+PROD000387,LG Wireless Chair,Clothing,LG,1174227,High quality lg wireless chair from LG,4.5,495,42.02,36x43x31 cm
+PROD000388,Samsung Modern Headphones,Home & Garden,Samsung,8714225,High quality samsung modern headphones from Samsung,3.4,871,39.16,8x40x25 cm
+PROD000389,Zara Smart Shirt,Sports & Outdoors,Zara,6866239,High quality zara smart shirt from Zara,4.6,435,19.99,8x22x36 cm
+PROD000390,LG Premium Headphones,Home & Garden,LG,7710091,High quality lg premium headphones from LG,3.8,586,43.79,39x18x45 cm
+PROD000391,Asus Eco-Friendly Camera,Clothing,Asus,1183936,High quality asus eco-friendly camera from Asus,4.2,20,47.52,6x29x10 cm
+PROD000392,LG Advanced Laptop,Beauty & Health,LG,1473491,High quality lg advanced laptop from LG,3.1,215,18.17,17x15x39 cm
+PROD000393,Levi's Classic Headphones,Toys & Games,Levi's,776978,High quality levi's classic headphones from Levi's,4.8,339,20.73,40x20x5 cm
+PROD000394,Levi's Premium Lamp,Electronics,Levi's,35836533,High quality levi's premium lamp from Levi's,3.2,407,39.59,7x15x23 cm
+PROD000395,Samsung Classic Book,Sports & Outdoors,Samsung,13258916,High quality samsung classic book from Samsung,4.4,34,13.7,12x29x46 cm
+PROD000396,Nike Modern Laptop,Toys & Games,Nike,420977,High quality nike modern laptop from Nike,3.1,739,35.2,31x6x5 cm
+PROD000397,Asus Professional Laptop,Automotive,Asus,99767255,High quality asus professional laptop from Asus,4.2,400,9.79,43x24x25 cm
+PROD000398,HP Premium Headphones,Toys & Games,HP,1249447,High quality hp premium headphones from HP,3.9,102,13.29,46x41x35 cm
+PROD000399,Sony Wireless Laptop,Toys & Games,Sony,1032196,High quality sony wireless laptop from Sony,4.9,574,14.0,23x49x39 cm
+PROD000400,Adidas Wireless Phone,Automotive,Adidas,67710893,High quality adidas wireless phone from Adidas,4.5,974,18.7,39x50x11 cm
+PROD000401,Adidas Eco-Friendly Phone,Food & Beverages,Adidas,228325,High quality adidas eco-friendly phone from Adidas,4.5,457,18.55,41x11x46 cm
+PROD000402,LG Professional Lamp,Sports & Outdoors,LG,10868200,High quality lg professional lamp from LG,5.0,97,28.09,18x36x42 cm
+PROD000403,Apple Professional Shirt,Home & Garden,Apple,8144257,High quality apple professional shirt from Apple,4.0,859,28.38,19x8x36 cm
+PROD000404,Canon Modern Chair,Sports & Outdoors,Canon,5968492,High quality canon modern chair from Canon,4.7,37,16.14,41x43x31 cm
+PROD000405,Sony Classic Lamp,Electronics,Sony,38242662,High quality sony classic lamp from Sony,4.6,558,25.04,46x20x25 cm
+PROD000406,H&M Portable Shoes,Food & Beverages,H&M,310878,High quality h&m portable shoes from H&M,4.7,750,4.16,11x32x49 cm
+PROD000407,Canon Professional Lamp,Clothing,Canon,214290,High quality canon professional lamp from Canon,3.3,766,6.16,17x33x12 cm
+PROD000408,Canon Portable Tablet,Electronics,Canon,42521215,High quality canon portable tablet from Canon,4.6,498,7.08,40x31x30 cm
+PROD000409,Sony Deluxe Shirt,Electronics,Sony,20245015,High quality sony deluxe shirt from Sony,4.4,901,33.87,38x25x44 cm
+PROD000410,Asus Professional Tablet,Beauty & Health,Asus,708586,High quality asus professional tablet from Asus,4.0,209,40.16,50x28x38 cm
+PROD000411,Sony Portable Jeans,Jewelry,Sony,14634276,High quality sony portable jeans from Sony,4.9,949,37.36,13x15x38 cm
+PROD000412,Samsung Smart Shirt,Food & Beverages,Samsung,113965,High quality samsung smart shirt from Samsung,3.3,68,49.67,5x24x49 cm
+PROD000413,Adidas Deluxe Shoes,Home & Garden,Adidas,7893923,High quality adidas deluxe shoes from Adidas,3.7,62,31.29,43x15x9 cm
+PROD000414,Zara Advanced Watch,Beauty & Health,Zara,823428,High quality zara advanced watch from Zara,4.3,950,9.71,23x32x42 cm
+PROD000415,LG Eco-Friendly Lamp,Sports & Outdoors,LG,7065720,High quality lg eco-friendly lamp from LG,4.9,574,27.1,47x17x9 cm
+PROD000416,Nike Deluxe Chair,Jewelry,Nike,15025141,High quality nike deluxe chair from Nike,3.6,269,28.23,13x38x42 cm
+PROD000417,LG Eco-Friendly Lamp,Toys & Games,LG,2583740,High quality lg eco-friendly lamp from LG,4.2,989,40.38,44x47x35 cm
+PROD000418,Nike Premium Lamp,Home & Garden,Nike,4089479,High quality nike premium lamp from Nike,5.0,93,46.48,44x14x14 cm
+PROD000419,Dell Premium Camera,Books,Dell,90783,High quality dell premium camera from Dell,4.8,53,6.94,33x32x47 cm
+PROD000420,LG Modern Shoes,Food & Beverages,LG,418462,High quality lg modern shoes from LG,3.2,573,19.72,29x50x35 cm
+PROD000421,Sony Advanced Camera,Beauty & Health,Sony,1212928,High quality sony advanced camera from Sony,3.2,619,42.13,15x45x22 cm
+PROD000422,Levi's Wireless Shoes,Books,Levi's,281550,High quality levi's wireless shoes from Levi's,4.0,807,12.6,12x40x32 cm
+PROD000423,Nike Premium Camera,Beauty & Health,Nike,1893845,High quality nike premium camera from Nike,3.9,686,17.36,32x18x44 cm
+PROD000424,Adidas Wireless Camera,Automotive,Adidas,25025724,High quality adidas wireless camera from Adidas,4.9,10,9.87,28x38x17 cm
+PROD000425,Asus Modern Camera,Electronics,Asus,6815513,High quality asus modern camera from Asus,4.8,937,12.76,5x43x22 cm
+PROD000426,Zara Modern Book,Electronics,Zara,32627353,High quality zara modern book from Zara,3.8,712,35.24,22x45x8 cm
+PROD000427,Levi's Premium Chair,Jewelry,Levi's,32095476,High quality levi's premium chair from Levi's,5.0,647,22.78,16x35x46 cm
+PROD000428,Uniqlo Deluxe Phone,Automotive,Uniqlo,50597995,High quality uniqlo deluxe phone from Uniqlo,3.1,915,35.69,50x16x13 cm
+PROD000429,Canon Deluxe Phone,Clothing,Canon,3819324,High quality canon deluxe phone from Canon,4.3,63,15.78,39x22x17 cm
+PROD000430,H&M Premium Camera,Jewelry,H&M,45596547,High quality h&m premium camera from H&M,4.7,324,44.9,15x42x28 cm
+PROD000431,Samsung Wireless Shirt,Automotive,Samsung,90620191,High quality samsung wireless shirt from Samsung,4.3,66,9.73,37x14x22 cm
+PROD000432,Nike Portable Phone,Clothing,Nike,2411275,High quality nike portable phone from Nike,4.2,705,25.32,16x45x5 cm
+PROD000433,Sony Advanced Camera,Sports & Outdoors,Sony,2274922,High quality sony advanced camera from Sony,3.7,581,41.82,10x41x34 cm
+PROD000434,Apple Deluxe Tablet,Clothing,Apple,824923,High quality apple deluxe tablet from Apple,3.4,605,31.37,6x15x5 cm
+PROD000435,Zara Smart Jeans,Home & Garden,Zara,1563567,High quality zara smart jeans from Zara,4.8,965,12.41,48x46x17 cm
+PROD000436,Sony Premium Shirt,Books,Sony,420102,High quality sony premium shirt from Sony,3.6,285,7.11,25x31x19 cm
+PROD000437,Sony Classic Tablet,Home & Garden,Sony,5148143,High quality sony classic tablet from Sony,3.5,450,13.3,36x27x42 cm
+PROD000438,LG Advanced Jeans,Beauty & Health,LG,1839587,High quality lg advanced jeans from LG,4.3,851,8.61,42x29x14 cm
+PROD000439,Asus Classic Chair,Automotive,Asus,59230817,High quality asus classic chair from Asus,3.7,830,34.13,23x18x26 cm
+PROD000440,HP Modern Laptop,Automotive,HP,69890262,High quality hp modern laptop from HP,4.5,264,10.99,21x7x12 cm
+PROD000441,Zara Professional Jeans,Automotive,Zara,19765689,High quality zara professional jeans from Zara,3.9,330,18.68,29x47x42 cm
+PROD000442,LG Deluxe Book,Electronics,LG,24584307,High quality lg deluxe book from LG,4.7,8,8.02,35x26x26 cm
+PROD000443,Nike Smart Headphones,Clothing,Nike,1465209,High quality nike smart headphones from Nike,3.9,190,37.63,33x44x34 cm
+PROD000444,Asus Wireless Chair,Jewelry,Asus,27298816,High quality asus wireless chair from Asus,3.9,249,12.7,28x43x26 cm
+PROD000445,Zara Wireless Headphones,Food & Beverages,Zara,41039,High quality zara wireless headphones from Zara,4.9,898,11.79,37x11x31 cm
+PROD000446,Uniqlo Modern Bag,Toys & Games,Uniqlo,1780867,High quality uniqlo modern bag from Uniqlo,4.2,167,25.66,24x43x49 cm
+PROD000447,Adidas Eco-Friendly Lamp,Automotive,Adidas,19729977,High quality adidas eco-friendly lamp from Adidas,3.3,341,39.45,8x10x24 cm
+PROD000448,Uniqlo Smart Jeans,Books,Uniqlo,257614,High quality uniqlo smart jeans from Uniqlo,3.3,0,32.96,17x16x24 cm
+PROD000449,Apple Professional Watch,Sports & Outdoors,Apple,14690861,High quality apple professional watch from Apple,3.4,92,36.23,14x48x40 cm
+PROD000450,Samsung Portable Tablet,Beauty & Health,Samsung,822913,High quality samsung portable tablet from Samsung,3.2,563,34.37,49x18x35 cm
+PROD000451,Levi's Portable Chair,Toys & Games,Levi's,1118133,High quality levi's portable chair from Levi's,4.5,98,19.44,25x13x30 cm
+PROD000452,Sony Wireless Bag,Beauty & Health,Sony,925964,High quality sony wireless bag from Sony,4.1,355,24.47,42x6x19 cm
+PROD000453,Nike Classic Camera,Jewelry,Nike,24812228,High quality nike classic camera from Nike,3.7,842,0.18,43x30x9 cm
+PROD000454,Nike Portable Watch,Home & Garden,Nike,942356,High quality nike portable watch from Nike,3.4,445,4.73,29x46x16 cm
+PROD000455,Nike Modern Headphones,Toys & Games,Nike,1722421,High quality nike modern headphones from Nike,4.4,492,1.84,31x16x15 cm
+PROD000456,Zara Advanced Laptop,Toys & Games,Zara,2050027,High quality zara advanced laptop from Zara,4.6,354,34.33,11x46x30 cm
+PROD000457,Nike Smart Tablet,Electronics,Nike,39066270,High quality nike smart tablet from Nike,4.0,702,22.79,36x46x47 cm
+PROD000458,Canon Premium Headphones,Toys & Games,Canon,1882500,High quality canon premium headphones from Canon,3.5,649,5.89,33x37x28 cm
+PROD000459,H&M Smart Shoes,Food & Beverages,H&M,211292,High quality h&m smart shoes from H&M,3.2,183,49.04,39x29x48 cm
+PROD000460,Nike Premium Camera,Clothing,Nike,2262889,High quality nike premium camera from Nike,3.4,832,30.76,34x32x8 cm
+PROD000461,Sony Premium Laptop,Food & Beverages,Sony,475027,High quality sony premium laptop from Sony,4.0,375,2.6,43x48x28 cm
+PROD000462,Canon Smart Book,Sports & Outdoors,Canon,5268479,High quality canon smart book from Canon,4.5,24,27.18,16x23x27 cm
+PROD000463,Samsung Portable Camera,Toys & Games,Samsung,1348574,High quality samsung portable camera from Samsung,4.3,610,5.67,7x39x30 cm
+PROD000464,Nike Deluxe Shoes,Home & Garden,Nike,1786664,High quality nike deluxe shoes from Nike,3.3,148,31.68,32x22x27 cm
+PROD000465,H&M Eco-Friendly Watch,Food & Beverages,H&M,452837,High quality h&m eco-friendly watch from H&M,4.8,954,36.66,38x41x34 cm
+PROD000466,Apple Smart Camera,Electronics,Apple,3069422,High quality apple smart camera from Apple,3.3,1000,36.22,11x29x37 cm
+PROD000467,LG Modern Shirt,Clothing,LG,3461647,High quality lg modern shirt from LG,3.0,973,37.36,46x10x32 cm
+PROD000468,Uniqlo Classic Bag,Clothing,Uniqlo,2289223,High quality uniqlo classic bag from Uniqlo,5.0,630,25.75,20x49x8 cm
+PROD000469,Asus Portable Watch,Beauty & Health,Asus,1695343,High quality asus portable watch from Asus,4.9,281,37.37,16x22x37 cm
+PROD000470,Asus Wireless Tablet,Electronics,Asus,46013785,High quality asus wireless tablet from Asus,3.6,5,20.42,6x31x47 cm
+PROD000471,Sony Modern Jeans,Books,Sony,364090,High quality sony modern jeans from Sony,4.6,650,15.98,19x19x6 cm
+PROD000472,Adidas Deluxe Bag,Beauty & Health,Adidas,703626,High quality adidas deluxe bag from Adidas,4.5,623,41.37,42x31x45 cm
+PROD000473,LG Advanced Shirt,Jewelry,LG,32417169,High quality lg advanced shirt from LG,4.9,12,17.21,25x27x33 cm
+PROD000474,Dell Portable Watch,Books,Dell,329047,High quality dell portable watch from Dell,4.4,689,19.56,30x7x47 cm
+PROD000475,Apple Portable Shoes,Jewelry,Apple,23672636,High quality apple portable shoes from Apple,3.2,765,49.24,28x24x23 cm
+PROD000476,Dell Portable Phone,Beauty & Health,Dell,426947,High quality dell portable phone from Dell,4.2,170,31.25,41x32x31 cm
+PROD000477,Uniqlo Modern Shoes,Electronics,Uniqlo,33434136,High quality uniqlo modern shoes from Uniqlo,5.0,384,46.07,13x29x43 cm
+PROD000478,Apple Wireless Watch,Clothing,Apple,1872556,High quality apple wireless watch from Apple,5.0,584,14.54,15x30x40 cm
+PROD000479,LG Classic Shirt,Toys & Games,LG,2613430,High quality lg classic shirt from LG,3.6,788,18.22,11x47x48 cm
+PROD000480,HP Advanced Shoes,Beauty & Health,HP,922447,High quality hp advanced shoes from HP,3.5,413,24.79,34x23x33 cm
+PROD000481,Levi's Professional Shirt,Books,Levi's,201208,High quality levi's professional shirt from Levi's,3.0,849,16.77,34x46x16 cm
+PROD000482,Canon Eco-Friendly Book,Clothing,Canon,3607276,High quality canon eco-friendly book from Canon,4.9,420,9.52,6x44x19 cm
+PROD000483,Asus Eco-Friendly Shoes,Books,Asus,92208,High quality asus eco-friendly shoes from Asus,4.2,749,20.5,6x25x44 cm
+PROD000484,Nike Eco-Friendly Book,Home & Garden,Nike,8117395,High quality nike eco-friendly book from Nike,4.4,974,18.58,43x46x29 cm
+PROD000485,HP Classic Tablet,Automotive,HP,62440701,High quality hp classic tablet from HP,3.7,895,12.04,35x50x17 cm
+PROD000486,Nike Modern Laptop,Beauty & Health,Nike,1975788,High quality nike modern laptop from Nike,3.1,591,23.11,20x48x43 cm
+PROD000487,Adidas Professional Jeans,Food & Beverages,Adidas,282256,High quality adidas professional jeans from Adidas,4.3,822,30.24,26x15x20 cm
+PROD000488,H&M Deluxe Phone,Food & Beverages,H&M,412486,High quality h&m deluxe phone from H&M,3.1,693,20.38,38x35x29 cm
+PROD000489,Uniqlo Wireless Headphones,Clothing,Uniqlo,4607546,High quality uniqlo wireless headphones from Uniqlo,3.2,795,30.39,39x50x6 cm
+PROD000490,Dell Premium Headphones,Food & Beverages,Dell,445544,High quality dell premium headphones from Dell,3.8,842,36.29,7x28x30 cm
+PROD000491,Zara Portable Shirt,Automotive,Zara,17650628,High quality zara portable shirt from Zara,3.2,867,13.2,42x12x15 cm
+PROD000492,Canon Smart Tablet,Beauty & Health,Canon,609751,High quality canon smart tablet from Canon,4.6,215,13.3,26x46x49 cm
+PROD000493,Dell Portable Lamp,Clothing,Dell,2152930,High quality dell portable lamp from Dell,4.5,350,14.84,33x26x33 cm
+PROD000494,Asus Modern Bag,Sports & Outdoors,Asus,899695,High quality asus modern bag from Asus,4.5,151,26.14,6x19x28 cm
+PROD000495,LG Modern Headphones,Jewelry,LG,48538986,High quality lg modern headphones from LG,3.3,649,15.31,50x33x48 cm
+PROD000496,Nike Professional Tablet,Sports & Outdoors,Nike,10491310,High quality nike professional tablet from Nike,3.6,393,12.94,19x6x18 cm
+PROD000497,Sony Professional Bag,Jewelry,Sony,1309783,High quality sony professional bag from Sony,3.5,738,25.48,38x30x35 cm
+PROD000498,Nike Smart Book,Jewelry,Nike,10960718,High quality nike smart book from Nike,4.2,513,15.78,28x29x36 cm
+PROD000499,Levi's Advanced Jeans,Books,Levi's,141953,High quality levi's advanced jeans from Levi's,4.0,388,0.81,9x26x19 cm
+PROD000500,Adidas Classic Tablet,Sports & Outdoors,Adidas,4969360,High quality adidas classic tablet from Adidas,4.2,746,39.48,46x17x27 cm

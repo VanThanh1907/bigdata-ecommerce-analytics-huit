@@ -1,0 +1,478 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Analytics Dashboard - HUIT Big Data</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <style>
+        .dashboard-card {
+            border: none;
+            box-shadow: 0 2px 15px rgba(0,0,0,0.1);
+            transition: all 0.3s ease;
+        }
+        .dashboard-card:hover {
+            box-shadow: 0 5px 25px rgba(0,0,0,0.15);
+        }
+        .stat-icon {
+            width: 60px;
+            height: 60px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 24px;
+        }
+        .chart-container {
+            min-height: 400px;
+        }
+        .sidebar {
+            background-color: #343a40;
+            min-height: 100vh;
+        }
+        .nav-link {
+            color: rgba(255,255,255,0.8);
+        }
+        .nav-link:hover {
+            color: white;
+        }
+        .nav-link.active {
+            color: white;
+            background-color: rgba(255,255,255,0.1);
+        }
+    </style>
+</head>
+<body>
+    <div class="container-fluid">
+        <div class="row">
+            <!-- Sidebar -->
+            <nav class="col-md-2 d-none d-md-block sidebar">
+                <div class="sidebar-sticky pt-3">
+                    <div class="text-center text-white mb-4">
+                        <i class="fas fa-chart-bar fa-2x"></i>
+                        <h5 class="mt-2">Analytics</h5>
+                    </div>
+                    <ul class="nav flex-column">
+                        <li class="nav-item">
+                            <a class="nav-link active" href="#overview">
+                                <i class="fas fa-tachometer-alt me-2"></i>
+                                Tổng quan
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#sales">
+                                <i class="fas fa-chart-line me-2"></i>
+                                Doanh số
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#customers">
+                                <i class="fas fa-users me-2"></i>
+                                Khách hàng
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#products">
+                                <i class="fas fa-box me-2"></i>
+                                Sản phẩm
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="/">
+                                <i class="fas fa-home me-2"></i>
+                                Về trang chủ
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </nav>
+
+            <!-- Main content -->
+            <main class="col-md-10 ms-sm-auto px-md-4">
+                <!-- Header -->
+                <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom">
+                    <h1 class="h2">Dashboard Analytics</h1>
+                    <div class="btn-toolbar mb-2 mb-md-0">
+                        <button type="button" class="btn btn-sm btn-outline-secondary" onclick="refreshData()">
+                            <i class="fas fa-sync-alt"></i> Làm mới dữ liệu
+                        </button>
+                    </div>
+                </div>
+
+                <!-- Overview Stats -->
+                <div class="row mb-4">
+                    <div class="col-md-3 mb-3">
+                        <div class="card dashboard-card">
+                            <div class="card-body d-flex align-items-center">
+                                <div class="stat-icon bg-primary text-white me-3">
+                                    <i class="fas fa-users"></i>
+                                </div>
+                                <div>
+                                    <h6 class="text-muted mb-0">Tổng khách hàng</h6>
+                                    <h4 class="mb-0" id="totalCustomers">-</h4>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-3 mb-3">
+                        <div class="card dashboard-card">
+                            <div class="card-body d-flex align-items-center">
+                                <div class="stat-icon bg-success text-white me-3">
+                                    <i class="fas fa-box"></i>
+                                </div>
+                                <div>
+                                    <h6 class="text-muted mb-0">Tổng sản phẩm</h6>
+                                    <h4 class="mb-0" id="totalProducts">-</h4>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-3 mb-3">
+                        <div class="card dashboard-card">
+                            <div class="card-body d-flex align-items-center">
+                                <div class="stat-icon bg-info text-white me-3">
+                                    <i class="fas fa-shopping-cart"></i>
+                                </div>
+                                <div>
+                                    <h6 class="text-muted mb-0">Giao dịch (30 ngày)</h6>
+                                    <h4 class="mb-0" id="totalTransactions">-</h4>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-3 mb-3">
+                        <div class="card dashboard-card">
+                            <div class="card-body d-flex align-items-center">
+                                <div class="stat-icon bg-warning text-white me-3">
+                                    <i class="fas fa-dollar-sign"></i>
+                                </div>
+                                <div>
+                                    <h6 class="text-muted mb-0">Doanh thu (30 ngày)</h6>
+                                    <h4 class="mb-0" id="totalRevenue">-</h4>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Charts Row -->
+                <div class="row">
+                    <!-- Top Categories Chart -->
+                    <div class="col-lg-6 mb-4">
+                        <div class="card dashboard-card">
+                            <div class="card-header">
+                                <h5 class="card-title mb-0">
+                                    <i class="fas fa-chart-pie me-2"></i>
+                                    Top 5 Danh mục Sản phẩm
+                                </h5>
+                            </div>
+                            <div class="card-body">
+                                <div id="categoriesChart" class="chart-container"></div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Sales Trend Chart -->
+                    <div class="col-lg-6 mb-4">
+                        <div class="card dashboard-card">
+                            <div class="card-header">
+                                <h5 class="card-title mb-0">
+                                    <i class="fas fa-chart-line me-2"></i>
+                                    Xu hướng Doanh số
+                                </h5>
+                            </div>
+                            <div class="card-body">
+                                <div id="salesTrendChart" class="chart-container"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Additional Analytics -->
+                <div class="row">
+                    <div class="col-lg-8 mb-4">
+                        <div class="card dashboard-card">
+                            <div class="card-header">
+                                <h5 class="card-title mb-0">
+                                    <i class="fas fa-star me-2"></i>
+                                    Sản phẩm Bán chạy
+                                </h5>
+                            </div>
+                            <div class="card-body">
+                                <div class="table-responsive">
+                                    <table class="table table-hover" id="topProductsTable">
+                                        <thead>
+                                            <tr>
+                                                <th>Sản phẩm</th>
+                                                <th>Danh mục</th>
+                                                <th>Số lượng bán</th>
+                                                <th>Doanh thu</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            <tr>
+                                                <td colspan="4" class="text-center">
+                                                    <div class="spinner-border spinner-border-sm" role="status">
+                                                        <span class="visually-hidden">Loading...</span>
+                                                    </div>
+                                                    Đang tải...
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 mb-4">
+                        <div class="card dashboard-card">
+                            <div class="card-header">
+                                <h5 class="card-title mb-0">
+                                    <i class="fas fa-info-circle me-2"></i>
+                                    Thông tin Hệ thống
+                                </h5>
+                            </div>
+                            <div class="card-body">
+                                <div class="mb-3">
+                                    <small class="text-muted">Phiên bản</small>
+                                    <div>Big Data Analytics v1.0</div>
+                                </div>
+                                <div class="mb-3">
+                                    <small class="text-muted">Công nghệ</small>
+                                    <div>Apache Spark, MongoDB, Redis</div>
+                                </div>
+                                <div class="mb-3">
+                                    <small class="text-muted">Cập nhật cuối</small>
+                                    <div id="lastUpdate">-</div>
+                                </div>
+                                <div class="mb-3">
+                                    <small class="text-muted">Trạng thái</small>
+                                    <div>
+                                        <span class="badge bg-success">
+                                            <i class="fas fa-check-circle"></i> Hoạt động
+                                        </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </main>
+        </div>
+    </div>
+
+    <!-- Bootstrap JS -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+    
+    <!-- Custom JavaScript -->
+    <script>
+        const API_BASE = '/api';
+
+        // Load dashboard data on page load
+        document.addEventListener('DOMContentLoaded', function() {
+            loadDashboardData();
+            updateTimestamp();
+        });
+
+        async function loadDashboardData() {
+            try {
+                const response = await fetch(`${API_BASE}/analytics/dashboard`);
+                const data = await response.json();
+                
+                if (data.success) {
+                    updateOverviewStats(data.data.totals);
+                    renderCategoriesChart(data.data.top_categories);
+                    renderSalesTrendChart();
+                    updateTopProductsTable(data.data.top_categories);
+                } else {
+                    showError('Không thể tải dữ liệu dashboard');
+                }
+            } catch (error) {
+                console.error('Error loading dashboard data:', error);
+                showError('Lỗi khi tải dữ liệu');
+            }
+        }
+
+        function updateOverviewStats(totals) {
+            document.getElementById('totalCustomers').textContent = totals.customers.toLocaleString();
+            document.getElementById('totalProducts').textContent = totals.products.toLocaleString();
+            document.getElementById('totalTransactions').textContent = totals.transactions.toLocaleString();
+            
+            const revenue = new Intl.NumberFormat('vi-VN', {
+                style: 'currency',
+                currency: 'VND'
+            }).format(totals.revenue);
+            document.getElementById('totalRevenue').textContent = revenue;
+        }
+
+        function renderCategoriesChart(categories) {
+            const labels = categories.map(cat => cat._id || 'N/A');
+            const values = categories.map(cat => cat.sales);
+            
+            const data = [{
+                values: values,
+                labels: labels,
+                type: 'pie',
+                hole: 0.4,
+                textinfo: 'label+percent',
+                textposition: 'outside',
+                automargin: true
+            }];
+
+            const layout = {
+                showlegend: true,
+                margin: { t: 20, b: 20, l: 20, r: 20 },
+                font: { family: 'Arial, sans-serif', size: 12 }
+            };
+
+            const config = {
+                responsive: true,
+                displayModeBar: false
+            };
+
+            Plotly.newPlot('categoriesChart', data, layout, config);
+        }
+
+        function renderSalesTrendChart() {
+            // Generate sample trend data
+            const dates = [];
+            const sales = [];
+            
+            for (let i = 30; i >= 0; i--) {
+                const date = new Date();
+                date.setDate(date.getDate() - i);
+                dates.push(date.toISOString().split('T')[0]);
+                
+                // Generate sample data with some variation
+                const baseSales = 1000 + Math.sin(i * 0.2) * 200;
+                sales.push(baseSales + (Math.random() - 0.5) * 400);
+            }
+
+            const trace = {
+                x: dates,
+                y: sales,
+                type: 'scatter',
+                mode: 'lines+markers',
+                name: 'Doanh số',
+                line: {
+                    color: '#007bff',
+                    width: 3
+                },
+                marker: {
+                    size: 6,
+                    color: '#007bff'
+                }
+            };
+
+            const layout = {
+                xaxis: {
+                    title: 'Ngày',
+                    showgrid: true
+                },
+                yaxis: {
+                    title: 'Số lượng bán',
+                    showgrid: true
+                },
+                margin: { t: 20, b: 60, l: 60, r: 20 },
+                showlegend: false
+            };
+
+            const config = {
+                responsive: true,
+                displayModeBar: false
+            };
+
+            Plotly.newPlot('salesTrendChart', [trace], layout, config);
+        }
+
+        function updateTopProductsTable(categories) {
+            const tbody = document.querySelector('#topProductsTable tbody');
+            tbody.innerHTML = '';
+
+            categories.slice(0, 5).forEach((category, index) => {
+                const row = document.createElement('tr');
+                
+                const revenue = new Intl.NumberFormat('vi-VN', {
+                    style: 'currency',
+                    currency: 'VND'
+                }).format(category.revenue || 0);
+
+                row.innerHTML = `
+                    <td>
+                        <div class="d-flex align-items-center">
+                            <div class="badge bg-primary me-2">${index + 1}</div>
+                            <div>
+                                <div class="fw-bold">Sản phẩm ${category._id}</div>
+                                <small class="text-muted">Top seller</small>
+                            </div>
+                        </div>
+                    </td>
+                    <td>${category._id || 'N/A'}</td>
+                    <td>
+                        <span class="badge bg-success">${(category.sales || 0).toLocaleString()}</span>
+                    </td>
+                    <td class="fw-bold">${revenue}</td>
+                `;
+                
+                tbody.appendChild(row);
+            });
+
+            if (categories.length === 0) {
+                tbody.innerHTML = `
+                    <tr>
+                        <td colspan="4" class="text-center text-muted">
+                            Không có dữ liệu
+                        </td>
+                    </tr>
+                `;
+            }
+        }
+
+        function refreshData() {
+            const refreshBtn = document.querySelector('button[onclick="refreshData()"]');
+            const originalText = refreshBtn.innerHTML;
+            
+            refreshBtn.innerHTML = '<i class="fas fa-sync-alt fa-spin"></i> Đang làm mới...';
+            refreshBtn.disabled = true;
+            
+            loadDashboardData().finally(() => {
+                refreshBtn.innerHTML = originalText;
+                refreshBtn.disabled = false;
+                updateTimestamp();
+            });
+        }
+
+        function updateTimestamp() {
+            const now = new Date().toLocaleString('vi-VN');
+            document.getElementById('lastUpdate').textContent = now;
+        }
+
+        function showError(message) {
+            // Simple error display - in production, use a proper notification system
+            alert(message);
+        }
+
+        // Sidebar navigation
+        document.querySelectorAll('.sidebar .nav-link').forEach(link => {
+            link.addEventListener('click', function(e) {
+                if (this.getAttribute('href').startsWith('#')) {
+                    e.preventDefault();
+                    
+                    // Update active state
+                    document.querySelectorAll('.sidebar .nav-link').forEach(l => l.classList.remove('active'));
+                    this.classList.add('active');
+                }
+            });
+        });
+
+        // Auto-refresh every 5 minutes
+        setInterval(() => {
+            loadDashboardData();
+            updateTimestamp();
+        }, 300000);
+    </script>
+</body>
+</html>

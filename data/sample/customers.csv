@@ -1,0 +1,1001 @@
+﻿customer_id,name,email,phone,age,gender,city,registration_date,preferred_category
+CUST000001,Phạm Thị Dung,dungpt760@gmail.com,0395310485,33,Male,Da Nang,2025-07-07,Automotive
+CUST000002,Lê Văn Cường,cuờnglv33@outlook.com,0131994523,23,Male,Can Tho,2024-05-20,Jewelry
+CUST000003,Nguyễn Văn An,annv734@yahoo.com,0797808098,62,Female,Can Tho,2024-07-17,Jewelry
+CUST000004,Bùi Văn Inh,inhbv778@gmail.com,0965241839,28,Female,Nha Trang,2025-01-08,Books
+CUST000005,Đặng Văn Giang,giangdv105@hotmail.com,0199585092,42,Male,Nha Trang,2024-11-01,Jewelry
+CUST000006,Bùi Văn Inh,inhbv748@gmail.com,0593303705,52,Male,Hue,2025-07-31,Automotive
+CUST000007,Lý Thị Kim,kimlt592@hotmail.com,0306468299,63,Male,Ho Chi Minh City,2023-12-12,Home & Garden
+CUST000008,Lý Thị Kim,kimlt876@gmail.com,0349957310,24,Female,Bien Hoa,2024-07-12,Beauty & Health
+CUST000009,Vũ Thị Phương,phuongvt364@hotmail.com,0324956459,60,Female,Hanoi,2024-02-04,Books
+CUST000010,Ngô Thị Hoa,hoant474@yahoo.com,0507437181,35,Male,Nha Trang,2025-08-23,Home & Garden
+CUST000011,Trần Thị Bình,binhtt411@hotmail.com,0387484583,22,Male,Nha Trang,2025-03-16,Food & Beverages
+CUST000012,Tạ Văn Nam,namtv147@outlook.com,0384412919,26,Male,Bien Hoa,2024-02-29,Toys & Games
+CUST000013,Tạ Văn Nam,namtv225@hotmail.com,0248532577,50,Female,Hanoi,2025-09-01,Clothing
+CUST000014,Hoàng Văn Em,emhv812@yahoo.com,0830661141,45,Male,Hue,2024-09-24,Jewelry
+CUST000015,Võ Văn Phú,phuvv995@hotmail.com,0694021782,18,Male,Bien Hoa,2024-01-02,Beauty & Health
+CUST000016,Phạm Thị Dung,dungpt446@hotmail.com,0269820594,47,Male,Bien Hoa,2024-05-25,Books
+CUST000017,Phạm Thị Dung,dungpt862@hotmail.com,0786066793,50,Male,Da Nang,2024-10-02,Books
+CUST000018,Nguyễn Văn An,annv501@hotmail.com,0120912992,25,Female,Bien Hoa,2025-02-16,Electronics
+CUST000019,Ngô Thị Hoa,hoant88@gmail.com,0885879795,49,Male,Da Nang,2025-06-10,Food & Beverages
+CUST000020,Vũ Thị Phương,phuongvt541@hotmail.com,0751325257,45,Male,Can Tho,2024-12-04,Toys & Games
+CUST000021,Đinh Thị Mai,maidt922@outlook.com,0655742829,46,Male,Can Tho,2025-03-03,Clothing
+CUST000022,Phan Văn Long,longpv603@gmail.com,0694768704,32,Male,Ho Chi Minh City,2025-08-08,Electronics
+CUST000023,Ngô Thị Hoa,hoant928@gmail.com,0133729406,39,Male,Can Tho,2025-01-07,Food & Beverages
+CUST000024,Đặng Văn Giang,giangdv741@yahoo.com,0713152854,54,Female,Can Tho,2024-06-22,Toys & Games
+CUST000025,Đặng Văn Giang,giangdv100@gmail.com,0807577342,45,Female,Hue,2024-08-25,Food & Beverages
+CUST000026,Trần Thị Bình,binhtt63@gmail.com,0532311310,64,Female,Hanoi,2025-02-07,Home & Garden
+CUST000027,Đặng Văn Giang,giangdv144@outlook.com,0552991960,29,Female,Vung Tau,2025-02-06,Clothing
+CUST000028,Võ Văn Phú,phuvv52@gmail.com,0800235246,52,Male,Hanoi,2025-02-19,Books
+CUST000029,Chu Thị Oanh,oanhct493@outlook.com,0329509408,43,Male,Da Nang,2024-09-26,Electronics
+CUST000030,Tạ Văn Nam,namtv949@hotmail.com,0941889393,47,Female,Hue,2023-11-06,Automotive
+CUST000031,Dương Thị Quỳnh,quynhdt195@yahoo.com,0418587604,31,Male,Ho Chi Minh City,2024-12-02,Electronics
+CUST000032,Trần Thị Bình,binhtt515@outlook.com,0670292350,28,Male,Hanoi,2025-04-12,Clothing
+CUST000033,Lê Văn Cường,cuờnglv414@yahoo.com,0228727266,54,Male,Ho Chi Minh City,2024-01-24,Clothing
+CUST000034,Chu Thị Oanh,oanhct958@hotmail.com,0379995032,31,Female,Can Tho,2025-01-21,Toys & Games
+CUST000035,Hoàng Văn Em,emhv469@hotmail.com,0439492674,22,Male,Vung Tau,2024-01-22,Jewelry
+CUST000036,Phạm Thị Dung,dungpt551@gmail.com,0328872698,50,Female,Da Nang,2024-10-27,Clothing
+CUST000037,Ngô Thị Hoa,hoant292@hotmail.com,0269379374,46,Female,Ho Chi Minh City,2023-12-06,Automotive
+CUST000038,Lý Thị Kim,kimlt962@gmail.com,0244193987,34,Male,Hanoi,2024-04-01,Books
+CUST000039,Bùi Văn Inh,inhbv620@hotmail.com,0326161867,63,Female,Can Tho,2023-11-16,Sports & Outdoors
+CUST000040,Dương Thị Quỳnh,quynhdt928@hotmail.com,0154544899,23,Female,Bien Hoa,2025-09-04,Electronics
+CUST000041,Phan Văn Long,longpv653@yahoo.com,0381272327,28,Female,Hue,2024-03-24,Electronics
+CUST000042,Phạm Thị Dung,dungpt968@gmail.com,0841976666,27,Male,Nha Trang,2024-03-02,Automotive
+CUST000043,Hoàng Văn Em,emhv131@outlook.com,0144913399,37,Female,Ho Chi Minh City,2024-10-18,Home & Garden
+CUST000044,Ngô Thị Hoa,hoant363@gmail.com,0937643439,53,Female,Da Nang,2025-02-19,Books
+CUST000045,Vũ Thị Phương,phuongvt26@outlook.com,0292587044,65,Female,Hue,2023-12-04,Home & Garden
+CUST000046,Bùi Văn Inh,inhbv807@yahoo.com,0852991721,24,Female,Ho Chi Minh City,2024-06-25,Home & Garden
+CUST000047,Đặng Văn Giang,giangdv359@outlook.com,0427696198,32,Male,Ho Chi Minh City,2023-12-14,Home & Garden
+CUST000048,Tạ Văn Nam,namtv286@hotmail.com,0174539964,35,Female,Hue,2023-11-24,Automotive
+CUST000049,Phan Văn Long,longpv119@gmail.com,0380477683,29,Female,Ho Chi Minh City,2025-06-30,Jewelry
+CUST000050,Chu Thị Oanh,oanhct747@hotmail.com,0944420824,38,Female,Hanoi,2024-09-20,Jewelry
+CUST000051,Đặng Văn Giang,giangdv46@hotmail.com,0861052404,45,Male,Can Tho,2024-10-12,Toys & Games
+CUST000052,Lê Văn Cường,cuờnglv639@hotmail.com,0437064353,60,Male,Bien Hoa,2024-05-18,Sports & Outdoors
+CUST000053,Chu Thị Oanh,oanhct413@hotmail.com,0848621833,36,Male,Can Tho,2024-08-15,Toys & Games
+CUST000054,Vũ Thị Phương,phuongvt416@hotmail.com,0688343096,18,Female,Bien Hoa,2025-03-18,Toys & Games
+CUST000055,Phan Văn Long,longpv453@outlook.com,0574765466,61,Male,Vung Tau,2025-04-29,Clothing
+CUST000056,Lý Thị Kim,kimlt96@hotmail.com,0978775497,33,Female,Can Tho,2025-03-30,Books
+CUST000057,Nguyễn Văn An,annv251@gmail.com,0610173760,57,Male,Vung Tau,2024-08-21,Jewelry
+CUST000058,Đặng Văn Giang,giangdv507@outlook.com,0529123992,33,Male,Ho Chi Minh City,2025-07-02,Toys & Games
+CUST000059,Ngô Thị Hoa,hoant824@yahoo.com,0847229579,51,Female,Ho Chi Minh City,2024-03-28,Home & Garden
+CUST000060,Phạm Thị Dung,dungpt137@outlook.com,0960514523,47,Female,Vung Tau,2024-01-31,Automotive
+CUST000061,Chu Thị Oanh,oanhct919@outlook.com,0270894498,65,Female,Vung Tau,2025-01-27,Home & Garden
+CUST000062,Bùi Văn Inh,inhbv642@outlook.com,0356888294,35,Female,Hanoi,2024-12-31,Home & Garden
+CUST000063,Bùi Văn Inh,inhbv328@hotmail.com,0679984033,23,Male,Da Nang,2025-02-25,Toys & Games
+CUST000064,Hoàng Văn Em,emhv66@yahoo.com,0545461013,44,Female,Vung Tau,2024-08-20,Electronics
+CUST000065,Đặng Văn Giang,giangdv399@outlook.com,0926561919,55,Male,Hue,2024-06-18,Electronics
+CUST000066,Đinh Thị Mai,maidt772@hotmail.com,0518744974,44,Male,Vung Tau,2025-03-09,Sports & Outdoors
+CUST000067,Chu Thị Oanh,oanhct30@outlook.com,0517532243,39,Female,Da Nang,2024-06-28,Books
+CUST000068,Nguyễn Văn An,annv607@outlook.com,0706011277,60,Male,Hanoi,2023-12-31,Toys & Games
+CUST000069,Hoàng Văn Em,emhv187@outlook.com,0153992714,34,Female,Nha Trang,2025-03-17,Food & Beverages
+CUST000070,Phan Văn Long,longpv780@hotmail.com,0507083673,35,Female,Bien Hoa,2025-07-28,Food & Beverages
+CUST000071,Nguyễn Văn An,annv975@gmail.com,0475767056,32,Male,Ho Chi Minh City,2025-09-18,Home & Garden
+CUST000072,Đặng Văn Giang,giangdv637@gmail.com,0263619298,33,Male,Vung Tau,2023-12-04,Clothing
+CUST000073,Đặng Văn Giang,giangdv717@outlook.com,0375139575,41,Male,Hanoi,2025-05-05,Sports & Outdoors
+CUST000074,Phạm Thị Dung,dungpt952@gmail.com,0434961542,54,Female,Hue,2025-03-30,Clothing
+CUST000075,Ngô Thị Hoa,hoant714@gmail.com,0929445037,37,Male,Ho Chi Minh City,2024-10-29,Automotive
+CUST000076,Chu Thị Oanh,oanhct71@hotmail.com,0643271261,59,Female,Ho Chi Minh City,2024-08-15,Food & Beverages
+CUST000077,Phạm Thị Dung,dungpt984@outlook.com,0488896443,58,Female,Da Nang,2024-07-31,Books
+CUST000078,Bùi Văn Inh,inhbv477@outlook.com,0567694547,64,Female,Nha Trang,2025-02-10,Clothing
+CUST000079,Bùi Văn Inh,inhbv250@outlook.com,0905817775,47,Female,Nha Trang,2025-09-20,Food & Beverages
+CUST000080,Phan Văn Long,longpv500@yahoo.com,0327761953,40,Female,Nha Trang,2025-01-06,Jewelry
+CUST000081,Bùi Văn Inh,inhbv530@gmail.com,0305145276,23,Male,Hue,2024-06-06,Automotive
+CUST000082,Ngô Thị Hoa,hoant662@outlook.com,0864334960,49,Female,Ho Chi Minh City,2025-07-16,Sports & Outdoors
+CUST000083,Ngô Thị Hoa,hoant709@outlook.com,0361246928,37,Female,Vung Tau,2024-04-01,Automotive
+CUST000084,Đinh Thị Mai,maidt764@outlook.com,0690975123,39,Female,Vung Tau,2025-01-15,Sports & Outdoors
+CUST000085,Bùi Văn Inh,inhbv124@yahoo.com,0874473159,30,Female,Hanoi,2024-04-19,Books
+CUST000086,Đặng Văn Giang,giangdv757@yahoo.com,0619904272,35,Female,Hanoi,2025-04-04,Sports & Outdoors
+CUST000087,Ngô Thị Hoa,hoant184@hotmail.com,0424557359,18,Male,Bien Hoa,2025-09-03,Electronics
+CUST000088,Lý Thị Kim,kimlt654@yahoo.com,0908304440,49,Male,Ho Chi Minh City,2024-03-11,Sports & Outdoors
+CUST000089,Dương Thị Quỳnh,quynhdt452@outlook.com,0465830215,29,Male,Bien Hoa,2024-06-17,Clothing
+CUST000090,Lê Văn Cường,cuờnglv504@outlook.com,0179545125,54,Male,Da Nang,2025-05-20,Jewelry
+CUST000091,Lý Thị Kim,kimlt255@gmail.com,0227186396,53,Female,Can Tho,2024-05-02,Toys & Games
+CUST000092,Võ Văn Phú,phuvv305@outlook.com,0731924051,45,Female,Ho Chi Minh City,2024-02-03,Clothing
+CUST000093,Đặng Văn Giang,giangdv271@yahoo.com,0809129316,23,Male,Can Tho,2025-04-25,Automotive
+CUST000094,Lê Văn Cường,cuờnglv3@yahoo.com,0538642403,46,Female,Bien Hoa,2025-09-16,Home & Garden
+CUST000095,Lý Thị Kim,kimlt720@hotmail.com,0587512424,22,Male,Bien Hoa,2024-01-18,Jewelry
+CUST000096,Đặng Văn Giang,giangdv118@outlook.com,0684719405,32,Male,Bien Hoa,2025-05-27,Clothing
+CUST000097,Trần Thị Bình,binhtt812@yahoo.com,0430295664,56,Female,Vung Tau,2025-06-14,Food & Beverages
+CUST000098,Lý Thị Kim,kimlt966@outlook.com,0392322121,50,Female,Vung Tau,2025-07-29,Jewelry
+CUST000099,Trần Thị Bình,binhtt753@outlook.com,0446090161,56,Female,Ho Chi Minh City,2025-07-18,Home & Garden
+CUST000100,Nguyễn Văn An,annv591@hotmail.com,0143198431,29,Female,Vung Tau,2025-01-08,Books
+CUST000101,Chu Thị Oanh,oanhct993@outlook.com,0197970787,48,Female,Hue,2024-11-12,Beauty & Health
+CUST000102,Phạm Thị Dung,dungpt338@yahoo.com,0542000551,62,Female,Bien Hoa,2023-12-11,Toys & Games
+CUST000103,Trần Thị Bình,binhtt91@outlook.com,0437710224,34,Female,Hanoi,2024-09-01,Automotive
+CUST000104,Nguyễn Văn An,annv424@outlook.com,0158201193,30,Female,Vung Tau,2024-01-18,Food & Beverages
+CUST000105,Trần Thị Bình,binhtt274@yahoo.com,0689720101,26,Female,Vung Tau,2023-11-04,Food & Beverages
+CUST000106,Phạm Thị Dung,dungpt997@gmail.com,0776481264,56,Male,Da Nang,2024-12-05,Automotive
+CUST000107,Nguyễn Văn An,annv96@outlook.com,0341270488,25,Female,Hanoi,2023-12-26,Books
+CUST000108,Dương Thị Quỳnh,quynhdt522@hotmail.com,0857429971,35,Female,Vung Tau,2024-06-23,Home & Garden
+CUST000109,Võ Văn Phú,phuvv393@yahoo.com,0304666325,56,Male,Hanoi,2025-01-10,Toys & Games
+CUST000110,Phan Văn Long,longpv841@hotmail.com,0102754426,36,Female,Vung Tau,2025-05-20,Food & Beverages
+CUST000111,Dương Thị Quỳnh,quynhdt341@hotmail.com,0692616814,52,Female,Vung Tau,2024-11-24,Home & Garden
+CUST000112,Ngô Thị Hoa,hoant240@outlook.com,0932734539,44,Male,Nha Trang,2024-06-22,Toys & Games
+CUST000113,Tạ Văn Nam,namtv508@yahoo.com,0139749508,26,Female,Hanoi,2024-07-26,Clothing
+CUST000114,Võ Văn Phú,phuvv740@gmail.com,0254785699,44,Male,Hanoi,2024-06-26,Sports & Outdoors
+CUST000115,Phan Văn Long,longpv666@outlook.com,0186237917,39,Female,Nha Trang,2024-01-17,Food & Beverages
+CUST000116,Trần Thị Bình,binhtt241@gmail.com,0777703980,61,Female,Can Tho,2025-07-19,Toys & Games
+CUST000117,Phạm Thị Dung,dungpt455@gmail.com,0278632824,62,Female,Ho Chi Minh City,2025-09-02,Beauty & Health
+CUST000118,Trần Thị Bình,binhtt368@hotmail.com,0502482554,45,Male,Can Tho,2024-04-24,Toys & Games
+CUST000119,Vũ Thị Phương,phuongvt180@yahoo.com,0184791618,57,Female,Can Tho,2024-05-28,Jewelry
+CUST000120,Hoàng Văn Em,emhv473@yahoo.com,0784944881,34,Female,Bien Hoa,2023-12-07,Electronics
+CUST000121,Võ Văn Phú,phuvv694@hotmail.com,0686905284,28,Male,Vung Tau,2024-10-31,Jewelry
+CUST000122,Lý Thị Kim,kimlt707@outlook.com,0368540924,47,Female,Can Tho,2024-09-21,Food & Beverages
+CUST000123,Phạm Thị Dung,dungpt391@yahoo.com,0714097318,40,Female,Bien Hoa,2025-09-27,Toys & Games
+CUST000124,Bùi Văn Inh,inhbv580@gmail.com,0836371599,65,Male,Vung Tau,2024-12-30,Home & Garden
+CUST000125,Đinh Thị Mai,maidt652@yahoo.com,0304152670,57,Female,Da Nang,2024-01-15,Clothing
+CUST000126,Trần Thị Bình,binhtt808@hotmail.com,0573330302,20,Female,Da Nang,2025-07-19,Sports & Outdoors
+CUST000127,Phan Văn Long,longpv180@outlook.com,0315601773,26,Female,Bien Hoa,2025-05-04,Sports & Outdoors
+CUST000128,Dương Thị Quỳnh,quynhdt765@hotmail.com,0463692735,25,Female,Hanoi,2025-05-28,Home & Garden
+CUST000129,Tạ Văn Nam,namtv93@hotmail.com,0948988297,43,Male,Bien Hoa,2024-04-18,Clothing
+CUST000130,Võ Văn Phú,phuvv689@hotmail.com,0904245086,61,Female,Hue,2024-01-05,Beauty & Health
+CUST000131,Phạm Thị Dung,dungpt483@yahoo.com,0126870011,57,Female,Can Tho,2023-12-26,Clothing
+CUST000132,Võ Văn Phú,phuvv665@hotmail.com,0538404342,25,Male,Ho Chi Minh City,2025-09-11,Sports & Outdoors
+CUST000133,Dương Thị Quỳnh,quynhdt100@gmail.com,0352114611,52,Male,Hue,2024-07-12,Beauty & Health
+CUST000134,Chu Thị Oanh,oanhct907@yahoo.com,0545478870,59,Male,Vung Tau,2024-01-28,Toys & Games
+CUST000135,Bùi Văn Inh,inhbv707@gmail.com,0497853519,31,Female,Vung Tau,2025-02-20,Beauty & Health
+CUST000136,Phạm Thị Dung,dungpt558@hotmail.com,0792377512,40,Male,Hue,2025-01-10,Home & Garden
+CUST000137,Phạm Thị Dung,dungpt94@outlook.com,0811642514,31,Male,Ho Chi Minh City,2024-11-12,Home & Garden
+CUST000138,Hoàng Văn Em,emhv71@yahoo.com,0991010113,53,Male,Can Tho,2025-02-23,Beauty & Health
+CUST000139,Hoàng Văn Em,emhv284@gmail.com,0255357534,26,Female,Da Nang,2025-06-29,Electronics
+CUST000140,Hoàng Văn Em,emhv367@gmail.com,0948239575,33,Female,Ho Chi Minh City,2025-04-24,Sports & Outdoors
+CUST000141,Trần Thị Bình,binhtt760@yahoo.com,0552002959,51,Male,Hanoi,2024-06-19,Food & Beverages
+CUST000142,Đinh Thị Mai,maidt463@gmail.com,0640992677,32,Male,Bien Hoa,2024-07-07,Electronics
+CUST000143,Trần Thị Bình,binhtt868@outlook.com,0531233244,45,Male,Vung Tau,2023-10-21,Food & Beverages
+CUST000144,Lê Văn Cường,cuờnglv330@gmail.com,0753154389,27,Male,Da Nang,2025-01-11,Jewelry
+CUST000145,Phan Văn Long,longpv612@outlook.com,0669681065,36,Female,Hue,2025-07-10,Clothing
+CUST000146,Đặng Văn Giang,giangdv463@outlook.com,0345343109,44,Female,Vung Tau,2024-09-06,Toys & Games
+CUST000147,Phạm Thị Dung,dungpt438@hotmail.com,0435569630,60,Female,Nha Trang,2025-05-16,Food & Beverages
+CUST000148,Lê Văn Cường,cuờnglv852@gmail.com,0191659287,23,Female,Hanoi,2024-10-03,Books
+CUST000149,Trần Thị Bình,binhtt687@hotmail.com,0231244840,44,Female,Hue,2025-08-28,Sports & Outdoors
+CUST000150,Lý Thị Kim,kimlt107@hotmail.com,0720535283,50,Male,Da Nang,2023-12-17,Food & Beverages
+CUST000151,Ngô Thị Hoa,hoant359@gmail.com,0697285504,41,Male,Bien Hoa,2024-03-11,Home & Garden
+CUST000152,Chu Thị Oanh,oanhct624@gmail.com,0806340901,62,Female,Ho Chi Minh City,2025-04-18,Sports & Outdoors
+CUST000153,Lý Thị Kim,kimlt360@hotmail.com,0106556040,29,Male,Hue,2025-08-09,Books
+CUST000154,Nguyễn Văn An,annv765@gmail.com,0669601448,31,Female,Hue,2024-07-12,Beauty & Health
+CUST000155,Vũ Thị Phương,phuongvt320@hotmail.com,0874807770,38,Male,Ho Chi Minh City,2025-05-13,Books
+CUST000156,Trần Thị Bình,binhtt279@gmail.com,0575788930,60,Female,Vung Tau,2024-02-06,Food & Beverages
+CUST000157,Chu Thị Oanh,oanhct221@hotmail.com,0910614025,50,Male,Nha Trang,2024-08-05,Clothing
+CUST000158,Lý Thị Kim,kimlt540@outlook.com,0816328133,37,Male,Can Tho,2024-09-10,Jewelry
+CUST000159,Trần Thị Bình,binhtt210@gmail.com,0423646570,31,Male,Bien Hoa,2024-12-27,Beauty & Health
+CUST000160,Phạm Thị Dung,dungpt510@gmail.com,0902100304,45,Male,Da Nang,2024-09-25,Automotive
+CUST000161,Ngô Thị Hoa,hoant74@hotmail.com,0526351920,65,Male,Hue,2025-09-30,Food & Beverages
+CUST000162,Lê Văn Cường,cuờnglv590@hotmail.com,0560940492,54,Female,Hue,2024-12-27,Clothing
+CUST000163,Tạ Văn Nam,namtv990@gmail.com,0448717183,28,Female,Nha Trang,2025-07-21,Toys & Games
+CUST000164,Phạm Thị Dung,dungpt447@yahoo.com,0732295732,43,Male,Hue,2024-12-06,Beauty & Health
+CUST000165,Ngô Thị Hoa,hoant798@hotmail.com,0280531127,22,Male,Can Tho,2024-10-27,Beauty & Health
+CUST000166,Hoàng Văn Em,emhv106@yahoo.com,0257243284,34,Male,Da Nang,2024-02-11,Books
+CUST000167,Lê Văn Cường,cuờnglv975@yahoo.com,0929839316,58,Female,Vung Tau,2024-03-21,Jewelry
+CUST000168,Võ Văn Phú,phuvv885@hotmail.com,0773469560,38,Male,Vung Tau,2025-08-11,Food & Beverages
+CUST000169,Võ Văn Phú,phuvv816@hotmail.com,0394928601,55,Male,Nha Trang,2024-05-18,Clothing
+CUST000170,Lý Thị Kim,kimlt463@outlook.com,0140380477,21,Female,Bien Hoa,2025-08-02,Clothing
+CUST000171,Tạ Văn Nam,namtv595@outlook.com,0695192667,65,Male,Vung Tau,2024-03-13,Home & Garden
+CUST000172,Phan Văn Long,longpv514@outlook.com,0261985842,21,Female,Hanoi,2024-11-02,Clothing
+CUST000173,Vũ Thị Phương,phuongvt254@gmail.com,0859803019,46,Female,Da Nang,2024-10-12,Beauty & Health
+CUST000174,Lý Thị Kim,kimlt419@outlook.com,0931575232,39,Male,Nha Trang,2025-08-13,Beauty & Health
+CUST000175,Phạm Thị Dung,dungpt291@outlook.com,0370578414,64,Male,Nha Trang,2025-07-28,Jewelry
+CUST000176,Hoàng Văn Em,emhv318@hotmail.com,0804433388,62,Female,Da Nang,2024-02-18,Clothing
+CUST000177,Lý Thị Kim,kimlt659@outlook.com,0950040559,39,Male,Hanoi,2023-12-28,Toys & Games
+CUST000178,Đinh Thị Mai,maidt372@gmail.com,0431642423,29,Male,Nha Trang,2024-06-09,Home & Garden
+CUST000179,Ngô Thị Hoa,hoant159@yahoo.com,0182855381,36,Male,Ho Chi Minh City,2023-12-12,Beauty & Health
+CUST000180,Hoàng Văn Em,emhv158@outlook.com,0274211616,29,Male,Vung Tau,2025-09-05,Toys & Games
+CUST000181,Đinh Thị Mai,maidt993@yahoo.com,0576954730,57,Female,Vung Tau,2025-02-22,Automotive
+CUST000182,Ngô Thị Hoa,hoant989@hotmail.com,0968253265,48,Male,Nha Trang,2023-11-25,Jewelry
+CUST000183,Võ Văn Phú,phuvv788@outlook.com,0402550088,42,Female,Da Nang,2025-03-29,Jewelry
+CUST000184,Hoàng Văn Em,emhv54@hotmail.com,0788460744,48,Female,Hanoi,2023-10-22,Automotive
+CUST000185,Phạm Thị Dung,dungpt86@hotmail.com,0919390458,28,Female,Vung Tau,2024-05-12,Books
+CUST000186,Chu Thị Oanh,oanhct970@gmail.com,0338411494,46,Female,Ho Chi Minh City,2024-08-21,Electronics
+CUST000187,Tạ Văn Nam,namtv242@hotmail.com,0514642708,23,Female,Can Tho,2025-09-21,Beauty & Health
+CUST000188,Phạm Thị Dung,dungpt811@hotmail.com,0256819248,26,Male,Bien Hoa,2024-06-23,Books
+CUST000189,Dương Thị Quỳnh,quynhdt631@outlook.com,0105638424,23,Male,Bien Hoa,2025-03-13,Books
+CUST000190,Chu Thị Oanh,oanhct795@gmail.com,0409346714,33,Female,Hanoi,2025-09-01,Home & Garden
+CUST000191,Chu Thị Oanh,oanhct65@outlook.com,0219032752,49,Male,Can Tho,2025-05-25,Sports & Outdoors
+CUST000192,Chu Thị Oanh,oanhct630@gmail.com,0478833337,33,Female,Da Nang,2023-12-09,Clothing
+CUST000193,Đinh Thị Mai,maidt977@gmail.com,0664852025,52,Male,Hue,2024-06-25,Electronics
+CUST000194,Tạ Văn Nam,namtv260@hotmail.com,0902425085,19,Female,Hanoi,2024-10-31,Home & Garden
+CUST000195,Phạm Thị Dung,dungpt137@hotmail.com,0147605080,40,Female,Da Nang,2023-11-18,Food & Beverages
+CUST000196,Dương Thị Quỳnh,quynhdt831@yahoo.com,0244796859,22,Female,Ho Chi Minh City,2024-12-23,Home & Garden
+CUST000197,Trần Thị Bình,binhtt908@yahoo.com,0144996163,38,Female,Hue,2024-04-11,Food & Beverages
+CUST000198,Bùi Văn Inh,inhbv772@gmail.com,0794604127,30,Female,Nha Trang,2025-09-01,Beauty & Health
+CUST000199,Bùi Văn Inh,inhbv819@gmail.com,0495157577,45,Female,Vung Tau,2024-09-19,Beauty & Health
+CUST000200,Vũ Thị Phương,phuongvt709@outlook.com,0634211672,41,Female,Hanoi,2024-08-11,Clothing
+CUST000201,Chu Thị Oanh,oanhct559@yahoo.com,0415429295,38,Male,Hanoi,2024-11-18,Sports & Outdoors
+CUST000202,Lý Thị Kim,kimlt618@outlook.com,0870584681,45,Male,Vung Tau,2024-10-25,Food & Beverages
+CUST000203,Trần Thị Bình,binhtt630@hotmail.com,0567013808,35,Male,Hanoi,2023-12-02,Toys & Games
+CUST000204,Đinh Thị Mai,maidt976@yahoo.com,0133436988,27,Female,Ho Chi Minh City,2025-06-12,Clothing
+CUST000205,Ngô Thị Hoa,hoant371@hotmail.com,0511086777,54,Male,Da Nang,2023-11-24,Food & Beverages
+CUST000206,Đinh Thị Mai,maidt455@hotmail.com,0919355714,22,Male,Nha Trang,2024-09-07,Beauty & Health
+CUST000207,Bùi Văn Inh,inhbv984@yahoo.com,0221814525,19,Male,Vung Tau,2024-05-07,Toys & Games
+CUST000208,Phạm Thị Dung,dungpt794@hotmail.com,0379484009,63,Female,Can Tho,2024-02-01,Sports & Outdoors
+CUST000209,Dương Thị Quỳnh,quynhdt126@yahoo.com,0245737277,22,Female,Da Nang,2024-07-21,Clothing
+CUST000210,Phan Văn Long,longpv727@hotmail.com,0169727803,53,Female,Bien Hoa,2025-05-11,Books
+CUST000211,Đinh Thị Mai,maidt125@yahoo.com,0315801027,26,Male,Vung Tau,2025-09-23,Beauty & Health
+CUST000212,Đinh Thị Mai,maidt823@outlook.com,0692326390,26,Male,Hanoi,2024-12-07,Toys & Games
+CUST000213,Dương Thị Quỳnh,quynhdt788@outlook.com,0539625898,54,Male,Da Nang,2024-11-29,Clothing
+CUST000214,Võ Văn Phú,phuvv697@outlook.com,0655511084,40,Male,Da Nang,2025-06-09,Toys & Games
+CUST000215,Trần Thị Bình,binhtt531@gmail.com,0264299106,37,Male,Da Nang,2024-11-23,Home & Garden
+CUST000216,Đinh Thị Mai,maidt867@hotmail.com,0184675178,34,Male,Bien Hoa,2025-06-13,Sports & Outdoors
+CUST000217,Lê Văn Cường,cuờnglv607@yahoo.com,0723464439,27,Male,Nha Trang,2024-03-21,Electronics
+CUST000218,Nguyễn Văn An,annv47@gmail.com,0788755699,54,Female,Can Tho,2024-03-13,Toys & Games
+CUST000219,Nguyễn Văn An,annv911@outlook.com,0773412230,52,Female,Bien Hoa,2024-06-12,Home & Garden
+CUST000220,Tạ Văn Nam,namtv465@hotmail.com,0178354184,62,Male,Da Nang,2024-07-26,Toys & Games
+CUST000221,Dương Thị Quỳnh,quynhdt209@outlook.com,0465278987,56,Male,Nha Trang,2024-11-27,Beauty & Health
+CUST000222,Tạ Văn Nam,namtv779@yahoo.com,0497864507,50,Male,Nha Trang,2025-02-14,Food & Beverages
+CUST000223,Phạm Thị Dung,dungpt461@hotmail.com,0366200875,27,Male,Ho Chi Minh City,2024-12-26,Toys & Games
+CUST000224,Chu Thị Oanh,oanhct986@yahoo.com,0271476207,38,Female,Can Tho,2025-05-09,Food & Beverages
+CUST000225,Võ Văn Phú,phuvv901@outlook.com,0431292818,49,Male,Hanoi,2024-09-12,Automotive
+CUST000226,Võ Văn Phú,phuvv221@yahoo.com,0726360971,40,Male,Ho Chi Minh City,2025-01-04,Food & Beverages
+CUST000227,Dương Thị Quỳnh,quynhdt550@hotmail.com,0108780419,24,Female,Da Nang,2025-01-22,Beauty & Health
+CUST000228,Tạ Văn Nam,namtv47@hotmail.com,0530121245,21,Male,Nha Trang,2024-04-01,Sports & Outdoors
+CUST000229,Lê Văn Cường,cuờnglv517@outlook.com,0583564328,53,Female,Hanoi,2025-06-10,Clothing
+CUST000230,Tạ Văn Nam,namtv814@hotmail.com,0464090064,53,Female,Da Nang,2025-03-30,Jewelry
+CUST000231,Tạ Văn Nam,namtv47@gmail.com,0141783553,26,Female,Vung Tau,2024-05-06,Food & Beverages
+CUST000232,Hoàng Văn Em,emhv336@yahoo.com,0758276886,38,Male,Hue,2024-01-27,Sports & Outdoors
+CUST000233,Phan Văn Long,longpv726@outlook.com,0704435323,37,Female,Ho Chi Minh City,2024-10-07,Beauty & Health
+CUST000234,Phạm Thị Dung,dungpt598@outlook.com,0430366556,64,Male,Vung Tau,2025-01-21,Jewelry
+CUST000235,Ngô Thị Hoa,hoant598@gmail.com,0615877957,28,Female,Da Nang,2023-11-22,Home & Garden
+CUST000236,Trần Thị Bình,binhtt196@gmail.com,0120333847,46,Female,Hue,2025-05-17,Toys & Games
+CUST000237,Đặng Văn Giang,giangdv514@outlook.com,0932120169,57,Female,Ho Chi Minh City,2023-10-28,Books
+CUST000238,Đặng Văn Giang,giangdv679@hotmail.com,0613646933,51,Female,Nha Trang,2025-04-25,Food & Beverages
+CUST000239,Phan Văn Long,longpv693@hotmail.com,0928917719,64,Female,Vung Tau,2025-04-06,Home & Garden
+CUST000240,Bùi Văn Inh,inhbv231@hotmail.com,0419561201,36,Male,Vung Tau,2024-11-29,Food & Beverages
+CUST000241,Đinh Thị Mai,maidt295@hotmail.com,0230861323,54,Female,Hue,2024-10-31,Books
+CUST000242,Lý Thị Kim,kimlt295@gmail.com,0866803374,23,Female,Vung Tau,2023-12-18,Sports & Outdoors
+CUST000243,Dương Thị Quỳnh,quynhdt207@yahoo.com,0989006374,52,Female,Bien Hoa,2025-06-01,Clothing
+CUST000244,Ngô Thị Hoa,hoant52@yahoo.com,0819228743,51,Male,Can Tho,2025-08-27,Clothing
+CUST000245,Chu Thị Oanh,oanhct735@hotmail.com,0607239833,24,Male,Ho Chi Minh City,2024-04-04,Books
+CUST000246,Chu Thị Oanh,oanhct489@outlook.com,0798510601,30,Female,Nha Trang,2024-12-31,Electronics
+CUST000247,Lê Văn Cường,cuờnglv548@yahoo.com,0893158610,64,Male,Da Nang,2024-08-18,Books
+CUST000248,Trần Thị Bình,binhtt807@outlook.com,0631914410,29,Female,Ho Chi Minh City,2025-10-10,Sports & Outdoors
+CUST000249,Phạm Thị Dung,dungpt292@hotmail.com,0587853601,59,Female,Da Nang,2024-05-21,Food & Beverages
+CUST000250,Bùi Văn Inh,inhbv829@yahoo.com,0220953538,39,Male,Vung Tau,2023-12-26,Sports & Outdoors
+CUST000251,Vũ Thị Phương,phuongvt755@gmail.com,0461971444,36,Male,Da Nang,2024-02-02,Toys & Games
+CUST000252,Chu Thị Oanh,oanhct89@hotmail.com,0530391423,60,Male,Da Nang,2025-05-29,Food & Beverages
+CUST000253,Phan Văn Long,longpv7@yahoo.com,0380016058,42,Male,Vung Tau,2025-01-19,Beauty & Health
+CUST000254,Lý Thị Kim,kimlt268@gmail.com,0801887172,41,Male,Ho Chi Minh City,2023-12-06,Clothing
+CUST000255,Võ Văn Phú,phuvv164@hotmail.com,0535312769,61,Female,Hanoi,2024-01-04,Sports & Outdoors
+CUST000256,Đinh Thị Mai,maidt225@yahoo.com,0243418388,48,Male,Vung Tau,2024-02-07,Beauty & Health
+CUST000257,Chu Thị Oanh,oanhct776@outlook.com,0677155220,60,Male,Can Tho,2023-11-23,Jewelry
+CUST000258,Lê Văn Cường,cuờnglv541@outlook.com,0855663125,41,Male,Hanoi,2025-08-17,Automotive
+CUST000259,Đặng Văn Giang,giangdv169@yahoo.com,0452313624,51,Female,Hanoi,2023-11-23,Home & Garden
+CUST000260,Dương Thị Quỳnh,quynhdt921@gmail.com,0648011361,46,Male,Vung Tau,2025-06-06,Automotive
+CUST000261,Chu Thị Oanh,oanhct578@outlook.com,0161994392,53,Female,Bien Hoa,2025-09-27,Toys & Games
+CUST000262,Bùi Văn Inh,inhbv764@gmail.com,0333969748,55,Male,Ho Chi Minh City,2024-08-12,Beauty & Health
+CUST000263,Lê Văn Cường,cuờnglv958@gmail.com,0174108740,48,Male,Bien Hoa,2024-08-27,Books
+CUST000264,Hoàng Văn Em,emhv384@outlook.com,0510684364,46,Female,Hue,2025-07-29,Automotive
+CUST000265,Hoàng Văn Em,emhv122@hotmail.com,0291634595,52,Female,Da Nang,2025-03-05,Electronics
+CUST000266,Nguyễn Văn An,annv475@hotmail.com,0823164961,64,Female,Hue,2025-02-26,Home & Garden
+CUST000267,Võ Văn Phú,phuvv159@hotmail.com,0395976645,30,Male,Ho Chi Minh City,2023-12-13,Toys & Games
+CUST000268,Nguyễn Văn An,annv212@yahoo.com,0172253060,24,Male,Vung Tau,2024-02-15,Electronics
+CUST000269,Ngô Thị Hoa,hoant412@gmail.com,0571332733,32,Male,Ho Chi Minh City,2025-05-29,Automotive
+CUST000270,Lý Thị Kim,kimlt836@yahoo.com,0885460919,54,Female,Nha Trang,2025-02-19,Sports & Outdoors
+CUST000271,Hoàng Văn Em,emhv424@yahoo.com,0422660441,35,Male,Da Nang,2024-01-17,Toys & Games
+CUST000272,Dương Thị Quỳnh,quynhdt996@gmail.com,0469812603,59,Female,Nha Trang,2023-11-06,Toys & Games
+CUST000273,Chu Thị Oanh,oanhct308@yahoo.com,0504221050,29,Female,Can Tho,2025-03-03,Sports & Outdoors
+CUST000274,Hoàng Văn Em,emhv937@outlook.com,0161873231,53,Female,Hue,2024-03-28,Automotive
+CUST000275,Hoàng Văn Em,emhv249@outlook.com,0373799489,31,Female,Hanoi,2024-07-16,Beauty & Health
+CUST000276,Lê Văn Cường,cuờnglv53@yahoo.com,0388258432,42,Male,Hanoi,2025-04-10,Jewelry
+CUST000277,Đặng Văn Giang,giangdv214@outlook.com,0457517705,37,Male,Can Tho,2025-04-08,Clothing
+CUST000278,Dương Thị Quỳnh,quynhdt713@yahoo.com,0748971205,63,Male,Hue,2025-02-16,Automotive
+CUST000279,Phan Văn Long,longpv390@hotmail.com,0600632621,52,Female,Bien Hoa,2025-01-25,Beauty & Health
+CUST000280,Dương Thị Quỳnh,quynhdt101@outlook.com,0962017778,64,Female,Nha Trang,2025-03-25,Beauty & Health
+CUST000281,Phan Văn Long,longpv47@outlook.com,0704006325,32,Male,Ho Chi Minh City,2025-01-25,Automotive
+CUST000282,Chu Thị Oanh,oanhct157@hotmail.com,0310659326,39,Male,Hue,2024-03-15,Home & Garden
+CUST000283,Dương Thị Quỳnh,quynhdt264@hotmail.com,0919652226,49,Female,Vung Tau,2025-04-30,Beauty & Health
+CUST000284,Vũ Thị Phương,phuongvt738@yahoo.com,0686849648,49,Male,Ho Chi Minh City,2024-05-01,Electronics
+CUST000285,Lê Văn Cường,cuờnglv783@gmail.com,0106854580,44,Male,Can Tho,2025-08-11,Books
+CUST000286,Nguyễn Văn An,annv518@yahoo.com,0589636644,41,Male,Vung Tau,2023-12-14,Food & Beverages
+CUST000287,Nguyễn Văn An,annv545@gmail.com,0692322761,44,Male,Ho Chi Minh City,2024-04-25,Sports & Outdoors
+CUST000288,Lý Thị Kim,kimlt515@gmail.com,0973120912,62,Female,Da Nang,2025-07-02,Clothing
+CUST000289,Hoàng Văn Em,emhv197@yahoo.com,0765484610,51,Female,Nha Trang,2025-01-19,Toys & Games
+CUST000290,Lê Văn Cường,cuờnglv983@hotmail.com,0535968611,47,Male,Can Tho,2024-12-16,Clothing
+CUST000291,Trần Thị Bình,binhtt416@gmail.com,0507231644,42,Female,Ho Chi Minh City,2024-01-06,Electronics
+CUST000292,Vũ Thị Phương,phuongvt512@gmail.com,0565906941,59,Female,Hanoi,2024-04-27,Electronics
+CUST000293,Ngô Thị Hoa,hoant923@yahoo.com,0843338269,54,Female,Bien Hoa,2025-09-02,Clothing
+CUST000294,Bùi Văn Inh,inhbv184@gmail.com,0437675369,19,Male,Da Nang,2023-10-21,Toys & Games
+CUST000295,Lê Văn Cường,cuờnglv167@hotmail.com,0705545509,33,Female,Nha Trang,2024-09-21,Books
+CUST000296,Lê Văn Cường,cuờnglv55@hotmail.com,0204889313,45,Male,Hanoi,2024-11-05,Jewelry
+CUST000297,Tạ Văn Nam,namtv31@hotmail.com,0780884334,35,Female,Vung Tau,2025-02-28,Beauty & Health
+CUST000298,Tạ Văn Nam,namtv191@outlook.com,0829816799,55,Female,Hanoi,2024-01-25,Sports & Outdoors
+CUST000299,Ngô Thị Hoa,hoant85@gmail.com,0387732777,27,Female,Da Nang,2024-09-16,Beauty & Health
+CUST000300,Đinh Thị Mai,maidt94@gmail.com,0105578324,37,Female,Nha Trang,2025-01-16,Clothing
+CUST000301,Hoàng Văn Em,emhv192@gmail.com,0562760731,46,Female,Hanoi,2025-09-23,Clothing
+CUST000302,Đinh Thị Mai,maidt612@gmail.com,0742144634,38,Female,Ho Chi Minh City,2024-12-25,Toys & Games
+CUST000303,Tạ Văn Nam,namtv743@gmail.com,0700797791,33,Male,Hue,2025-04-29,Books
+CUST000304,Bùi Văn Inh,inhbv275@hotmail.com,0629487801,27,Male,Da Nang,2024-07-31,Sports & Outdoors
+CUST000305,Chu Thị Oanh,oanhct496@hotmail.com,0940381893,22,Female,Bien Hoa,2025-02-09,Food & Beverages
+CUST000306,Đặng Văn Giang,giangdv110@outlook.com,0245480775,37,Male,Hue,2024-11-13,Jewelry
+CUST000307,Tạ Văn Nam,namtv451@hotmail.com,0459420281,45,Male,Bien Hoa,2024-11-25,Jewelry
+CUST000308,Đặng Văn Giang,giangdv322@outlook.com,0290736564,43,Female,Bien Hoa,2023-11-08,Food & Beverages
+CUST000309,Ngô Thị Hoa,hoant386@hotmail.com,0400969989,43,Female,Hanoi,2024-03-21,Home & Garden
+CUST000310,Vũ Thị Phương,phuongvt976@gmail.com,0880839406,47,Male,Vung Tau,2024-12-25,Clothing
+CUST000311,Chu Thị Oanh,oanhct143@outlook.com,0780039397,37,Male,Bien Hoa,2023-12-15,Books
+CUST000312,Chu Thị Oanh,oanhct76@outlook.com,0582181718,56,Female,Hue,2024-04-20,Automotive
+CUST000313,Chu Thị Oanh,oanhct810@gmail.com,0486041850,62,Male,Hanoi,2025-02-07,Beauty & Health
+CUST000314,Vũ Thị Phương,phuongvt577@gmail.com,0792596980,61,Female,Nha Trang,2024-08-05,Clothing
+CUST000315,Nguyễn Văn An,annv265@gmail.com,0338371847,50,Male,Vung Tau,2024-10-01,Toys & Games
+CUST000316,Võ Văn Phú,phuvv354@yahoo.com,0126373949,48,Male,Bien Hoa,2024-08-20,Clothing
+CUST000317,Phạm Thị Dung,dungpt357@yahoo.com,0434889710,39,Female,Can Tho,2024-05-04,Food & Beverages
+CUST000318,Đinh Thị Mai,maidt100@outlook.com,0570477095,64,Female,Nha Trang,2025-08-12,Sports & Outdoors
+CUST000319,Trần Thị Bình,binhtt24@gmail.com,0468377143,59,Male,Da Nang,2025-02-12,Automotive
+CUST000320,Vũ Thị Phương,phuongvt339@yahoo.com,0701133236,45,Female,Can Tho,2024-08-31,Books
+CUST000321,Vũ Thị Phương,phuongvt406@outlook.com,0131344962,65,Male,Vung Tau,2024-02-21,Toys & Games
+CUST000322,Tạ Văn Nam,namtv722@gmail.com,0330635563,31,Female,Hanoi,2024-03-07,Clothing
+CUST000323,Vũ Thị Phương,phuongvt334@hotmail.com,0311606895,47,Male,Bien Hoa,2023-12-03,Food & Beverages
+CUST000324,Phan Văn Long,longpv626@outlook.com,0521490916,55,Male,Nha Trang,2024-10-24,Food & Beverages
+CUST000325,Vũ Thị Phương,phuongvt941@hotmail.com,0759797724,55,Male,Da Nang,2024-12-03,Clothing
+CUST000326,Ngô Thị Hoa,hoant120@hotmail.com,0296542559,41,Male,Hue,2024-08-17,Jewelry
+CUST000327,Hoàng Văn Em,emhv434@outlook.com,0299451515,49,Male,Da Nang,2024-06-05,Sports & Outdoors
+CUST000328,Hoàng Văn Em,emhv323@yahoo.com,0584258607,57,Male,Nha Trang,2025-10-10,Food & Beverages
+CUST000329,Hoàng Văn Em,emhv835@yahoo.com,0512256916,53,Female,Hue,2023-11-18,Food & Beverages
+CUST000330,Chu Thị Oanh,oanhct501@outlook.com,0279587066,23,Male,Can Tho,2024-12-24,Electronics
+CUST000331,Bùi Văn Inh,inhbv551@yahoo.com,0409957384,28,Female,Vung Tau,2024-04-05,Automotive
+CUST000332,Phạm Thị Dung,dungpt275@gmail.com,0932271276,52,Female,Ho Chi Minh City,2024-07-25,Automotive
+CUST000333,Đặng Văn Giang,giangdv105@outlook.com,0890261845,59,Male,Bien Hoa,2025-09-16,Food & Beverages
+CUST000334,Bùi Văn Inh,inhbv883@hotmail.com,0976955647,23,Female,Hanoi,2025-02-19,Home & Garden
+CUST000335,Đinh Thị Mai,maidt170@outlook.com,0761587312,26,Male,Can Tho,2025-08-20,Jewelry
+CUST000336,Đinh Thị Mai,maidt612@hotmail.com,0678498324,28,Female,Bien Hoa,2024-12-27,Jewelry
+CUST000337,Bùi Văn Inh,inhbv139@gmail.com,0905407446,44,Male,Bien Hoa,2023-12-18,Books
+CUST000338,Hoàng Văn Em,emhv150@yahoo.com,0863854401,38,Male,Hue,2024-06-05,Books
+CUST000339,Bùi Văn Inh,inhbv385@outlook.com,0585322421,22,Male,Hue,2024-05-10,Sports & Outdoors
+CUST000340,Đinh Thị Mai,maidt974@outlook.com,0624033772,38,Male,Hanoi,2024-07-07,Beauty & Health
+CUST000341,Lê Văn Cường,cuờnglv224@outlook.com,0561325766,31,Female,Bien Hoa,2024-11-23,Sports & Outdoors
+CUST000342,Phan Văn Long,longpv580@yahoo.com,0621127607,39,Male,Ho Chi Minh City,2025-07-10,Food & Beverages
+CUST000343,Nguyễn Văn An,annv952@gmail.com,0269633510,46,Female,Ho Chi Minh City,2024-08-07,Home & Garden
+CUST000344,Hoàng Văn Em,emhv163@hotmail.com,0394226159,23,Female,Bien Hoa,2025-07-27,Beauty & Health
+CUST000345,Vũ Thị Phương,phuongvt406@gmail.com,0771737478,37,Male,Hue,2023-12-18,Clothing
+CUST000346,Phạm Thị Dung,dungpt219@gmail.com,0611967311,22,Male,Can Tho,2024-05-06,Food & Beverages
+CUST000347,Nguyễn Văn An,annv713@gmail.com,0468909933,25,Female,Da Nang,2024-06-17,Clothing
+CUST000348,Ngô Thị Hoa,hoant92@outlook.com,0884651200,24,Male,Nha Trang,2024-10-08,Sports & Outdoors
+CUST000349,Hoàng Văn Em,emhv793@outlook.com,0973347156,26,Male,Hanoi,2024-04-24,Jewelry
+CUST000350,Nguyễn Văn An,annv451@yahoo.com,0477084942,64,Male,Da Nang,2024-08-24,Jewelry
+CUST000351,Võ Văn Phú,phuvv89@yahoo.com,0207873599,26,Male,Hue,2024-10-25,Toys & Games
+CUST000352,Phan Văn Long,longpv254@yahoo.com,0397391755,59,Male,Can Tho,2024-04-01,Jewelry
+CUST000353,Lý Thị Kim,kimlt869@gmail.com,0806957378,37,Male,Can Tho,2024-09-13,Sports & Outdoors
+CUST000354,Trần Thị Bình,binhtt507@yahoo.com,0514341484,25,Male,Vung Tau,2024-01-05,Jewelry
+CUST000355,Lê Văn Cường,cuờnglv370@gmail.com,0439809925,26,Female,Hue,2024-10-10,Automotive
+CUST000356,Vũ Thị Phương,phuongvt978@outlook.com,0927175323,22,Male,Hanoi,2025-10-05,Sports & Outdoors
+CUST000357,Đặng Văn Giang,giangdv945@gmail.com,0164927936,43,Female,Hue,2024-08-12,Toys & Games
+CUST000358,Lê Văn Cường,cuờnglv285@yahoo.com,0189761677,37,Male,Can Tho,2025-05-13,Automotive
+CUST000359,Phan Văn Long,longpv601@outlook.com,0781068259,59,Male,Bien Hoa,2023-11-04,Toys & Games
+CUST000360,Ngô Thị Hoa,hoant251@gmail.com,0192570281,45,Male,Vung Tau,2024-02-01,Jewelry
+CUST000361,Trần Thị Bình,binhtt683@hotmail.com,0896387342,60,Male,Hanoi,2025-10-07,Books
+CUST000362,Nguyễn Văn An,annv509@yahoo.com,0472271797,51,Female,Da Nang,2024-10-04,Books
+CUST000363,Bùi Văn Inh,inhbv790@gmail.com,0131521039,39,Female,Bien Hoa,2024-05-01,Clothing
+CUST000364,Bùi Văn Inh,inhbv509@gmail.com,0588764892,50,Female,Ho Chi Minh City,2024-05-26,Jewelry
+CUST000365,Vũ Thị Phương,phuongvt162@hotmail.com,0373928805,24,Male,Can Tho,2024-05-16,Electronics
+CUST000366,Trần Thị Bình,binhtt251@gmail.com,0149372289,48,Female,Hue,2025-05-19,Books
+CUST000367,Trần Thị Bình,binhtt230@outlook.com,0445532283,33,Female,Nha Trang,2025-01-15,Clothing
+CUST000368,Đinh Thị Mai,maidt515@gmail.com,0822977979,21,Male,Can Tho,2024-05-09,Electronics
+CUST000369,Tạ Văn Nam,namtv899@gmail.com,0599391065,36,Female,Nha Trang,2025-07-23,Automotive
+CUST000370,Võ Văn Phú,phuvv378@gmail.com,0315469014,36,Female,Can Tho,2024-07-01,Beauty & Health
+CUST000371,Dương Thị Quỳnh,quynhdt751@yahoo.com,0686863518,33,Male,Ho Chi Minh City,2024-08-26,Electronics
+CUST000372,Ngô Thị Hoa,hoant652@hotmail.com,0844597866,18,Female,Ho Chi Minh City,2023-12-16,Toys & Games
+CUST000373,Lý Thị Kim,kimlt211@gmail.com,0668883968,33,Female,Vung Tau,2025-08-19,Books
+CUST000374,Bùi Văn Inh,inhbv45@gmail.com,0348541776,51,Female,Nha Trang,2024-07-07,Clothing
+CUST000375,Phạm Thị Dung,dungpt653@yahoo.com,0980428452,43,Male,Ho Chi Minh City,2024-07-31,Books
+CUST000376,Ngô Thị Hoa,hoant268@hotmail.com,0438238241,43,Female,Nha Trang,2024-07-13,Sports & Outdoors
+CUST000377,Ngô Thị Hoa,hoant967@gmail.com,0317661025,26,Male,Da Nang,2025-07-03,Books
+CUST000378,Võ Văn Phú,phuvv322@outlook.com,0536489528,25,Female,Can Tho,2024-07-14,Sports & Outdoors
+CUST000379,Võ Văn Phú,phuvv873@hotmail.com,0228756206,23,Male,Bien Hoa,2023-10-29,Jewelry
+CUST000380,Trần Thị Bình,binhtt856@yahoo.com,0451965766,27,Male,Can Tho,2024-10-20,Toys & Games
+CUST000381,Trần Thị Bình,binhtt267@hotmail.com,0980564513,29,Male,Hue,2024-07-13,Automotive
+CUST000382,Ngô Thị Hoa,hoant474@gmail.com,0209422179,26,Male,Ho Chi Minh City,2025-08-17,Home & Garden
+CUST000383,Hoàng Văn Em,emhv844@yahoo.com,0530121446,41,Male,Bien Hoa,2025-08-04,Electronics
+CUST000384,Lê Văn Cường,cuờnglv925@yahoo.com,0793623149,46,Male,Hanoi,2024-11-14,Clothing
+CUST000385,Trần Thị Bình,binhtt52@outlook.com,0280377032,54,Female,Hue,2024-05-29,Electronics
+CUST000386,Tạ Văn Nam,namtv177@outlook.com,0480043678,31,Male,Bien Hoa,2025-01-06,Food & Beverages
+CUST000387,Hoàng Văn Em,emhv629@gmail.com,0764835755,57,Male,Bien Hoa,2024-05-27,Toys & Games
+CUST000388,Dương Thị Quỳnh,quynhdt90@gmail.com,0400407178,42,Male,Hue,2025-03-29,Automotive
+CUST000389,Ngô Thị Hoa,hoant392@gmail.com,0939575663,63,Female,Vung Tau,2024-04-10,Food & Beverages
+CUST000390,Đinh Thị Mai,maidt398@hotmail.com,0390378111,29,Male,Nha Trang,2024-02-16,Home & Garden
+CUST000391,Nguyễn Văn An,annv60@hotmail.com,0968285490,48,Female,Can Tho,2025-05-09,Clothing
+CUST000392,Ngô Thị Hoa,hoant273@yahoo.com,0673044801,65,Male,Can Tho,2024-03-09,Toys & Games
+CUST000393,Đinh Thị Mai,maidt181@yahoo.com,0353994846,55,Female,Nha Trang,2024-02-22,Electronics
+CUST000394,Đinh Thị Mai,maidt577@yahoo.com,0302114356,49,Female,Da Nang,2024-06-04,Electronics
+CUST000395,Lê Văn Cường,cuờnglv239@gmail.com,0746030501,32,Male,Vung Tau,2025-10-19,Beauty & Health
+CUST000396,Đặng Văn Giang,giangdv349@yahoo.com,0869805921,29,Female,Ho Chi Minh City,2025-09-27,Books
+CUST000397,Hoàng Văn Em,emhv867@gmail.com,0665104817,41,Male,Nha Trang,2023-10-29,Toys & Games
+CUST000398,Phạm Thị Dung,dungpt310@hotmail.com,0446392556,26,Male,Hue,2024-01-04,Food & Beverages
+CUST000399,Phan Văn Long,longpv725@yahoo.com,0703418543,62,Female,Can Tho,2023-12-08,Jewelry
+CUST000400,Vũ Thị Phương,phuongvt315@outlook.com,0888121101,62,Female,Da Nang,2025-04-21,Electronics
+CUST000401,Tạ Văn Nam,namtv187@gmail.com,0746809909,38,Male,Hanoi,2024-05-29,Books
+CUST000402,Phan Văn Long,longpv244@gmail.com,0472384530,38,Male,Hanoi,2023-10-25,Beauty & Health
+CUST000403,Võ Văn Phú,phuvv272@gmail.com,0325146786,33,Male,Nha Trang,2025-01-30,Clothing
+CUST000404,Nguyễn Văn An,annv396@gmail.com,0570535289,64,Female,Da Nang,2024-08-22,Food & Beverages
+CUST000405,Tạ Văn Nam,namtv560@hotmail.com,0503026384,24,Female,Can Tho,2025-05-06,Food & Beverages
+CUST000406,Lê Văn Cường,cuờnglv302@gmail.com,0121558591,38,Female,Hanoi,2025-08-05,Beauty & Health
+CUST000407,Vũ Thị Phương,phuongvt165@outlook.com,0885963005,22,Male,Nha Trang,2024-02-19,Jewelry
+CUST000408,Dương Thị Quỳnh,quynhdt442@gmail.com,0801835431,28,Female,Da Nang,2025-08-26,Clothing
+CUST000409,Phan Văn Long,longpv998@yahoo.com,0303994042,44,Female,Bien Hoa,2024-12-19,Home & Garden
+CUST000410,Phạm Thị Dung,dungpt403@gmail.com,0713933158,53,Female,Da Nang,2025-08-25,Beauty & Health
+CUST000411,Nguyễn Văn An,annv90@outlook.com,0416270056,60,Female,Can Tho,2025-07-12,Electronics
+CUST000412,Đặng Văn Giang,giangdv654@yahoo.com,0413330168,23,Female,Hanoi,2024-12-08,Toys & Games
+CUST000413,Dương Thị Quỳnh,quynhdt917@outlook.com,0809786356,34,Male,Hue,2025-04-13,Beauty & Health
+CUST000414,Tạ Văn Nam,namtv192@hotmail.com,0578647558,20,Female,Vung Tau,2024-06-30,Sports & Outdoors
+CUST000415,Ngô Thị Hoa,hoant578@hotmail.com,0166184772,27,Male,Hanoi,2023-12-05,Beauty & Health
+CUST000416,Chu Thị Oanh,oanhct567@yahoo.com,0165480798,42,Female,Vung Tau,2024-03-12,Home & Garden
+CUST000417,Dương Thị Quỳnh,quynhdt81@hotmail.com,0523917958,63,Male,Da Nang,2025-06-18,Food & Beverages
+CUST000418,Vũ Thị Phương,phuongvt996@yahoo.com,0327515325,30,Male,Ho Chi Minh City,2024-08-12,Clothing
+CUST000419,Chu Thị Oanh,oanhct843@yahoo.com,0773479021,27,Female,Nha Trang,2025-08-12,Clothing
+CUST000420,Tạ Văn Nam,namtv566@outlook.com,0450175988,35,Female,Ho Chi Minh City,2023-11-02,Jewelry
+CUST000421,Chu Thị Oanh,oanhct425@gmail.com,0260677223,27,Male,Hanoi,2024-03-22,Clothing
+CUST000422,Lý Thị Kim,kimlt899@hotmail.com,0541189818,34,Female,Vung Tau,2024-03-13,Jewelry
+CUST000423,Dương Thị Quỳnh,quynhdt177@gmail.com,0395723682,43,Male,Hue,2025-09-10,Toys & Games
+CUST000424,Phan Văn Long,longpv51@yahoo.com,0900742774,48,Female,Nha Trang,2025-09-29,Beauty & Health
+CUST000425,Lý Thị Kim,kimlt288@hotmail.com,0627872109,62,Male,Can Tho,2025-06-04,Sports & Outdoors
+CUST000426,Võ Văn Phú,phuvv276@hotmail.com,0882542411,44,Male,Can Tho,2024-07-24,Home & Garden
+CUST000427,Chu Thị Oanh,oanhct778@outlook.com,0654589168,41,Male,Da Nang,2025-08-13,Sports & Outdoors
+CUST000428,Tạ Văn Nam,namtv800@yahoo.com,0662948033,54,Male,Da Nang,2025-04-05,Home & Garden
+CUST000429,Trần Thị Bình,binhtt34@yahoo.com,0590108029,21,Female,Can Tho,2025-01-12,Beauty & Health
+CUST000430,Võ Văn Phú,phuvv651@outlook.com,0233007467,61,Male,Can Tho,2024-10-03,Food & Beverages
+CUST000431,Võ Văn Phú,phuvv984@yahoo.com,0609578849,55,Female,Nha Trang,2025-05-05,Sports & Outdoors
+CUST000432,Lê Văn Cường,cuờnglv29@hotmail.com,0515071728,21,Male,Can Tho,2025-03-07,Home & Garden
+CUST000433,Đặng Văn Giang,giangdv668@hotmail.com,0539705006,50,Male,Ho Chi Minh City,2024-06-21,Books
+CUST000434,Vũ Thị Phương,phuongvt230@gmail.com,0371002172,56,Female,Bien Hoa,2024-08-12,Toys & Games
+CUST000435,Đinh Thị Mai,maidt259@outlook.com,0334300190,47,Female,Hue,2024-02-29,Clothing
+CUST000436,Nguyễn Văn An,annv575@hotmail.com,0795078308,56,Female,Bien Hoa,2023-11-19,Clothing
+CUST000437,Dương Thị Quỳnh,quynhdt345@gmail.com,0396871629,58,Female,Bien Hoa,2025-01-25,Sports & Outdoors
+CUST000438,Đặng Văn Giang,giangdv530@yahoo.com,0921921869,33,Male,Hue,2023-12-13,Beauty & Health
+CUST000439,Hoàng Văn Em,emhv672@gmail.com,0634050001,36,Female,Hue,2024-08-31,Toys & Games
+CUST000440,Trần Thị Bình,binhtt352@yahoo.com,0880126986,63,Male,Vung Tau,2023-12-02,Beauty & Health
+CUST000441,Lý Thị Kim,kimlt861@yahoo.com,0806108387,53,Male,Bien Hoa,2025-07-12,Food & Beverages
+CUST000442,Hoàng Văn Em,emhv743@hotmail.com,0967952618,53,Male,Nha Trang,2023-12-19,Clothing
+CUST000443,Ngô Thị Hoa,hoant229@hotmail.com,0899089320,37,Female,Nha Trang,2024-10-04,Sports & Outdoors
+CUST000444,Lý Thị Kim,kimlt872@outlook.com,0226466892,48,Male,Hanoi,2024-06-23,Home & Garden
+CUST000445,Phạm Thị Dung,dungpt543@outlook.com,0420357050,44,Male,Da Nang,2025-06-01,Home & Garden
+CUST000446,Phan Văn Long,longpv584@outlook.com,0591313587,27,Female,Da Nang,2025-07-29,Food & Beverages
+CUST000447,Phan Văn Long,longpv321@yahoo.com,0781288086,21,Male,Vung Tau,2025-01-12,Home & Garden
+CUST000448,Vũ Thị Phương,phuongvt502@yahoo.com,0943113786,23,Male,Hue,2024-01-10,Toys & Games
+CUST000449,Tạ Văn Nam,namtv989@outlook.com,0612604642,42,Male,Ho Chi Minh City,2024-04-21,Home & Garden
+CUST000450,Đinh Thị Mai,maidt914@gmail.com,0445973716,51,Male,Ho Chi Minh City,2023-11-27,Electronics
+CUST000451,Ngô Thị Hoa,hoant711@yahoo.com,0469742752,37,Male,Hanoi,2024-09-22,Automotive
+CUST000452,Lý Thị Kim,kimlt67@yahoo.com,0984595578,20,Female,Bien Hoa,2024-07-10,Automotive
+CUST000453,Phan Văn Long,longpv910@outlook.com,0837424573,26,Female,Vung Tau,2024-10-17,Home & Garden
+CUST000454,Vũ Thị Phương,phuongvt20@outlook.com,0345262270,32,Male,Can Tho,2025-09-27,Jewelry
+CUST000455,Vũ Thị Phương,phuongvt376@gmail.com,0863548641,59,Male,Hue,2024-01-03,Sports & Outdoors
+CUST000456,Trần Thị Bình,binhtt678@gmail.com,0216085930,59,Male,Ho Chi Minh City,2023-11-13,Clothing
+CUST000457,Chu Thị Oanh,oanhct390@outlook.com,0232709191,53,Female,Vung Tau,2023-11-01,Books
+CUST000458,Đặng Văn Giang,giangdv309@gmail.com,0551907286,60,Male,Bien Hoa,2024-01-21,Jewelry
+CUST000459,Hoàng Văn Em,emhv851@outlook.com,0212650803,50,Male,Bien Hoa,2025-06-25,Clothing
+CUST000460,Dương Thị Quỳnh,quynhdt624@yahoo.com,0314479266,34,Male,Nha Trang,2023-10-30,Toys & Games
+CUST000461,Lý Thị Kim,kimlt41@yahoo.com,0688559516,49,Male,Vung Tau,2024-11-15,Home & Garden
+CUST000462,Nguyễn Văn An,annv688@gmail.com,0195566069,25,Female,Da Nang,2025-07-19,Automotive
+CUST000463,Lê Văn Cường,cuờnglv927@gmail.com,0374762050,59,Male,Vung Tau,2024-12-20,Sports & Outdoors
+CUST000464,Võ Văn Phú,phuvv103@gmail.com,0973143678,29,Male,Bien Hoa,2024-10-16,Beauty & Health
+CUST000465,Chu Thị Oanh,oanhct98@gmail.com,0914115345,20,Male,Da Nang,2023-12-10,Books
+CUST000466,Phan Văn Long,longpv916@hotmail.com,0569992383,57,Female,Hanoi,2024-10-03,Beauty & Health
+CUST000467,Vũ Thị Phương,phuongvt411@gmail.com,0529765405,47,Female,Hue,2023-11-13,Food & Beverages
+CUST000468,Chu Thị Oanh,oanhct116@yahoo.com,0242283221,62,Male,Da Nang,2025-07-05,Toys & Games
+CUST000469,Dương Thị Quỳnh,quynhdt186@outlook.com,0756403241,42,Female,Ho Chi Minh City,2023-11-19,Books
+CUST000470,Dương Thị Quỳnh,quynhdt116@outlook.com,0541613113,46,Male,Hanoi,2025-01-25,Beauty & Health
+CUST000471,Nguyễn Văn An,annv979@yahoo.com,0819239897,39,Male,Hue,2023-12-12,Home & Garden
+CUST000472,Dương Thị Quỳnh,quynhdt680@hotmail.com,0826166835,59,Female,Da Nang,2024-03-27,Jewelry
+CUST000473,Trần Thị Bình,binhtt659@gmail.com,0268499484,50,Female,Vung Tau,2025-05-03,Clothing
+CUST000474,Dương Thị Quỳnh,quynhdt247@hotmail.com,0455295629,35,Male,Can Tho,2024-04-04,Toys & Games
+CUST000475,Tạ Văn Nam,namtv81@yahoo.com,0592949064,46,Female,Hanoi,2024-05-27,Food & Beverages
+CUST000476,Phan Văn Long,longpv510@gmail.com,0900194244,59,Male,Hanoi,2024-09-01,Toys & Games
+CUST000477,Trần Thị Bình,binhtt846@gmail.com,0197598351,56,Female,Can Tho,2023-12-19,Food & Beverages
+CUST000478,Phan Văn Long,longpv846@hotmail.com,0158277565,32,Female,Nha Trang,2024-03-25,Jewelry
+CUST000479,Dương Thị Quỳnh,quynhdt734@hotmail.com,0585903027,25,Male,Can Tho,2025-10-17,Beauty & Health
+CUST000480,Đinh Thị Mai,maidt561@hotmail.com,0660477218,41,Male,Ho Chi Minh City,2025-05-04,Food & Beverages
+CUST000481,Hoàng Văn Em,emhv110@outlook.com,0373041065,57,Male,Can Tho,2025-06-18,Toys & Games
+CUST000482,Đặng Văn Giang,giangdv845@outlook.com,0939043773,30,Female,Hanoi,2024-08-21,Electronics
+CUST000483,Phạm Thị Dung,dungpt469@outlook.com,0807012492,55,Male,Vung Tau,2025-10-15,Automotive
+CUST000484,Trần Thị Bình,binhtt859@outlook.com,0728268579,48,Male,Da Nang,2025-06-10,Clothing
+CUST000485,Tạ Văn Nam,namtv517@hotmail.com,0513028367,44,Male,Bien Hoa,2024-09-07,Beauty & Health
+CUST000486,Lý Thị Kim,kimlt825@outlook.com,0243206913,26,Female,Bien Hoa,2023-11-01,Automotive
+CUST000487,Phan Văn Long,longpv206@yahoo.com,0325177291,57,Female,Nha Trang,2023-12-01,Books
+CUST000488,Vũ Thị Phương,phuongvt728@hotmail.com,0223915446,40,Female,Hue,2023-11-29,Automotive
+CUST000489,Lý Thị Kim,kimlt828@outlook.com,0113712236,51,Male,Ho Chi Minh City,2024-09-24,Books
+CUST000490,Trần Thị Bình,binhtt205@gmail.com,0386665729,28,Female,Bien Hoa,2025-05-23,Electronics
+CUST000491,Lý Thị Kim,kimlt772@yahoo.com,0681079105,20,Female,Vung Tau,2025-07-07,Jewelry
+CUST000492,Ngô Thị Hoa,hoant244@outlook.com,0648598641,62,Female,Ho Chi Minh City,2024-09-24,Toys & Games
+CUST000493,Chu Thị Oanh,oanhct990@hotmail.com,0692839277,21,Male,Bien Hoa,2025-03-26,Jewelry
+CUST000494,Võ Văn Phú,phuvv934@yahoo.com,0780525215,63,Female,Can Tho,2025-04-04,Sports & Outdoors
+CUST000495,Võ Văn Phú,phuvv700@yahoo.com,0179960473,29,Male,Hanoi,2024-09-28,Electronics
+CUST000496,Chu Thị Oanh,oanhct570@hotmail.com,0383725108,26,Male,Bien Hoa,2025-10-14,Beauty & Health
+CUST000497,Võ Văn Phú,phuvv41@yahoo.com,0265037749,38,Male,Bien Hoa,2024-06-04,Jewelry
+CUST000498,Đinh Thị Mai,maidt803@gmail.com,0859867290,38,Male,Da Nang,2024-05-04,Clothing
+CUST000499,Vũ Thị Phương,phuongvt557@outlook.com,0676637967,43,Male,Nha Trang,2025-03-07,Home & Garden
+CUST000500,Phan Văn Long,longpv370@hotmail.com,0415223070,31,Female,Ho Chi Minh City,2025-06-24,Beauty & Health
+CUST000501,Võ Văn Phú,phuvv927@yahoo.com,0789626099,57,Male,Ho Chi Minh City,2023-11-21,Beauty & Health
+CUST000502,Tạ Văn Nam,namtv396@gmail.com,0375512010,52,Female,Ho Chi Minh City,2024-05-08,Beauty & Health
+CUST000503,Võ Văn Phú,phuvv45@outlook.com,0418293546,59,Male,Nha Trang,2024-05-11,Clothing
+CUST000504,Phạm Thị Dung,dungpt995@yahoo.com,0930344435,52,Male,Hanoi,2025-03-18,Home & Garden
+CUST000505,Chu Thị Oanh,oanhct211@gmail.com,0677409188,62,Female,Hanoi,2023-11-17,Books
+CUST000506,Nguyễn Văn An,annv735@outlook.com,0456176676,20,Male,Hanoi,2025-08-25,Books
+CUST000507,Bùi Văn Inh,inhbv589@gmail.com,0982207031,32,Female,Hue,2024-09-17,Food & Beverages
+CUST000508,Tạ Văn Nam,namtv324@outlook.com,0118136542,42,Male,Ho Chi Minh City,2024-01-02,Jewelry
+CUST000509,Lê Văn Cường,cuờnglv718@gmail.com,0177942327,40,Male,Bien Hoa,2023-11-17,Sports & Outdoors
+CUST000510,Lê Văn Cường,cuờnglv784@hotmail.com,0569951184,42,Female,Ho Chi Minh City,2024-06-21,Books
+CUST000511,Ngô Thị Hoa,hoant765@yahoo.com,0519825069,52,Female,Da Nang,2024-12-18,Beauty & Health
+CUST000512,Nguyễn Văn An,annv127@yahoo.com,0144853569,18,Female,Hanoi,2024-12-11,Home & Garden
+CUST000513,Đinh Thị Mai,maidt423@yahoo.com,0793563667,50,Male,Da Nang,2025-04-14,Home & Garden
+CUST000514,Bùi Văn Inh,inhbv118@yahoo.com,0294731649,60,Male,Vung Tau,2023-12-29,Automotive
+CUST000515,Lê Văn Cường,cuờnglv688@hotmail.com,0172330209,34,Male,Can Tho,2024-03-04,Food & Beverages
+CUST000516,Phan Văn Long,longpv132@hotmail.com,0820798124,59,Male,Hanoi,2025-01-01,Jewelry
+CUST000517,Lê Văn Cường,cuờnglv326@yahoo.com,0621689527,46,Female,Bien Hoa,2023-11-09,Jewelry
+CUST000518,Hoàng Văn Em,emhv828@hotmail.com,0439660140,45,Male,Ho Chi Minh City,2024-12-03,Home & Garden
+CUST000519,Ngô Thị Hoa,hoant284@outlook.com,0485995156,26,Female,Vung Tau,2024-07-03,Food & Beverages
+CUST000520,Đinh Thị Mai,maidt499@hotmail.com,0692353117,24,Male,Hanoi,2025-01-05,Books
+CUST000521,Đặng Văn Giang,giangdv752@hotmail.com,0772826911,22,Male,Ho Chi Minh City,2024-05-18,Electronics
+CUST000522,Tạ Văn Nam,namtv929@yahoo.com,0139359410,53,Female,Vung Tau,2023-12-20,Books
+CUST000523,Đinh Thị Mai,maidt229@outlook.com,0929084214,55,Female,Da Nang,2024-07-01,Automotive
+CUST000524,Lê Văn Cường,cuờnglv373@outlook.com,0639198004,18,Male,Da Nang,2024-05-11,Books
+CUST000525,Võ Văn Phú,phuvv184@yahoo.com,0708121468,54,Male,Vung Tau,2024-10-17,Electronics
+CUST000526,Ngô Thị Hoa,hoant238@outlook.com,0167496657,34,Female,Can Tho,2025-09-06,Home & Garden
+CUST000527,Đinh Thị Mai,maidt481@outlook.com,0588169687,20,Male,Nha Trang,2025-07-06,Automotive
+CUST000528,Bùi Văn Inh,inhbv593@hotmail.com,0684491424,54,Male,Hue,2023-12-20,Toys & Games
+CUST000529,Đinh Thị Mai,maidt530@gmail.com,0370138852,42,Male,Hue,2024-10-23,Beauty & Health
+CUST000530,Dương Thị Quỳnh,quynhdt909@outlook.com,0748766605,18,Male,Vung Tau,2025-05-03,Home & Garden
+CUST000531,Lê Văn Cường,cuờnglv217@hotmail.com,0261319410,29,Male,Nha Trang,2024-02-11,Clothing
+CUST000532,Ngô Thị Hoa,hoant831@outlook.com,0454576141,64,Male,Vung Tau,2023-11-28,Food & Beverages
+CUST000533,Dương Thị Quỳnh,quynhdt605@yahoo.com,0273136853,59,Female,Ho Chi Minh City,2025-02-12,Electronics
+CUST000534,Hoàng Văn Em,emhv138@yahoo.com,0775963880,50,Male,Da Nang,2025-08-23,Books
+CUST000535,Bùi Văn Inh,inhbv530@yahoo.com,0535355406,56,Male,Bien Hoa,2025-07-24,Home & Garden
+CUST000536,Võ Văn Phú,phuvv889@outlook.com,0617187507,28,Male,Hue,2024-02-12,Books
+CUST000537,Vũ Thị Phương,phuongvt172@hotmail.com,0877589651,61,Female,Vung Tau,2024-02-17,Jewelry
+CUST000538,Lê Văn Cường,cuờnglv388@yahoo.com,0513886549,26,Male,Ho Chi Minh City,2025-03-26,Automotive
+CUST000539,Chu Thị Oanh,oanhct621@yahoo.com,0203399810,29,Female,Ho Chi Minh City,2024-04-23,Automotive
+CUST000540,Phạm Thị Dung,dungpt494@gmail.com,0808017427,26,Male,Hue,2024-05-03,Toys & Games
+CUST000541,Đinh Thị Mai,maidt715@gmail.com,0668886152,45,Male,Vung Tau,2024-09-24,Beauty & Health
+CUST000542,Phạm Thị Dung,dungpt138@outlook.com,0373286650,48,Male,Hanoi,2025-01-02,Jewelry
+CUST000543,Chu Thị Oanh,oanhct194@hotmail.com,0105872776,63,Male,Hanoi,2024-05-05,Electronics
+CUST000544,Tạ Văn Nam,namtv705@yahoo.com,0963596758,38,Female,Nha Trang,2025-07-02,Books
+CUST000545,Chu Thị Oanh,oanhct268@hotmail.com,0675638242,45,Female,Bien Hoa,2023-11-23,Toys & Games
+CUST000546,Đặng Văn Giang,giangdv566@outlook.com,0941586401,53,Female,Da Nang,2024-10-05,Automotive
+CUST000547,Dương Thị Quỳnh,quynhdt315@hotmail.com,0720248205,40,Female,Da Nang,2023-12-14,Clothing
+CUST000548,Ngô Thị Hoa,hoant802@outlook.com,0850879936,28,Male,Can Tho,2024-05-17,Toys & Games
+CUST000549,Phan Văn Long,longpv165@gmail.com,0517796891,58,Male,Hanoi,2025-05-24,Food & Beverages
+CUST000550,Chu Thị Oanh,oanhct66@gmail.com,0382492880,32,Female,Hanoi,2024-02-04,Electronics
+CUST000551,Tạ Văn Nam,namtv629@outlook.com,0804562789,51,Female,Ho Chi Minh City,2025-04-23,Food & Beverages
+CUST000552,Võ Văn Phú,phuvv207@gmail.com,0805324063,51,Female,Can Tho,2025-09-15,Jewelry
+CUST000553,Ngô Thị Hoa,hoant691@yahoo.com,0138720348,41,Male,Ho Chi Minh City,2025-05-11,Clothing
+CUST000554,Bùi Văn Inh,inhbv362@outlook.com,0819044151,43,Female,Can Tho,2024-05-07,Electronics
+CUST000555,Lê Văn Cường,cuờnglv563@gmail.com,0405472873,64,Female,Nha Trang,2025-01-09,Home & Garden
+CUST000556,Đặng Văn Giang,giangdv953@outlook.com,0533744956,54,Male,Bien Hoa,2025-04-23,Toys & Games
+CUST000557,Phạm Thị Dung,dungpt516@gmail.com,0415950492,39,Male,Bien Hoa,2024-04-17,Jewelry
+CUST000558,Bùi Văn Inh,inhbv990@outlook.com,0504886868,54,Female,Can Tho,2024-11-06,Food & Beverages
+CUST000559,Võ Văn Phú,phuvv494@gmail.com,0224842139,34,Male,Hue,2024-01-10,Home & Garden
+CUST000560,Ngô Thị Hoa,hoant423@hotmail.com,0479134231,51,Male,Bien Hoa,2025-02-07,Sports & Outdoors
+CUST000561,Lê Văn Cường,cuờnglv690@outlook.com,0904005131,39,Male,Da Nang,2024-06-19,Beauty & Health
+CUST000562,Đinh Thị Mai,maidt916@yahoo.com,0716019237,35,Male,Can Tho,2024-05-27,Home & Garden
+CUST000563,Ngô Thị Hoa,hoant894@yahoo.com,0384976854,31,Male,Can Tho,2025-02-06,Jewelry
+CUST000564,Đinh Thị Mai,maidt798@yahoo.com,0214556759,25,Male,Vung Tau,2024-01-30,Electronics
+CUST000565,Trần Thị Bình,binhtt381@outlook.com,0766436631,38,Female,Bien Hoa,2024-06-04,Books
+CUST000566,Bùi Văn Inh,inhbv228@outlook.com,0905488247,54,Male,Ho Chi Minh City,2024-04-29,Toys & Games
+CUST000567,Dương Thị Quỳnh,quynhdt515@gmail.com,0472898686,43,Male,Vung Tau,2025-06-18,Automotive
+CUST000568,Võ Văn Phú,phuvv706@hotmail.com,0109039413,18,Male,Hue,2024-03-04,Clothing
+CUST000569,Phan Văn Long,longpv628@hotmail.com,0378851582,29,Female,Can Tho,2025-01-17,Food & Beverages
+CUST000570,Phan Văn Long,longpv189@hotmail.com,0635550230,45,Male,Hue,2023-11-02,Beauty & Health
+CUST000571,Đinh Thị Mai,maidt287@outlook.com,0583966573,29,Male,Can Tho,2025-07-09,Sports & Outdoors
+CUST000572,Ngô Thị Hoa,hoant877@outlook.com,0508970423,30,Male,Da Nang,2024-06-22,Electronics
+CUST000573,Vũ Thị Phương,phuongvt512@outlook.com,0244387866,58,Female,Vung Tau,2024-12-16,Sports & Outdoors
+CUST000574,Trần Thị Bình,binhtt102@outlook.com,0841465088,28,Male,Can Tho,2025-02-01,Food & Beverages
+CUST000575,Phạm Thị Dung,dungpt763@outlook.com,0459334721,34,Female,Nha Trang,2024-03-25,Automotive
+CUST000576,Bùi Văn Inh,inhbv21@hotmail.com,0542124908,25,Female,Can Tho,2024-03-08,Jewelry
+CUST000577,Vũ Thị Phương,phuongvt364@hotmail.com,0449063037,61,Female,Vung Tau,2025-07-31,Toys & Games
+CUST000578,Lý Thị Kim,kimlt647@outlook.com,0255529715,28,Female,Hue,2024-01-12,Jewelry
+CUST000579,Tạ Văn Nam,namtv82@gmail.com,0273945628,39,Male,Nha Trang,2024-11-29,Sports & Outdoors
+CUST000580,Bùi Văn Inh,inhbv278@outlook.com,0577706000,41,Female,Hue,2025-05-01,Books
+CUST000581,Nguyễn Văn An,annv746@yahoo.com,0351929030,60,Female,Hanoi,2025-03-18,Books
+CUST000582,Tạ Văn Nam,namtv98@gmail.com,0168496565,48,Male,Ho Chi Minh City,2024-09-08,Automotive
+CUST000583,Lê Văn Cường,cuờnglv269@gmail.com,0763682156,27,Male,Hue,2024-12-07,Home & Garden
+CUST000584,Ngô Thị Hoa,hoant454@hotmail.com,0772678518,26,Male,Da Nang,2025-09-20,Electronics
+CUST000585,Đinh Thị Mai,maidt885@hotmail.com,0611267257,47,Female,Vung Tau,2025-06-03,Automotive
+CUST000586,Vũ Thị Phương,phuongvt647@outlook.com,0904137710,58,Female,Bien Hoa,2024-10-29,Food & Beverages
+CUST000587,Ngô Thị Hoa,hoant453@gmail.com,0430570947,41,Female,Bien Hoa,2025-05-13,Sports & Outdoors
+CUST000588,Nguyễn Văn An,annv536@gmail.com,0975507381,26,Female,Bien Hoa,2024-06-26,Automotive
+CUST000589,Nguyễn Văn An,annv970@outlook.com,0911182636,48,Female,Ho Chi Minh City,2024-08-05,Sports & Outdoors
+CUST000590,Ngô Thị Hoa,hoant562@gmail.com,0501197060,30,Female,Hue,2024-09-10,Home & Garden
+CUST000591,Vũ Thị Phương,phuongvt849@outlook.com,0506258874,32,Female,Hanoi,2024-08-13,Home & Garden
+CUST000592,Bùi Văn Inh,inhbv665@hotmail.com,0897711678,52,Female,Hue,2025-04-10,Clothing
+CUST000593,Vũ Thị Phương,phuongvt297@yahoo.com,0218494225,58,Female,Vung Tau,2025-01-14,Jewelry
+CUST000594,Dương Thị Quỳnh,quynhdt329@yahoo.com,0120825650,27,Male,Ho Chi Minh City,2025-04-12,Clothing
+CUST000595,Lý Thị Kim,kimlt129@hotmail.com,0867935795,46,Male,Can Tho,2025-07-19,Books
+CUST000596,Nguyễn Văn An,annv223@outlook.com,0467126134,44,Female,Vung Tau,2024-10-04,Food & Beverages
+CUST000597,Trần Thị Bình,binhtt83@hotmail.com,0905917946,27,Male,Bien Hoa,2024-09-13,Clothing
+CUST000598,Dương Thị Quỳnh,quynhdt197@yahoo.com,0368520783,42,Male,Hanoi,2025-02-07,Toys & Games
+CUST000599,Võ Văn Phú,phuvv756@yahoo.com,0135981405,30,Female,Hanoi,2024-05-04,Home & Garden
+CUST000600,Dương Thị Quỳnh,quynhdt698@outlook.com,0435124877,38,Male,Ho Chi Minh City,2024-04-05,Automotive
+CUST000601,Phạm Thị Dung,dungpt493@hotmail.com,0785605643,37,Male,Nha Trang,2025-08-27,Home & Garden
+CUST000602,Phạm Thị Dung,dungpt649@yahoo.com,0566177523,38,Male,Da Nang,2025-01-10,Jewelry
+CUST000603,Phạm Thị Dung,dungpt809@outlook.com,0361015184,18,Male,Vung Tau,2023-11-15,Jewelry
+CUST000604,Hoàng Văn Em,emhv790@hotmail.com,0196078316,33,Male,Vung Tau,2025-07-18,Jewelry
+CUST000605,Phan Văn Long,longpv62@gmail.com,0481734198,59,Male,Hanoi,2025-06-13,Food & Beverages
+CUST000606,Ngô Thị Hoa,hoant572@hotmail.com,0946711815,59,Female,Vung Tau,2025-04-05,Electronics
+CUST000607,Tạ Văn Nam,namtv742@hotmail.com,0244667571,34,Male,Vung Tau,2023-10-27,Food & Beverages
+CUST000608,Lý Thị Kim,kimlt195@outlook.com,0708491359,29,Female,Nha Trang,2024-06-27,Sports & Outdoors
+CUST000609,Vũ Thị Phương,phuongvt544@gmail.com,0266457342,46,Female,Bien Hoa,2024-04-13,Beauty & Health
+CUST000610,Võ Văn Phú,phuvv795@gmail.com,0785075265,50,Female,Da Nang,2025-09-30,Jewelry
+CUST000611,Đinh Thị Mai,maidt329@yahoo.com,0874171682,22,Female,Can Tho,2024-05-01,Food & Beverages
+CUST000612,Hoàng Văn Em,emhv331@hotmail.com,0540024260,59,Female,Hanoi,2025-07-13,Automotive
+CUST000613,Lê Văn Cường,cuờnglv856@gmail.com,0239344057,29,Male,Can Tho,2025-07-02,Food & Beverages
+CUST000614,Đặng Văn Giang,giangdv33@gmail.com,0713119661,59,Female,Vung Tau,2024-04-29,Jewelry
+CUST000615,Bùi Văn Inh,inhbv376@gmail.com,0336999287,56,Male,Ho Chi Minh City,2025-03-20,Food & Beverages
+CUST000616,Lê Văn Cường,cuờnglv821@outlook.com,0786031600,21,Female,Hue,2024-10-07,Electronics
+CUST000617,Bùi Văn Inh,inhbv752@gmail.com,0175578677,37,Male,Can Tho,2024-05-06,Clothing
+CUST000618,Phạm Thị Dung,dungpt545@yahoo.com,0513746107,30,Male,Can Tho,2024-03-15,Books
+CUST000619,Chu Thị Oanh,oanhct785@gmail.com,0785717617,54,Female,Vung Tau,2023-10-31,Toys & Games
+CUST000620,Phạm Thị Dung,dungpt812@yahoo.com,0293699305,53,Female,Nha Trang,2023-12-16,Books
+CUST000621,Võ Văn Phú,phuvv925@hotmail.com,0438395096,53,Female,Nha Trang,2024-08-23,Toys & Games
+CUST000622,Phan Văn Long,longpv577@yahoo.com,0685861719,31,Female,Bien Hoa,2024-10-16,Food & Beverages
+CUST000623,Võ Văn Phú,phuvv1@outlook.com,0879872949,20,Female,Ho Chi Minh City,2024-05-07,Books
+CUST000624,Lý Thị Kim,kimlt308@gmail.com,0338249032,31,Female,Ho Chi Minh City,2023-11-13,Sports & Outdoors
+CUST000625,Hoàng Văn Em,emhv39@gmail.com,0594318319,40,Male,Da Nang,2025-01-21,Beauty & Health
+CUST000626,Ngô Thị Hoa,hoant263@yahoo.com,0970884334,37,Male,Hue,2024-03-16,Home & Garden
+CUST000627,Lê Văn Cường,cuờnglv812@hotmail.com,0618116050,29,Female,Hanoi,2024-02-18,Sports & Outdoors
+CUST000628,Trần Thị Bình,binhtt81@outlook.com,0937649523,21,Female,Nha Trang,2024-08-01,Toys & Games
+CUST000629,Phạm Thị Dung,dungpt766@yahoo.com,0800916306,56,Male,Hue,2025-08-25,Sports & Outdoors
+CUST000630,Trần Thị Bình,binhtt553@hotmail.com,0706570606,27,Female,Can Tho,2025-05-16,Electronics
+CUST000631,Tạ Văn Nam,namtv771@outlook.com,0739018322,54,Male,Can Tho,2024-08-03,Sports & Outdoors
+CUST000632,Tạ Văn Nam,namtv136@yahoo.com,0460957835,23,Female,Ho Chi Minh City,2024-04-06,Toys & Games
+CUST000633,Bùi Văn Inh,inhbv409@gmail.com,0638828465,45,Male,Da Nang,2024-06-14,Automotive
+CUST000634,Đặng Văn Giang,giangdv405@outlook.com,0800346424,54,Male,Can Tho,2025-02-13,Clothing
+CUST000635,Bùi Văn Inh,inhbv332@outlook.com,0835231799,54,Male,Hanoi,2023-12-02,Toys & Games
+CUST000636,Chu Thị Oanh,oanhct357@hotmail.com,0304536802,38,Female,Ho Chi Minh City,2024-12-11,Books
+CUST000637,Đinh Thị Mai,maidt639@outlook.com,0256571398,46,Male,Can Tho,2025-03-29,Beauty & Health
+CUST000638,Hoàng Văn Em,emhv116@gmail.com,0894119729,21,Male,Da Nang,2024-12-29,Electronics
+CUST000639,Phan Văn Long,longpv313@gmail.com,0583249931,48,Male,Nha Trang,2025-03-19,Automotive
+CUST000640,Đặng Văn Giang,giangdv560@yahoo.com,0661852456,34,Female,Da Nang,2023-11-08,Electronics
+CUST000641,Tạ Văn Nam,namtv262@gmail.com,0282879331,21,Female,Can Tho,2023-11-06,Jewelry
+CUST000642,Bùi Văn Inh,inhbv477@gmail.com,0803040905,18,Male,Hue,2023-12-13,Sports & Outdoors
+CUST000643,Đinh Thị Mai,maidt20@gmail.com,0414064734,59,Female,Can Tho,2024-09-25,Automotive
+CUST000644,Phạm Thị Dung,dungpt497@hotmail.com,0741138124,52,Male,Da Nang,2025-03-30,Automotive
+CUST000645,Võ Văn Phú,phuvv41@gmail.com,0365635280,51,Female,Nha Trang,2024-06-05,Toys & Games
+CUST000646,Vũ Thị Phương,phuongvt356@gmail.com,0834773724,40,Female,Bien Hoa,2025-02-20,Automotive
+CUST000647,Bùi Văn Inh,inhbv641@gmail.com,0376681108,42,Male,Bien Hoa,2025-03-03,Books
+CUST000648,Phan Văn Long,longpv673@outlook.com,0247382533,23,Female,Can Tho,2024-08-18,Home & Garden
+CUST000649,Hoàng Văn Em,emhv994@outlook.com,0435418436,56,Female,Vung Tau,2024-04-12,Books
+CUST000650,Đặng Văn Giang,giangdv595@yahoo.com,0681274244,61,Male,Da Nang,2024-12-07,Automotive
+CUST000651,Hoàng Văn Em,emhv931@outlook.com,0926834891,27,Male,Nha Trang,2025-08-11,Automotive
+CUST000652,Phạm Thị Dung,dungpt326@yahoo.com,0256253951,64,Male,Nha Trang,2024-08-22,Toys & Games
+CUST000653,Lý Thị Kim,kimlt764@outlook.com,0982292061,58,Female,Da Nang,2025-04-10,Clothing
+CUST000654,Hoàng Văn Em,emhv27@yahoo.com,0918671750,57,Female,Can Tho,2024-02-17,Home & Garden
+CUST000655,Ngô Thị Hoa,hoant368@gmail.com,0185336088,62,Female,Da Nang,2024-05-23,Jewelry
+CUST000656,Dương Thị Quỳnh,quynhdt189@hotmail.com,0516032315,49,Female,Da Nang,2025-05-05,Home & Garden
+CUST000657,Ngô Thị Hoa,hoant419@gmail.com,0920917342,18,Female,Hue,2025-03-06,Home & Garden
+CUST000658,Đặng Văn Giang,giangdv182@gmail.com,0571678892,57,Female,Nha Trang,2024-07-08,Home & Garden
+CUST000659,Chu Thị Oanh,oanhct795@outlook.com,0144910623,56,Female,Nha Trang,2024-09-11,Jewelry
+CUST000660,Trần Thị Bình,binhtt463@gmail.com,0590593090,20,Male,Hue,2025-09-09,Automotive
+CUST000661,Tạ Văn Nam,namtv195@gmail.com,0412651461,46,Female,Bien Hoa,2024-12-31,Food & Beverages
+CUST000662,Vũ Thị Phương,phuongvt302@outlook.com,0758347916,21,Male,Vung Tau,2023-12-28,Food & Beverages
+CUST000663,Lê Văn Cường,cuờnglv185@gmail.com,0936156197,55,Male,Hue,2024-08-22,Beauty & Health
+CUST000664,Võ Văn Phú,phuvv184@gmail.com,0587135978,55,Male,Vung Tau,2025-07-19,Sports & Outdoors
+CUST000665,Phan Văn Long,longpv736@yahoo.com,0887334437,25,Male,Hanoi,2023-10-27,Food & Beverages
+CUST000666,Đinh Thị Mai,maidt537@gmail.com,0859435175,42,Male,Hue,2024-04-04,Toys & Games
+CUST000667,Trần Thị Bình,binhtt935@yahoo.com,0459910894,54,Male,Da Nang,2025-05-24,Books
+CUST000668,Trần Thị Bình,binhtt316@outlook.com,0432342748,64,Female,Bien Hoa,2024-01-17,Books
+CUST000669,Phạm Thị Dung,dungpt984@yahoo.com,0317810361,18,Female,Ho Chi Minh City,2024-07-07,Food & Beverages
+CUST000670,Dương Thị Quỳnh,quynhdt623@gmail.com,0629855936,33,Male,Vung Tau,2024-07-12,Toys & Games
+CUST000671,Võ Văn Phú,phuvv616@gmail.com,0744354734,18,Male,Bien Hoa,2024-01-24,Automotive
+CUST000672,Đặng Văn Giang,giangdv190@gmail.com,0259188853,21,Female,Ho Chi Minh City,2025-05-24,Electronics
+CUST000673,Lý Thị Kim,kimlt943@hotmail.com,0194170046,21,Male,Hue,2025-04-20,Books
+CUST000674,Lý Thị Kim,kimlt990@yahoo.com,0588915267,65,Female,Ho Chi Minh City,2025-07-16,Sports & Outdoors
+CUST000675,Phan Văn Long,longpv920@hotmail.com,0506883029,22,Female,Hanoi,2024-12-24,Food & Beverages
+CUST000676,Hoàng Văn Em,emhv712@gmail.com,0394654666,39,Female,Can Tho,2023-11-07,Home & Garden
+CUST000677,Trần Thị Bình,binhtt586@gmail.com,0883540031,58,Male,Vung Tau,2023-11-14,Jewelry
+CUST000678,Lý Thị Kim,kimlt624@outlook.com,0439827006,34,Female,Da Nang,2024-01-29,Jewelry
+CUST000679,Dương Thị Quỳnh,quynhdt505@outlook.com,0967562309,29,Male,Bien Hoa,2025-04-04,Electronics
+CUST000680,Phạm Thị Dung,dungpt477@gmail.com,0771583357,25,Male,Hue,2024-08-22,Electronics
+CUST000681,Phan Văn Long,longpv574@hotmail.com,0965482632,58,Male,Ho Chi Minh City,2024-01-03,Home & Garden
+CUST000682,Lý Thị Kim,kimlt810@hotmail.com,0172838419,37,Female,Nha Trang,2025-10-13,Clothing
+CUST000683,Phan Văn Long,longpv406@hotmail.com,0877814971,54,Male,Da Nang,2025-04-04,Beauty & Health
+CUST000684,Phan Văn Long,longpv939@outlook.com,0609490977,20,Male,Vung Tau,2025-05-13,Food & Beverages
+CUST000685,Phan Văn Long,longpv803@outlook.com,0974204752,44,Male,Bien Hoa,2024-03-20,Beauty & Health
+CUST000686,Nguyễn Văn An,annv592@yahoo.com,0836042826,39,Female,Hanoi,2025-05-20,Sports & Outdoors
+CUST000687,Nguyễn Văn An,annv385@hotmail.com,0772710898,52,Male,Hue,2025-04-11,Jewelry
+CUST000688,Phạm Thị Dung,dungpt723@hotmail.com,0437691152,63,Male,Bien Hoa,2024-08-22,Clothing
+CUST000689,Dương Thị Quỳnh,quynhdt381@yahoo.com,0585230723,37,Male,Bien Hoa,2025-04-23,Clothing
+CUST000690,Đinh Thị Mai,maidt797@gmail.com,0317001514,23,Female,Ho Chi Minh City,2024-06-12,Automotive
+CUST000691,Hoàng Văn Em,emhv349@yahoo.com,0619124046,64,Female,Nha Trang,2025-05-26,Clothing
+CUST000692,Hoàng Văn Em,emhv742@yahoo.com,0139247989,47,Female,Hanoi,2025-10-15,Sports & Outdoors
+CUST000693,Trần Thị Bình,binhtt342@gmail.com,0601304182,20,Male,Bien Hoa,2025-09-26,Jewelry
+CUST000694,Lý Thị Kim,kimlt329@yahoo.com,0315344841,30,Female,Bien Hoa,2024-04-22,Beauty & Health
+CUST000695,Võ Văn Phú,phuvv280@gmail.com,0260331909,28,Female,Hanoi,2025-10-04,Jewelry
+CUST000696,Phạm Thị Dung,dungpt556@yahoo.com,0476151232,53,Female,Bien Hoa,2025-05-28,Sports & Outdoors
+CUST000697,Ngô Thị Hoa,hoant73@yahoo.com,0434339109,57,Female,Vung Tau,2025-08-29,Books
+CUST000698,Nguyễn Văn An,annv925@outlook.com,0825308245,21,Male,Hue,2025-08-25,Clothing
+CUST000699,Chu Thị Oanh,oanhct184@outlook.com,0856641801,56,Female,Nha Trang,2024-12-04,Beauty & Health
+CUST000700,Đặng Văn Giang,giangdv998@gmail.com,0911472797,47,Male,Hanoi,2023-11-04,Food & Beverages
+CUST000701,Phạm Thị Dung,dungpt318@outlook.com,0834952627,59,Female,Vung Tau,2025-02-24,Home & Garden
+CUST000702,Hoàng Văn Em,emhv935@hotmail.com,0490250763,43,Male,Nha Trang,2024-11-21,Food & Beverages
+CUST000703,Dương Thị Quỳnh,quynhdt67@gmail.com,0610386386,25,Female,Vung Tau,2024-07-04,Books
+CUST000704,Lý Thị Kim,kimlt619@hotmail.com,0717056083,26,Male,Hue,2025-07-02,Beauty & Health
+CUST000705,Lê Văn Cường,cuờnglv546@hotmail.com,0594967982,43,Female,Can Tho,2024-01-23,Home & Garden
+CUST000706,Vũ Thị Phương,phuongvt394@outlook.com,0170931315,39,Male,Hue,2024-07-31,Jewelry
+CUST000707,Phan Văn Long,longpv178@yahoo.com,0811474491,60,Male,Vung Tau,2025-06-24,Jewelry
+CUST000708,Võ Văn Phú,phuvv569@hotmail.com,0204855083,46,Male,Bien Hoa,2024-08-30,Clothing
+CUST000709,Phạm Thị Dung,dungpt336@outlook.com,0630745374,59,Male,Hanoi,2025-03-11,Books
+CUST000710,Nguyễn Văn An,annv677@yahoo.com,0260219920,46,Female,Hue,2024-01-28,Jewelry
+CUST000711,Võ Văn Phú,phuvv211@yahoo.com,0831773074,38,Female,Bien Hoa,2024-07-31,Beauty & Health
+CUST000712,Lê Văn Cường,cuờnglv627@gmail.com,0648063464,43,Male,Bien Hoa,2025-08-17,Beauty & Health
+CUST000713,Trần Thị Bình,binhtt721@gmail.com,0701327907,40,Male,Bien Hoa,2025-09-18,Home & Garden
+CUST000714,Chu Thị Oanh,oanhct641@outlook.com,0441586594,63,Female,Hue,2024-09-24,Toys & Games
+CUST000715,Đặng Văn Giang,giangdv487@yahoo.com,0249324059,30,Female,Nha Trang,2024-08-18,Books
+CUST000716,Lý Thị Kim,kimlt138@yahoo.com,0112458366,22,Male,Da Nang,2024-06-08,Toys & Games
+CUST000717,Hoàng Văn Em,emhv141@gmail.com,0789603056,44,Female,Hue,2024-01-20,Books
+CUST000718,Võ Văn Phú,phuvv566@outlook.com,0980544989,46,Female,Nha Trang,2025-03-02,Books
+CUST000719,Chu Thị Oanh,oanhct592@gmail.com,0634891964,64,Male,Bien Hoa,2024-08-25,Automotive
+CUST000720,Đinh Thị Mai,maidt39@gmail.com,0710045960,48,Female,Hanoi,2024-03-04,Food & Beverages
+CUST000721,Lê Văn Cường,cuờnglv748@yahoo.com,0885220076,51,Female,Vung Tau,2024-05-08,Clothing
+CUST000722,Lê Văn Cường,cuờnglv484@yahoo.com,0777169078,65,Male,Bien Hoa,2024-01-31,Electronics
+CUST000723,Phan Văn Long,longpv481@gmail.com,0587516124,50,Female,Nha Trang,2024-08-14,Beauty & Health
+CUST000724,Lý Thị Kim,kimlt172@hotmail.com,0137931259,62,Female,Bien Hoa,2025-08-18,Food & Beverages
+CUST000725,Vũ Thị Phương,phuongvt673@gmail.com,0413267622,65,Male,Bien Hoa,2024-06-10,Clothing
+CUST000726,Hoàng Văn Em,emhv872@gmail.com,0941558920,35,Female,Da Nang,2024-01-28,Sports & Outdoors
+CUST000727,Bùi Văn Inh,inhbv15@hotmail.com,0896103507,25,Male,Da Nang,2023-12-15,Food & Beverages
+CUST000728,Đinh Thị Mai,maidt268@yahoo.com,0940232725,62,Male,Vung Tau,2025-04-17,Automotive
+CUST000729,Trần Thị Bình,binhtt87@hotmail.com,0255767997,56,Male,Vung Tau,2024-08-23,Toys & Games
+CUST000730,Ngô Thị Hoa,hoant744@outlook.com,0784590590,28,Male,Nha Trang,2025-08-25,Sports & Outdoors
+CUST000731,Phạm Thị Dung,dungpt172@gmail.com,0598232236,43,Female,Bien Hoa,2024-06-19,Automotive
+CUST000732,Ngô Thị Hoa,hoant700@outlook.com,0857640614,42,Female,Bien Hoa,2025-05-24,Automotive
+CUST000733,Chu Thị Oanh,oanhct296@gmail.com,0956104065,46,Female,Nha Trang,2024-04-25,Electronics
+CUST000734,Phạm Thị Dung,dungpt980@hotmail.com,0563626557,57,Female,Nha Trang,2025-01-16,Sports & Outdoors
+CUST000735,Phạm Thị Dung,dungpt671@hotmail.com,0727255103,43,Female,Can Tho,2023-12-01,Jewelry
+CUST000736,Đặng Văn Giang,giangdv694@hotmail.com,0841180707,29,Female,Ho Chi Minh City,2023-12-01,Electronics
+CUST000737,Lê Văn Cường,cuờnglv422@gmail.com,0204903246,51,Male,Vung Tau,2024-10-25,Home & Garden
+CUST000738,Lý Thị Kim,kimlt198@hotmail.com,0136552071,19,Male,Ho Chi Minh City,2024-02-19,Home & Garden
+CUST000739,Phạm Thị Dung,dungpt89@gmail.com,0749276419,26,Female,Da Nang,2025-06-28,Books
+CUST000740,Bùi Văn Inh,inhbv479@hotmail.com,0809182681,22,Female,Bien Hoa,2024-08-08,Beauty & Health
+CUST000741,Bùi Văn Inh,inhbv800@yahoo.com,0179453743,35,Male,Hue,2024-09-17,Beauty & Health
+CUST000742,Trần Thị Bình,binhtt979@hotmail.com,0972738280,34,Male,Vung Tau,2025-08-09,Food & Beverages
+CUST000743,Đặng Văn Giang,giangdv183@outlook.com,0793082286,49,Male,Da Nang,2024-04-14,Toys & Games
+CUST000744,Đặng Văn Giang,giangdv935@gmail.com,0574144746,63,Female,Hanoi,2025-09-14,Clothing
+CUST000745,Lê Văn Cường,cuờnglv796@hotmail.com,0578762215,19,Female,Da Nang,2023-12-21,Electronics
+CUST000746,Trần Thị Bình,binhtt273@outlook.com,0262787284,62,Female,Hue,2024-03-10,Electronics
+CUST000747,Dương Thị Quỳnh,quynhdt447@outlook.com,0533698014,64,Male,Can Tho,2025-10-16,Toys & Games
+CUST000748,Dương Thị Quỳnh,quynhdt581@gmail.com,0674778368,40,Female,Bien Hoa,2024-09-04,Electronics
+CUST000749,Lê Văn Cường,cuờnglv548@hotmail.com,0465139645,23,Female,Bien Hoa,2023-12-26,Home & Garden
+CUST000750,Vũ Thị Phương,phuongvt991@gmail.com,0512492602,60,Male,Bien Hoa,2023-11-07,Toys & Games
+CUST000751,Phạm Thị Dung,dungpt499@hotmail.com,0191120392,58,Female,Can Tho,2025-05-29,Electronics
+CUST000752,Đặng Văn Giang,giangdv738@gmail.com,0736670305,33,Female,Hue,2025-08-16,Automotive
+CUST000753,Lý Thị Kim,kimlt547@outlook.com,0995769426,46,Male,Ho Chi Minh City,2024-11-06,Electronics
+CUST000754,Phan Văn Long,longpv416@gmail.com,0226902446,31,Female,Da Nang,2024-03-05,Home & Garden
+CUST000755,Lê Văn Cường,cuờnglv754@gmail.com,0252031615,49,Male,Vung Tau,2024-01-25,Electronics
+CUST000756,Ngô Thị Hoa,hoant15@yahoo.com,0284950962,58,Male,Bien Hoa,2025-07-12,Food & Beverages
+CUST000757,Vũ Thị Phương,phuongvt838@gmail.com,0977752159,24,Male,Vung Tau,2024-02-18,Jewelry
+CUST000758,Ngô Thị Hoa,hoant824@gmail.com,0317584270,45,Female,Hue,2024-11-21,Clothing
+CUST000759,Hoàng Văn Em,emhv857@hotmail.com,0951586433,31,Male,Da Nang,2024-11-10,Clothing
+CUST000760,Phạm Thị Dung,dungpt145@hotmail.com,0913413214,44,Male,Nha Trang,2024-04-01,Books
+CUST000761,Võ Văn Phú,phuvv948@yahoo.com,0724902501,20,Male,Hanoi,2024-01-11,Jewelry
+CUST000762,Tạ Văn Nam,namtv17@yahoo.com,0622877347,23,Male,Ho Chi Minh City,2025-04-19,Clothing
+CUST000763,Lý Thị Kim,kimlt711@outlook.com,0966951820,48,Male,Can Tho,2025-05-26,Sports & Outdoors
+CUST000764,Võ Văn Phú,phuvv245@outlook.com,0287420491,57,Male,Da Nang,2024-05-26,Jewelry
+CUST000765,Lê Văn Cường,cuờnglv357@hotmail.com,0549667909,18,Male,Can Tho,2025-06-21,Automotive
+CUST000766,Phạm Thị Dung,dungpt884@hotmail.com,0917255218,52,Male,Vung Tau,2024-01-17,Home & Garden
+CUST000767,Bùi Văn Inh,inhbv199@gmail.com,0220988280,27,Female,Vung Tau,2025-04-22,Books
+CUST000768,Trần Thị Bình,binhtt661@gmail.com,0491049332,36,Male,Hue,2025-02-04,Beauty & Health
+CUST000769,Võ Văn Phú,phuvv107@gmail.com,0895016576,21,Male,Da Nang,2025-09-20,Food & Beverages
+CUST000770,Phạm Thị Dung,dungpt917@gmail.com,0352651266,64,Female,Nha Trang,2024-08-16,Home & Garden
+CUST000771,Phan Văn Long,longpv798@yahoo.com,0218254268,38,Male,Hanoi,2025-02-19,Toys & Games
+CUST000772,Đặng Văn Giang,giangdv913@outlook.com,0336934839,22,Female,Vung Tau,2025-08-25,Toys & Games
+CUST000773,Hoàng Văn Em,emhv951@yahoo.com,0754374295,47,Male,Hue,2024-10-02,Books
+CUST000774,Võ Văn Phú,phuvv648@yahoo.com,0485033279,35,Male,Nha Trang,2025-06-11,Electronics
+CUST000775,Trần Thị Bình,binhtt140@hotmail.com,0219302664,47,Female,Hue,2025-04-27,Beauty & Health
+CUST000776,Ngô Thị Hoa,hoant619@hotmail.com,0268349963,58,Male,Can Tho,2025-07-23,Toys & Games
+CUST000777,Dương Thị Quỳnh,quynhdt606@yahoo.com,0608404935,47,Female,Ho Chi Minh City,2024-08-07,Home & Garden
+CUST000778,Ngô Thị Hoa,hoant445@hotmail.com,0722197986,32,Male,Ho Chi Minh City,2024-08-18,Electronics
+CUST000779,Trần Thị Bình,binhtt752@outlook.com,0925284826,50,Male,Hue,2024-04-24,Toys & Games
+CUST000780,Dương Thị Quỳnh,quynhdt464@gmail.com,0631808267,33,Male,Ho Chi Minh City,2023-11-10,Toys & Games
+CUST000781,Đặng Văn Giang,giangdv368@yahoo.com,0417602552,33,Male,Ho Chi Minh City,2024-06-15,Sports & Outdoors
+CUST000782,Vũ Thị Phương,phuongvt879@outlook.com,0712441715,65,Male,Vung Tau,2024-07-02,Books
+CUST000783,Tạ Văn Nam,namtv809@yahoo.com,0497735939,58,Female,Ho Chi Minh City,2024-01-16,Clothing
+CUST000784,Tạ Văn Nam,namtv544@hotmail.com,0135126580,36,Female,Bien Hoa,2023-11-05,Jewelry
+CUST000785,Đặng Văn Giang,giangdv636@gmail.com,0460449408,65,Male,Nha Trang,2025-08-28,Clothing
+CUST000786,Tạ Văn Nam,namtv477@hotmail.com,0764789481,20,Female,Nha Trang,2025-04-23,Automotive
+CUST000787,Lê Văn Cường,cuờnglv142@yahoo.com,0459628007,33,Male,Vung Tau,2024-03-04,Home & Garden
+CUST000788,Ngô Thị Hoa,hoant362@hotmail.com,0387073305,50,Female,Bien Hoa,2025-08-25,Clothing
+CUST000789,Đinh Thị Mai,maidt464@hotmail.com,0622082166,50,Male,Vung Tau,2023-10-24,Automotive
+CUST000790,Lý Thị Kim,kimlt636@outlook.com,0495293592,61,Male,Can Tho,2024-07-08,Clothing
+CUST000791,Lê Văn Cường,cuờnglv920@outlook.com,0291997732,36,Male,Hanoi,2025-05-04,Sports & Outdoors
+CUST000792,Phạm Thị Dung,dungpt509@yahoo.com,0261596070,31,Male,Bien Hoa,2024-08-19,Automotive
+CUST000793,Hoàng Văn Em,emhv356@outlook.com,0551111120,46,Male,Bien Hoa,2025-04-09,Clothing
+CUST000794,Nguyễn Văn An,annv855@yahoo.com,0657938247,59,Female,Hue,2024-03-06,Beauty & Health
+CUST000795,Phan Văn Long,longpv608@outlook.com,0814956730,62,Female,Vung Tau,2024-12-12,Jewelry
+CUST000796,Hoàng Văn Em,emhv176@hotmail.com,0947469747,34,Male,Vung Tau,2024-10-04,Sports & Outdoors
+CUST000797,Trần Thị Bình,binhtt362@yahoo.com,0405352880,47,Male,Da Nang,2023-10-22,Automotive
+CUST000798,Lý Thị Kim,kimlt997@yahoo.com,0288290663,63,Male,Da Nang,2025-02-18,Clothing
+CUST000799,Trần Thị Bình,binhtt589@hotmail.com,0235799902,46,Female,Nha Trang,2025-04-14,Home & Garden
+CUST000800,Trần Thị Bình,binhtt353@hotmail.com,0258853889,41,Female,Da Nang,2024-04-21,Sports & Outdoors
+CUST000801,Phạm Thị Dung,dungpt415@gmail.com,0636244827,27,Female,Nha Trang,2025-05-13,Electronics
+CUST000802,Phan Văn Long,longpv486@hotmail.com,0411199562,54,Male,Vung Tau,2024-11-07,Clothing
+CUST000803,Dương Thị Quỳnh,quynhdt143@gmail.com,0828005909,53,Male,Bien Hoa,2025-09-24,Toys & Games
+CUST000804,Ngô Thị Hoa,hoant366@outlook.com,0199300858,38,Male,Can Tho,2024-03-01,Automotive
+CUST000805,Ngô Thị Hoa,hoant201@hotmail.com,0124211427,23,Female,Hanoi,2024-05-13,Toys & Games
+CUST000806,Đặng Văn Giang,giangdv326@outlook.com,0747650867,56,Male,Nha Trang,2024-09-07,Books
+CUST000807,Chu Thị Oanh,oanhct396@hotmail.com,0500324401,18,Female,Nha Trang,2024-10-25,Sports & Outdoors
+CUST000808,Võ Văn Phú,phuvv221@gmail.com,0881526591,46,Female,Vung Tau,2024-12-28,Books
+CUST000809,Chu Thị Oanh,oanhct143@outlook.com,0997123679,55,Male,Da Nang,2025-03-21,Sports & Outdoors
+CUST000810,Dương Thị Quỳnh,quynhdt68@hotmail.com,0734236627,42,Male,Ho Chi Minh City,2024-08-26,Sports & Outdoors
+CUST000811,Chu Thị Oanh,oanhct570@yahoo.com,0596197535,63,Male,Can Tho,2025-04-12,Toys & Games
+CUST000812,Lý Thị Kim,kimlt44@outlook.com,0983473934,37,Female,Vung Tau,2024-03-26,Food & Beverages
+CUST000813,Ngô Thị Hoa,hoant811@gmail.com,0102627099,27,Female,Bien Hoa,2024-01-03,Food & Beverages
+CUST000814,Phạm Thị Dung,dungpt428@hotmail.com,0292599550,49,Male,Ho Chi Minh City,2025-06-19,Sports & Outdoors
+CUST000815,Dương Thị Quỳnh,quynhdt614@gmail.com,0900544937,41,Female,Hue,2025-01-28,Food & Beverages
+CUST000816,Phạm Thị Dung,dungpt525@hotmail.com,0887006874,54,Male,Bien Hoa,2025-05-06,Jewelry
+CUST000817,Trần Thị Bình,binhtt328@yahoo.com,0595042189,62,Male,Nha Trang,2025-05-05,Electronics
+CUST000818,Bùi Văn Inh,inhbv430@hotmail.com,0783165158,40,Male,Bien Hoa,2024-12-25,Automotive
+CUST000819,Lê Văn Cường,cuờnglv785@yahoo.com,0774342024,29,Male,Da Nang,2024-04-11,Beauty & Health
+CUST000820,Phan Văn Long,longpv278@hotmail.com,0835989586,62,Female,Hanoi,2024-04-20,Jewelry
+CUST000821,Đinh Thị Mai,maidt14@yahoo.com,0247048346,51,Female,Nha Trang,2024-06-10,Toys & Games
+CUST000822,Phan Văn Long,longpv105@yahoo.com,0333942807,27,Male,Can Tho,2024-03-26,Jewelry
+CUST000823,Phạm Thị Dung,dungpt472@outlook.com,0182034227,25,Male,Ho Chi Minh City,2024-06-15,Beauty & Health
+CUST000824,Lý Thị Kim,kimlt143@hotmail.com,0977288628,46,Female,Da Nang,2023-10-24,Sports & Outdoors
+CUST000825,Nguyễn Văn An,annv228@gmail.com,0238206116,62,Male,Can Tho,2024-12-09,Books
+CUST000826,Đặng Văn Giang,giangdv81@yahoo.com,0556130975,62,Male,Hanoi,2025-09-30,Food & Beverages
+CUST000827,Chu Thị Oanh,oanhct202@gmail.com,0215768032,20,Male,Vung Tau,2025-06-20,Sports & Outdoors
+CUST000828,Trần Thị Bình,binhtt309@gmail.com,0816815464,18,Male,Hanoi,2024-02-11,Home & Garden
+CUST000829,Đặng Văn Giang,giangdv687@yahoo.com,0477456401,19,Male,Da Nang,2025-01-08,Jewelry
+CUST000830,Đinh Thị Mai,maidt165@hotmail.com,0637552108,64,Male,Hanoi,2025-07-10,Jewelry
+CUST000831,Nguyễn Văn An,annv733@yahoo.com,0305672580,36,Male,Ho Chi Minh City,2025-07-10,Home & Garden
+CUST000832,Dương Thị Quỳnh,quynhdt715@hotmail.com,0732842568,29,Female,Hanoi,2025-04-17,Beauty & Health
+CUST000833,Tạ Văn Nam,namtv220@outlook.com,0652172808,32,Female,Hanoi,2024-12-02,Clothing
+CUST000834,Võ Văn Phú,phuvv533@gmail.com,0245934792,49,Female,Bien Hoa,2024-03-28,Electronics
+CUST000835,Lê Văn Cường,cuờnglv506@hotmail.com,0224256201,42,Female,Vung Tau,2024-02-13,Sports & Outdoors
+CUST000836,Võ Văn Phú,phuvv568@yahoo.com,0537315952,36,Female,Can Tho,2025-08-09,Food & Beverages
+CUST000837,Đinh Thị Mai,maidt14@yahoo.com,0823872620,49,Male,Hue,2024-07-28,Automotive
+CUST000838,Lê Văn Cường,cuờnglv147@gmail.com,0523925579,43,Male,Da Nang,2025-08-14,Beauty & Health
+CUST000839,Đặng Văn Giang,giangdv206@hotmail.com,0738834325,43,Male,Can Tho,2024-08-11,Food & Beverages
+CUST000840,Bùi Văn Inh,inhbv775@hotmail.com,0947711366,59,Female,Nha Trang,2024-06-19,Jewelry
+CUST000841,Tạ Văn Nam,namtv524@outlook.com,0399456538,27,Female,Hanoi,2025-06-16,Sports & Outdoors
+CUST000842,Dương Thị Quỳnh,quynhdt237@outlook.com,0774708255,26,Male,Hanoi,2025-08-26,Clothing
+CUST000843,Dương Thị Quỳnh,quynhdt996@gmail.com,0292302534,42,Female,Da Nang,2024-12-13,Jewelry
+CUST000844,Phạm Thị Dung,dungpt677@gmail.com,0907034823,51,Female,Vung Tau,2025-03-27,Sports & Outdoors
+CUST000845,Dương Thị Quỳnh,quynhdt517@outlook.com,0380960951,52,Female,Ho Chi Minh City,2025-09-17,Toys & Games
+CUST000846,Phạm Thị Dung,dungpt461@outlook.com,0437755361,42,Female,Vung Tau,2025-09-13,Electronics
+CUST000847,Vũ Thị Phương,phuongvt906@hotmail.com,0858125303,28,Female,Hue,2025-06-04,Sports & Outdoors
+CUST000848,Tạ Văn Nam,namtv783@outlook.com,0217448021,54,Female,Vung Tau,2024-06-19,Automotive
+CUST000849,Vũ Thị Phương,phuongvt401@gmail.com,0382813918,49,Female,Nha Trang,2025-01-01,Beauty & Health
+CUST000850,Trần Thị Bình,binhtt605@gmail.com,0148445575,26,Female,Nha Trang,2024-03-01,Electronics
+CUST000851,Phan Văn Long,longpv100@outlook.com,0559720620,40,Female,Hue,2024-10-25,Electronics
+CUST000852,Ngô Thị Hoa,hoant241@yahoo.com,0795873638,37,Male,Hanoi,2024-12-11,Clothing
+CUST000853,Phan Văn Long,longpv21@yahoo.com,0678120648,38,Male,Vung Tau,2023-12-16,Toys & Games
+CUST000854,Chu Thị Oanh,oanhct21@hotmail.com,0847279721,48,Male,Nha Trang,2024-09-28,Jewelry
+CUST000855,Tạ Văn Nam,namtv587@hotmail.com,0204932137,49,Male,Can Tho,2024-11-09,Food & Beverages
+CUST000856,Phan Văn Long,longpv630@yahoo.com,0421608113,41,Female,Can Tho,2024-05-29,Clothing
+CUST000857,Đặng Văn Giang,giangdv272@hotmail.com,0151036409,37,Female,Can Tho,2024-01-19,Clothing
+CUST000858,Phạm Thị Dung,dungpt280@hotmail.com,0172230370,54,Female,Hue,2025-03-19,Beauty & Health
+CUST000859,Lê Văn Cường,cuờnglv517@hotmail.com,0963424487,37,Female,Nha Trang,2025-03-29,Toys & Games
+CUST000860,Tạ Văn Nam,namtv640@hotmail.com,0653373498,47,Male,Ho Chi Minh City,2024-01-16,Automotive
+CUST000861,Vũ Thị Phương,phuongvt219@outlook.com,0809535264,65,Female,Bien Hoa,2024-01-05,Automotive
+CUST000862,Chu Thị Oanh,oanhct535@gmail.com,0315444177,41,Female,Da Nang,2025-02-15,Books
+CUST000863,Lý Thị Kim,kimlt421@outlook.com,0442151243,22,Male,Hue,2025-01-19,Sports & Outdoors
+CUST000864,Vũ Thị Phương,phuongvt704@hotmail.com,0745568239,33,Female,Can Tho,2025-06-25,Books
+CUST000865,Đặng Văn Giang,giangdv252@gmail.com,0955820291,37,Female,Vung Tau,2024-03-25,Toys & Games
+CUST000866,Chu Thị Oanh,oanhct207@gmail.com,0271109874,35,Male,Ho Chi Minh City,2025-01-28,Sports & Outdoors
+CUST000867,Vũ Thị Phương,phuongvt987@gmail.com,0875750551,49,Male,Ho Chi Minh City,2025-07-26,Beauty & Health
+CUST000868,Lý Thị Kim,kimlt923@gmail.com,0537020273,41,Male,Hue,2025-05-29,Home & Garden
+CUST000869,Phạm Thị Dung,dungpt535@gmail.com,0813197718,55,Female,Vung Tau,2025-07-19,Home & Garden
+CUST000870,Phạm Thị Dung,dungpt338@hotmail.com,0993712000,55,Female,Can Tho,2024-08-12,Home & Garden
+CUST000871,Hoàng Văn Em,emhv180@gmail.com,0329897397,35,Female,Hue,2025-02-01,Jewelry
+CUST000872,Trần Thị Bình,binhtt547@outlook.com,0502336411,62,Male,Nha Trang,2024-04-09,Toys & Games
+CUST000873,Dương Thị Quỳnh,quynhdt987@yahoo.com,0398214359,27,Female,Vung Tau,2024-10-08,Sports & Outdoors
+CUST000874,Nguyễn Văn An,annv862@gmail.com,0893978083,60,Male,Can Tho,2025-02-02,Automotive
+CUST000875,Tạ Văn Nam,namtv655@hotmail.com,0852281566,41,Male,Can Tho,2024-07-23,Toys & Games
+CUST000876,Nguyễn Văn An,annv950@outlook.com,0374377213,37,Male,Can Tho,2024-12-19,Home & Garden
+CUST000877,Vũ Thị Phương,phuongvt647@outlook.com,0440574106,59,Female,Ho Chi Minh City,2025-01-12,Clothing
+CUST000878,Dương Thị Quỳnh,quynhdt755@outlook.com,0543413836,39,Female,Hanoi,2025-05-08,Sports & Outdoors
+CUST000879,Lê Văn Cường,cuờnglv431@hotmail.com,0746517065,64,Female,Vung Tau,2023-11-08,Electronics
+CUST000880,Trần Thị Bình,binhtt646@yahoo.com,0576102460,59,Male,Ho Chi Minh City,2024-09-04,Home & Garden
+CUST000881,Lý Thị Kim,kimlt590@hotmail.com,0188295994,25,Male,Can Tho,2024-05-09,Books
+CUST000882,Chu Thị Oanh,oanhct463@hotmail.com,0613641017,65,Male,Bien Hoa,2025-04-25,Jewelry
+CUST000883,Phan Văn Long,longpv204@hotmail.com,0190622682,44,Female,Da Nang,2024-09-12,Toys & Games
+CUST000884,Ngô Thị Hoa,hoant971@gmail.com,0124663947,53,Male,Hanoi,2024-07-03,Home & Garden
+CUST000885,Bùi Văn Inh,inhbv51@yahoo.com,0530607955,57,Female,Bien Hoa,2025-05-20,Clothing
+CUST000886,Đinh Thị Mai,maidt970@yahoo.com,0709072427,25,Male,Hue,2024-07-12,Food & Beverages
+CUST000887,Phạm Thị Dung,dungpt731@yahoo.com,0318125679,30,Female,Bien Hoa,2024-05-31,Toys & Games
+CUST000888,Hoàng Văn Em,emhv877@outlook.com,0321841455,56,Male,Bien Hoa,2023-11-26,Home & Garden
+CUST000889,Chu Thị Oanh,oanhct419@yahoo.com,0950901243,27,Male,Bien Hoa,2025-01-24,Home & Garden
+CUST000890,Võ Văn Phú,phuvv379@yahoo.com,0725887408,61,Female,Hanoi,2025-10-09,Food & Beverages
+CUST000891,Hoàng Văn Em,emhv998@hotmail.com,0844128379,43,Male,Hue,2023-10-25,Toys & Games
+CUST000892,Bùi Văn Inh,inhbv98@gmail.com,0698074168,21,Male,Nha Trang,2025-02-21,Food & Beverages
+CUST000893,Đinh Thị Mai,maidt6@gmail.com,0372362005,50,Female,Bien Hoa,2024-09-10,Beauty & Health
+CUST000894,Hoàng Văn Em,emhv595@gmail.com,0292599457,34,Male,Vung Tau,2024-11-06,Food & Beverages
+CUST000895,Hoàng Văn Em,emhv325@gmail.com,0862631115,51,Female,Da Nang,2025-01-26,Clothing
+CUST000896,Phan Văn Long,longpv131@gmail.com,0636023317,35,Female,Hue,2025-01-03,Sports & Outdoors
+CUST000897,Bùi Văn Inh,inhbv447@hotmail.com,0277150029,38,Female,Da Nang,2024-03-29,Food & Beverages
+CUST000898,Trần Thị Bình,binhtt153@yahoo.com,0158591050,32,Male,Ho Chi Minh City,2024-06-25,Sports & Outdoors
+CUST000899,Vũ Thị Phương,phuongvt447@outlook.com,0224579869,49,Male,Vung Tau,2024-10-19,Automotive
+CUST000900,Dương Thị Quỳnh,quynhdt505@outlook.com,0220786160,64,Male,Hanoi,2024-10-27,Clothing
+CUST000901,Đặng Văn Giang,giangdv185@hotmail.com,0996524668,28,Female,Can Tho,2024-03-01,Electronics
+CUST000902,Vũ Thị Phương,phuongvt943@outlook.com,0182501451,33,Female,Hanoi,2024-11-17,Electronics
+CUST000903,Lý Thị Kim,kimlt404@gmail.com,0501105178,55,Male,Nha Trang,2025-05-15,Electronics
+CUST000904,Lê Văn Cường,cuờnglv851@outlook.com,0859894230,60,Female,Vung Tau,2024-01-15,Sports & Outdoors
+CUST000905,Nguyễn Văn An,annv994@hotmail.com,0147080354,59,Female,Nha Trang,2024-03-16,Books
+CUST000906,Đặng Văn Giang,giangdv821@gmail.com,0791107513,36,Female,Ho Chi Minh City,2025-08-08,Automotive
+CUST000907,Tạ Văn Nam,namtv409@gmail.com,0373980159,29,Male,Hue,2025-07-20,Electronics
+CUST000908,Đặng Văn Giang,giangdv398@yahoo.com,0936973744,43,Female,Da Nang,2025-06-18,Sports & Outdoors
+CUST000909,Dương Thị Quỳnh,quynhdt754@outlook.com,0965815151,37,Male,Nha Trang,2023-12-08,Clothing
+CUST000910,Đinh Thị Mai,maidt502@yahoo.com,0578290147,42,Female,Bien Hoa,2024-03-22,Jewelry
+CUST000911,Chu Thị Oanh,oanhct775@gmail.com,0553694944,41,Male,Hue,2024-01-13,Toys & Games
+CUST000912,Lê Văn Cường,cuờnglv526@gmail.com,0466945733,47,Male,Da Nang,2024-05-30,Automotive
+CUST000913,Lê Văn Cường,cuờnglv480@hotmail.com,0569606919,23,Female,Bien Hoa,2025-05-20,Books
+CUST000914,Lý Thị Kim,kimlt536@yahoo.com,0559273528,36,Male,Hanoi,2025-09-03,Automotive
+CUST000915,Phạm Thị Dung,dungpt423@outlook.com,0201451808,47,Female,Nha Trang,2025-02-01,Jewelry
+CUST000916,Lê Văn Cường,cuờnglv117@gmail.com,0895123177,60,Female,Da Nang,2025-04-16,Toys & Games
+CUST000917,Trần Thị Bình,binhtt427@gmail.com,0856320718,37,Female,Vung Tau,2023-12-03,Food & Beverages
+CUST000918,Bùi Văn Inh,inhbv990@hotmail.com,0969737332,29,Male,Da Nang,2025-07-31,Jewelry
+CUST000919,Bùi Văn Inh,inhbv445@gmail.com,0673781871,19,Male,Hue,2025-06-22,Electronics
+CUST000920,Vũ Thị Phương,phuongvt472@outlook.com,0842821285,43,Female,Bien Hoa,2024-01-25,Jewelry
+CUST000921,Đinh Thị Mai,maidt824@outlook.com,0424975114,23,Male,Da Nang,2025-10-05,Home & Garden
+CUST000922,Phạm Thị Dung,dungpt713@gmail.com,0302100867,19,Male,Vung Tau,2023-12-25,Books
+CUST000923,Ngô Thị Hoa,hoant863@outlook.com,0772225892,52,Male,Hanoi,2024-12-15,Food & Beverages
+CUST000924,Hoàng Văn Em,emhv433@outlook.com,0123425640,25,Male,Da Nang,2023-10-31,Food & Beverages
+CUST000925,Dương Thị Quỳnh,quynhdt21@outlook.com,0582664425,55,Male,Can Tho,2024-12-22,Jewelry
+CUST000926,Tạ Văn Nam,namtv342@gmail.com,0108454944,24,Female,Hue,2024-05-30,Jewelry
+CUST000927,Lý Thị Kim,kimlt500@gmail.com,0529153534,49,Female,Can Tho,2025-08-18,Automotive
+CUST000928,Nguyễn Văn An,annv591@outlook.com,0439141517,53,Male,Bien Hoa,2023-12-26,Toys & Games
+CUST000929,Dương Thị Quỳnh,quynhdt507@gmail.com,0768615479,59,Female,Vung Tau,2023-11-05,Toys & Games
+CUST000930,Nguyễn Văn An,annv295@yahoo.com,0879761120,30,Female,Nha Trang,2024-07-28,Home & Garden
+CUST000931,Ngô Thị Hoa,hoant944@hotmail.com,0746500088,63,Female,Da Nang,2024-12-23,Toys & Games
+CUST000932,Chu Thị Oanh,oanhct816@hotmail.com,0607154936,28,Male,Bien Hoa,2023-11-12,Clothing
+CUST000933,Dương Thị Quỳnh,quynhdt178@yahoo.com,0314194552,28,Female,Hanoi,2024-08-20,Food & Beverages
+CUST000934,Lý Thị Kim,kimlt215@yahoo.com,0697892214,21,Male,Nha Trang,2025-01-25,Beauty & Health
+CUST000935,Vũ Thị Phương,phuongvt848@yahoo.com,0640606355,20,Male,Nha Trang,2024-08-05,Clothing
+CUST000936,Ngô Thị Hoa,hoant576@gmail.com,0340620860,49,Female,Nha Trang,2024-10-21,Electronics
+CUST000937,Bùi Văn Inh,inhbv874@yahoo.com,0841027438,50,Male,Ho Chi Minh City,2024-07-28,Food & Beverages
+CUST000938,Phạm Thị Dung,dungpt801@gmail.com,0755597273,57,Male,Ho Chi Minh City,2024-05-18,Clothing
+CUST000939,Vũ Thị Phương,phuongvt892@gmail.com,0320531781,41,Male,Bien Hoa,2023-10-25,Food & Beverages
+CUST000940,Dương Thị Quỳnh,quynhdt158@gmail.com,0794810784,41,Female,Da Nang,2025-06-16,Home & Garden
+CUST000941,Võ Văn Phú,phuvv788@outlook.com,0925743075,18,Male,Vung Tau,2024-11-04,Sports & Outdoors
+CUST000942,Vũ Thị Phương,phuongvt273@gmail.com,0499900489,63,Female,Nha Trang,2024-01-14,Home & Garden
+CUST000943,Hoàng Văn Em,emhv807@outlook.com,0345008566,26,Female,Hue,2024-08-26,Food & Beverages
+CUST000944,Đinh Thị Mai,maidt454@gmail.com,0256319955,18,Male,Hanoi,2024-11-07,Beauty & Health
+CUST000945,Tạ Văn Nam,namtv445@yahoo.com,0166001117,43,Male,Da Nang,2024-03-10,Electronics
+CUST000946,Lý Thị Kim,kimlt412@outlook.com,0831079302,62,Female,Nha Trang,2024-11-01,Electronics
+CUST000947,Bùi Văn Inh,inhbv718@yahoo.com,0533725200,46,Male,Vung Tau,2023-11-05,Beauty & Health
+CUST000948,Tạ Văn Nam,namtv903@yahoo.com,0423766892,23,Male,Nha Trang,2024-09-15,Books
+CUST000949,Lý Thị Kim,kimlt96@yahoo.com,0649403202,53,Female,Nha Trang,2024-01-08,Books
+CUST000950,Nguyễn Văn An,annv912@gmail.com,0955341340,52,Female,Can Tho,2024-12-12,Toys & Games
+CUST000951,Phạm Thị Dung,dungpt862@gmail.com,0500483008,34,Female,Hanoi,2025-09-01,Clothing
+CUST000952,Võ Văn Phú,phuvv587@hotmail.com,0891196000,18,Female,Nha Trang,2025-02-20,Jewelry
+CUST000953,Ngô Thị Hoa,hoant307@hotmail.com,0405517657,60,Male,Hue,2024-05-05,Home & Garden
+CUST000954,Phạm Thị Dung,dungpt529@hotmail.com,0725314006,30,Female,Vung Tau,2025-07-11,Books
+CUST000955,Chu Thị Oanh,oanhct84@outlook.com,0199051192,21,Female,Da Nang,2024-06-19,Home & Garden
+CUST000956,Võ Văn Phú,phuvv379@gmail.com,0826732562,51,Female,Hue,2025-01-22,Jewelry
+CUST000957,Dương Thị Quỳnh,quynhdt451@outlook.com,0839827290,49,Female,Da Nang,2025-05-25,Automotive
+CUST000958,Hoàng Văn Em,emhv729@outlook.com,0591465381,26,Male,Can Tho,2024-07-10,Food & Beverages
+CUST000959,Trần Thị Bình,binhtt967@yahoo.com,0700250339,41,Male,Hue,2025-06-29,Clothing
+CUST000960,Đinh Thị Mai,maidt42@hotmail.com,0661328067,27,Male,Nha Trang,2024-12-11,Beauty & Health
+CUST000961,Lý Thị Kim,kimlt498@hotmail.com,0130040913,27,Male,Hue,2025-08-31,Sports & Outdoors
+CUST000962,Lý Thị Kim,kimlt188@yahoo.com,0979528847,65,Female,Ho Chi Minh City,2025-06-16,Automotive
+CUST000963,Đinh Thị Mai,maidt892@gmail.com,0147977445,44,Female,Bien Hoa,2024-03-19,Food & Beverages
+CUST000964,Phan Văn Long,longpv487@outlook.com,0995994586,64,Male,Da Nang,2024-05-21,Food & Beverages
+CUST000965,Võ Văn Phú,phuvv153@outlook.com,0881538189,38,Male,Hue,2024-09-18,Home & Garden
+CUST000966,Tạ Văn Nam,namtv554@hotmail.com,0149198538,60,Female,Bien Hoa,2023-12-28,Clothing
+CUST000967,Vũ Thị Phương,phuongvt586@gmail.com,0776574610,63,Female,Hanoi,2023-12-30,Automotive
+CUST000968,Lê Văn Cường,cuờnglv979@yahoo.com,0764328419,52,Male,Can Tho,2024-06-19,Automotive
+CUST000969,Nguyễn Văn An,annv675@gmail.com,0671079725,29,Male,Bien Hoa,2025-03-23,Home & Garden
+CUST000970,Võ Văn Phú,phuvv827@gmail.com,0672888364,56,Female,Hue,2024-02-24,Electronics
+CUST000971,Dương Thị Quỳnh,quynhdt349@gmail.com,0569243880,29,Female,Ho Chi Minh City,2024-04-27,Beauty & Health
+CUST000972,Tạ Văn Nam,namtv94@hotmail.com,0223098723,24,Male,Bien Hoa,2025-05-25,Books
+CUST000973,Bùi Văn Inh,inhbv158@gmail.com,0429417778,44,Male,Ho Chi Minh City,2024-01-29,Beauty & Health
+CUST000974,Vũ Thị Phương,phuongvt731@gmail.com,0162815808,37,Female,Hanoi,2024-11-26,Books
+CUST000975,Chu Thị Oanh,oanhct265@hotmail.com,0503204182,25,Male,Can Tho,2025-02-16,Jewelry
+CUST000976,Ngô Thị Hoa,hoant521@outlook.com,0907872588,50,Female,Hanoi,2025-01-17,Electronics
+CUST000977,Phan Văn Long,longpv567@outlook.com,0537095027,22,Female,Ho Chi Minh City,2024-08-28,Home & Garden
+CUST000978,Nguyễn Văn An,annv568@hotmail.com,0729398143,61,Male,Can Tho,2024-03-30,Books
+CUST000979,Lý Thị Kim,kimlt457@outlook.com,0190095909,58,Male,Da Nang,2024-10-02,Automotive
+CUST000980,Vũ Thị Phương,phuongvt551@yahoo.com,0555000733,53,Female,Ho Chi Minh City,2025-10-18,Food & Beverages
+CUST000981,Lý Thị Kim,kimlt1@yahoo.com,0164612445,48,Female,Bien Hoa,2023-11-23,Toys & Games
+CUST000982,Đinh Thị Mai,maidt600@yahoo.com,0647960971,36,Male,Da Nang,2024-04-21,Jewelry
+CUST000983,Lê Văn Cường,cuờnglv92@hotmail.com,0524455403,62,Male,Da Nang,2024-03-29,Sports & Outdoors
+CUST000984,Chu Thị Oanh,oanhct626@yahoo.com,0642046610,38,Female,Bien Hoa,2023-10-26,Food & Beverages
+CUST000985,Bùi Văn Inh,inhbv679@yahoo.com,0445356445,39,Male,Vung Tau,2024-02-14,Beauty & Health
+CUST000986,Nguyễn Văn An,annv662@yahoo.com,0102198503,56,Female,Ho Chi Minh City,2025-10-10,Books
+CUST000987,Chu Thị Oanh,oanhct781@outlook.com,0521756208,52,Male,Hanoi,2024-04-16,Electronics
+CUST000988,Võ Văn Phú,phuvv362@gmail.com,0972717220,42,Female,Hue,2025-04-21,Electronics
+CUST000989,Phạm Thị Dung,dungpt380@outlook.com,0307222353,46,Male,Can Tho,2025-09-29,Sports & Outdoors
+CUST000990,Đinh Thị Mai,maidt93@yahoo.com,0976474860,57,Female,Can Tho,2025-02-22,Food & Beverages
+CUST000991,Đinh Thị Mai,maidt288@gmail.com,0629180636,63,Male,Ho Chi Minh City,2025-04-02,Toys & Games
+CUST000992,Phạm Thị Dung,dungpt583@hotmail.com,0637220565,49,Male,Can Tho,2023-12-14,Jewelry
+CUST000993,Vũ Thị Phương,phuongvt603@gmail.com,0237703513,65,Male,Da Nang,2025-01-27,Jewelry
+CUST000994,Ngô Thị Hoa,hoant197@hotmail.com,0827974104,19,Female,Vung Tau,2025-10-17,Toys & Games
+CUST000995,Trần Thị Bình,binhtt443@hotmail.com,0536879666,35,Male,Vung Tau,2024-05-30,Beauty & Health
+CUST000996,Trần Thị Bình,binhtt49@yahoo.com,0398428319,44,Female,Nha Trang,2025-10-14,Toys & Games
+CUST000997,Đặng Văn Giang,giangdv84@hotmail.com,0713986637,19,Male,Hue,2025-08-04,Home & Garden
+CUST000998,Đặng Văn Giang,giangdv338@yahoo.com,0433725254,22,Male,Ho Chi Minh City,2024-06-15,Toys & Games
+CUST000999,Nguyễn Văn An,annv861@hotmail.com,0368875123,33,Male,Vung Tau,2025-02-17,Beauty & Health
+CUST001000,Trần Thị Bình,binhtt533@hotmail.com,0952670321,33,Male,Vung Tau,2025-07-14,Food & Beverages

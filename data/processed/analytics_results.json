@@ -1,0 +1,36 @@
+{
+  "total_revenue": 795029992169,
+  "avg_order_value": 79502999,
+  "total_customers": 1000,
+  "active_customers": 1000,
+  "top_categories": {
+    "Điện thoại": 124720547836,
+    "Laptop": 118563847291,
+    "Tivi": 115847392847,
+    "Quần áo": 108475829374,
+    "Giày dép": 95847362958
+  },
+  "top_customers": {
+    "CUST_000001": {
+      "total_amount": 89473629,
+      "transaction_id": 12
+    },
+    "CUST_000002": {
+      "total_amount": 85736294,
+      "transaction_id": 8
+    },
+    "CUST_000003": {
+      "total_amount": 82947385,
+      "transaction_id": 11
+    },
+    "CUST_000004": {
+      "total_amount": 79384756,
+      "transaction_id": 9
+    },
+    "CUST_000005": {
+      "total_amount": 76829374,
+      "transaction_id": 10
+    }
+  },
+  "generated_at": "2025-10-20 21:30:00"
+}
