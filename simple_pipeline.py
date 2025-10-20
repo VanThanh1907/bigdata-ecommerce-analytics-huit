@@ -35,6 +35,25 @@ def setup_directories():
 
 def generate_sample_data():
     """Tạo dữ liệu mẫu đơn giản"""
+    
+    # Kiểm tra xem data đã tồn tại chưa
+    data_dir = os.path.join(project_root, 'data', 'sample')
+    customers_file = os.path.join(data_dir, 'customers.csv')
+    products_file = os.path.join(data_dir, 'products.csv')
+    transactions_file = os.path.join(data_dir, 'transactions.csv')
+    
+    if all(os.path.exists(f) for f in [customers_file, products_file, transactions_file]):
+        print("📋 Sample data already exists, loading existing data...")
+        customers_df = pd.read_csv(customers_file)
+        products_df = pd.read_csv(products_file)
+        transactions_df = pd.read_csv(transactions_file)
+        
+        print(f"✅ Loaded {len(customers_df)} customers")
+        print(f"✅ Loaded {len(products_df)} products")
+        print(f"✅ Loaded {len(transactions_df)} transactions")
+        
+        return customers_df, products_df, transactions_df
+    
     print("🔄 Generating sample data...")
     
     # Tạo customers
